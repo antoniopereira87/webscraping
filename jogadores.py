@@ -14,16 +14,17 @@ def grab_url(url):
 	table = page.find('table', class_='m-t-30')
 
 	for row in table.find_all('tr'):
-
-		nome = row.find('a')
-		if not nome: continue
+		nomes = row.find_all('a')
+		if not nomes or len(nomes) < 2: continue
+		nome, apelido = nomes[0], nomes[1]
 		nome = nome.contents[0].strip()
+		apelido = apelido.contents[0].strip()
 		clube = row.find('img')
 		if clube:
 			clube = clube['title'].strip()
 		else:
 			clube = None
-		pd_rows.append([nome, clube])
+		pd_rows.append([nome, apelido, clube])
 
 	prox = page.find_all(attrs={'rel': 'next'})
 	if not prox: return None
@@ -37,9 +38,9 @@ while url:
 	url = grab_url(url)
 	page += 1
 	
-	p = int(page/43*100)
+	p = int(page/45*100)
 	print(f'\r['+'#'*p+' '*(100-p)+']', end='')
 	
-df = pd.DataFrame(data=pd_rows, columns=['Nome', "Clube"])
+df = pd.DataFrame(data=pd_rows, columns=['Nome', 'Apelido', "Clube"])
 print(df)
 df.to_csv("jogadores.csv", index=False)

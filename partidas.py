@@ -21,7 +21,7 @@ def grab_url(numero):
 	mandante, visitante = pontos.strip().split('x')
 	ponto_visitante, visitante = visitante.split(' ', 1)
 	*mandante, ponto_mandante = mandante.split(' ')
-	mandante = ''.join(mandante)
+	mandante = ' '.join(mandante)
 	
 	if not ponto_visitante.isnumeric() or ponto_mandante.isnumeric():
 		row = (numero, mandante, visitante, None, None, lugar.strip(), data.strip())
