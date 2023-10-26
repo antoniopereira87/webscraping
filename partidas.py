@@ -34,7 +34,7 @@ def grab_url(numero):
 		pd_rows.append(row)
 		return row
 	
-	row = (numero, mandante, visitante, int(ponto_mandante), int(ponto_visitante), lugar.strip(), data.strip())
+	row = (numero//38+1, numero, mandante, visitante, int(ponto_mandante), int(ponto_visitante), lugar.strip(), data.strip())
 	pd_rows.append(row)
 	
 	return row
@@ -46,6 +46,6 @@ for i in range(1, 380):
 		print(row,sep=',', file=f)
 	
 	
-df = pd.DataFrame(data=pd_rows, columns=['Numero', 'Mandante', 'Visitante', "PontosMandante", "PontosVisitante", "Local", "Data"])
+df = pd.DataFrame(data=pd_rows, columns=['Rodada', 'Numero', 'Mandante', 'Visitante', "PontosMandante", "PontosVisitante", "Local", "Data"])
 print(df)
 df.to_csv("partidas.csv", index=False)

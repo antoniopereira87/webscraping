@@ -34,4 +34,4 @@ for table in soup.find_all('table'):
 	df = pd.DataFrame(data=pd_rows, columns=['Nome', "PTS", "J", "V", "E", "D", "GP", "GC", "SG", "CA", "CV", "%"])
 
 	print(df)
-	df.to_csv("jogos.csv")
+	df.to_csv("times.csv", index=False)

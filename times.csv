@@ -1,22 +1,21 @@
-nome,link
-America Saf - MG,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/59897
-Athletico Paranaense - PR,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/20052
-Atlético Mineiro - MG,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/20003
-Bahia - BA,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/61377
-Botafogo - RJ,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/60175
-Corinthians - SP,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/20001
-Coritiba S.a.f. - PR,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/61590
-Cruzeiro Saf - MG,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/59849
-Cuiabá Saf - MT,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/20800
-Esporte Clube Bahia - BA,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/20006
-Flamengo - RJ,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/20016
-Fluminense - RJ,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/20014
-Fortaleza - CE,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/20048
-Goiás - GO,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/20028
-Grêmio - RS,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/20013
-Internacional - RS,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/20011
-Palmeiras - SP,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/20002
-Red Bull Bragantino - SP,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/20007
-Santos - SP,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/20008
-São Paulo - SP,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/20005
-Vasco da Gama S.a.f. - RJ,https://www.cbf.com.br/futebol-brasileiro/times/campeonato-brasileiro-serie-a/2023/60646
+,Nome,PTS,J,V,E,D,GP,GC,SG,CA,CV,%
+0,Botafogo - RJ,59,28,18,5,5,45,18,27,70,5,70
+1,Red Bull Bragantino - SP,52,29,14,10,5,41,26,15,88,3,59
+2,Palmeiras - SP,50,29,14,8,7,47,24,23,83,4,57
+3,Flamengo - RJ,50,29,14,8,7,43,34,9,66,2,57
+4,Athletico Paranaense - PR,48,29,13,9,7,44,34,10,87,4,55
+5,Grêmio - RS,47,29,14,5,10,46,42,4,77,5,54
+6,Atlético Mineiro - MG,46,29,13,7,9,34,23,11,95,5,52
+7,Fluminense - RJ,45,29,13,6,10,42,38,4,100,10,51
+8,Fortaleza - CE,42,28,12,6,10,33,29,4,79,1,50
+9,São Paulo - SP,38,29,10,8,11,34,34,0,86,6,43
+10,Cuiabá Saf - MT,37,29,10,7,12,30,32,-2,78,3,42
+11,Cruzeiro Saf - MG,37,29,9,10,10,28,24,4,79,5,42
+12,Corinthians - SP,36,29,8,12,9,35,36,-1,72,1,41
+13,Internacional - RS,35,28,9,8,11,30,33,-3,87,5,41
+14,Bahia - BA,34,29,9,7,13,37,41,-4,73,4,39
+15,Goiás - GO,31,29,7,10,12,31,43,-12,84,8,35
+16,Vasco da Gama S.a.f. - RJ,30,28,8,6,14,28,39,-11,84,4,35
+17,Santos - SP,30,28,8,6,14,31,52,-21,85,8,35
+18,Coritiba S.a.f. - PR,20,28,5,5,18,29,59,-30,42,2,23
+19,America Saf - MG,19,29,4,7,18,33,60,-27,72,9,21
