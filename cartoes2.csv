@@ -1,0 +1,1605 @@
+NPartida,Clube,Cartao,Punido
+1,Flamengo - RJ,Y,253.0
+1,Flamengo - RJ,Y,294.0
+1,Flamengo - RJ,Y,
+2,Botafogo - RJ,Y,129.0
+2,Botafogo - RJ,Y,584.0
+2,Botafogo - RJ,Y,988.0
+2,São Paulo - SP,Y,443.0
+2,São Paulo - SP,Y,498.0
+3,Palmeiras - SP,Y,509.0
+3,Cuiabá Saf - MT,Y,499.0
+3,Cuiabá Saf - MT,Y,179.0
+3,Cuiabá Saf - MT,Y,709.0
+3,Cuiabá Saf - MT,R,282.0
+4,Corinthians - SP,Y,257.0
+4,Corinthians - SP,Y,258.0
+4,Corinthians - SP,Y,
+4,Corinthians - SP,Y,924.0
+4,Cruzeiro Saf - MG,Y,761.0
+4,Cruzeiro Saf - MG,Y,605.0
+4,Cruzeiro Saf - MG,Y,606.0
+5,Red Bull Bragantino - SP,Y,599.0
+5,Red Bull Bragantino - SP,Y,646.0
+5,Red Bull Bragantino - SP,Y,425.0
+6,Atlético Mineiro - MG,Y,149.0
+6,Atlético Mineiro - MG,Y,795.0
+6,Atlético Mineiro - MG,Y,335.0
+6,Atlético Mineiro - MG,Y,259.0
+6,Atlético Mineiro - MG,Y,880.0
+6,Atlético Mineiro - MG,Y,803.0
+6,Vasco da Gama S.a.f. - RJ,Y,
+6,Vasco da Gama S.a.f. - RJ,Y,
+6,Vasco da Gama S.a.f. - RJ,Y,
+6,Vasco da Gama S.a.f. - RJ,Y,305.0
+6,Vasco da Gama S.a.f. - RJ,Y,899.0
+7,Grêmio - RS,Y,
+7,Grêmio - RS,Y,1030.0
+7,Grêmio - RS,Y,
+7,Santos - SP,Y,195.0
+7,Santos - SP,Y,344.0
+7,Santos - SP,Y,1064.0
+7,Santos - SP,R,1064.0
+8,Athletico Paranaense - PR,Y,799.0
+8,Athletico Paranaense - PR,Y,831.0
+8,Goiás - GO,Y,89.0
+8,Goiás - GO,Y,90.0
+8,Goiás - GO,Y,97.0
+8,Goiás - GO,Y,98.0
+8,Goiás - GO,Y,
+8,Goiás - GO,Y,945.0
+9,Fortaleza - CE,Y,218.0
+9,Fortaleza - CE,Y,341.0
+9,Internacional - RS,Y,911.0
+10,America Saf - MG,Y,201.0
+10,America Saf - MG,Y,395.0
+10,America Saf - MG,Y,
+10,Fluminense - RJ,Y,1024.0
+10,Fluminense - RJ,Y,494.0
+11,Fluminense - RJ,Y,687.0
+11,Fluminense - RJ,Y,938.0
+11,Fluminense - RJ,Y,961.0
+11,Athletico Paranaense - PR,Y,228.0
+11,Athletico Paranaense - PR,Y,
+11,Athletico Paranaense - PR,Y,799.0
+12,Vasco da Gama S.a.f. - RJ,Y,630.0
+12,Vasco da Gama S.a.f. - RJ,Y,631.0
+12,Vasco da Gama S.a.f. - RJ,Y,
+12,Vasco da Gama S.a.f. - RJ,Y,305.0
+12,Vasco da Gama S.a.f. - RJ,Y,429.0
+12,Palmeiras - SP,Y,511.0
+12,Palmeiras - SP,Y,320.0
+12,Palmeiras - SP,Y,771.0
+13,São Paulo - SP,Y,858.0
+13,São Paulo - SP,Y,808.0
+13,São Paulo - SP,Y,800.0
+13,São Paulo - SP,Y,642.0
+13,São Paulo - SP,Y,691.0
+13,America Saf - MG,Y,201.0
+13,America Saf - MG,Y,236.0
+13,America Saf - MG,Y,625.0
+14,Santos - SP,Y,590.0
+14,Santos - SP,Y,195.0
+14,Santos - SP,Y,907.0
+14,Atlético Mineiro - MG,Y,795.0
+14,Atlético Mineiro - MG,Y,394.0
+14,Atlético Mineiro - MG,Y,695.0
+15,Goiás - GO,Y,623.0
+15,Goiás - GO,Y,89.0
+15,Goiás - GO,Y,90.0
+15,Goiás - GO,Y,97.0
+15,Goiás - GO,Y,98.0
+15,Goiás - GO,Y,
+15,Goiás - GO,Y,526.0
+15,Goiás - GO,Y,
+15,Corinthians - SP,Y,251.0
+15,Corinthians - SP,Y,258.0
+16,Cruzeiro Saf - MG,Y,
+16,Cruzeiro Saf - MG,Y,328.0
+16,Cruzeiro Saf - MG,Y,859.0
+16,Cruzeiro Saf - MG,Y,702.0
+16,Cruzeiro Saf - MG,R,605.0
+16,Cruzeiro Saf - MG,R,606.0
+16,Grêmio - RS,Y,1030.0
+16,Grêmio - RS,Y,645.0
+17,Internacional - RS,Y,756.0
+17,Internacional - RS,Y,354.0
+17,Internacional - RS,Y,364.0
+17,Internacional - RS,Y,1014.0
+17,Flamengo - RJ,Y,243.0
+18,Fortaleza - CE,Y,218.0
+18,Fortaleza - CE,Y,121.0
+19,Botafogo - RJ,Y,284.0
+19,Botafogo - RJ,Y,584.0
+20,Cuiabá Saf - MT,Y,175.0
+20,Cuiabá Saf - MT,Y,
+20,Cuiabá Saf - MT,Y,697.0
+20,Red Bull Bragantino - SP,Y,967.0
+20,Red Bull Bragantino - SP,Y,382.0
+20,Red Bull Bragantino - SP,Y,646.0
+21,Flamengo - RJ,Y,294.0
+21,Flamengo - RJ,Y,
+21,Flamengo - RJ,Y,172.0
+21,Flamengo - RJ,Y,966.0
+21,Botafogo - RJ,Y,988.0
+21,Botafogo - RJ,Y,284.0
+21,Botafogo - RJ,R,852.0
+22,Vasco da Gama S.a.f. - RJ,Y,
+23,Palmeiras - SP,Y,762.0
+23,Palmeiras - SP,Y,
+23,Palmeiras - SP,Y,493.0
+23,Corinthians - SP,Y,334.0
+23,Corinthians - SP,Y,
+23,Corinthians - SP,Y,
+24,Santos - SP,Y,
+24,Santos - SP,Y,195.0
+24,Santos - SP,Y,907.0
+24,Santos - SP,R,
+24,America Saf - MG,Y,30.0
+24,America Saf - MG,Y,201.0
+24,America Saf - MG,Y,395.0
+24,America Saf - MG,Y,236.0
+25,Red Bull Bragantino - SP,Y,967.0
+25,Red Bull Bragantino - SP,Y,376.0
+25,Red Bull Bragantino - SP,R,4.0
+25,Cruzeiro Saf - MG,Y,641.0
+25,Cruzeiro Saf - MG,Y,859.0
+25,Cruzeiro Saf - MG,Y,388.0
+26,Atlético Mineiro - MG,Y,238.0
+26,Atlético Mineiro - MG,Y,803.0
+26,Athletico Paranaense - PR,Y,27.0
+26,Athletico Paranaense - PR,R,27.0
+27,Internacional - RS,Y,309.0
+27,Internacional - RS,Y,133.0
+27,Internacional - RS,Y,18.0
+27,Internacional - RS,Y,
+27,Goiás - GO,R,671.0
+28,São Paulo - SP,Y,765.0
+29,Fluminense - RJ,Y,
+29,Fluminense - RJ,Y,687.0
+29,Fluminense - RJ,Y,494.0
+30,Cuiabá Saf - MT,Y,179.0
+30,Cuiabá Saf - MT,Y,861.0
+30,Cuiabá Saf - MT,Y,920.0
+30,Cuiabá Saf - MT,Y,923.0
+30,Cuiabá Saf - MT,R,419.0
+30,Grêmio - RS,Y,95.0
+30,Grêmio - RS,Y,
+30,Grêmio - RS,Y,1030.0
+30,Grêmio - RS,Y,
+30,Grêmio - RS,Y,614.0
+31,Fluminense - RJ,Y,55.0
+31,Fluminense - RJ,Y,272.0
+31,Fluminense - RJ,Y,494.0
+31,Vasco da Gama S.a.f. - RJ,Y,570.0
+31,Vasco da Gama S.a.f. - RJ,Y,621.0
+31,Vasco da Gama S.a.f. - RJ,Y,
+32,Botafogo - RJ,Y,620.0
+32,Botafogo - RJ,Y,622.0
+32,Atlético Mineiro - MG,Y,903.0
+32,Atlético Mineiro - MG,Y,803.0
+32,Atlético Mineiro - MG,Y,931.0
+33,São Paulo - SP,Y,684.0
+33,São Paulo - SP,Y,312.0
+33,São Paulo - SP,Y,1038.0
+33,Internacional - RS,Y,911.0
+33,Internacional - RS,Y,756.0
+33,Internacional - RS,Y,309.0
+33,Internacional - RS,Y,638.0
+34,Corinthians - SP,Y,258.0
+34,Corinthians - SP,Y,
+34,Fortaleza - CE,Y,947.0
+34,Fortaleza - CE,Y,93.0
+35,Goiás - GO,Y,423.0
+35,Goiás - GO,Y,89.0
+35,Goiás - GO,Y,90.0
+35,Goiás - GO,Y,97.0
+35,Goiás - GO,Y,98.0
+35,Goiás - GO,R,623.0
+35,Palmeiras - SP,Y,862.0
+35,Palmeiras - SP,Y,223.0
+35,Palmeiras - SP,Y,366.0
+35,Palmeiras - SP,Y,762.0
+35,Palmeiras - SP,Y,493.0
+35,Palmeiras - SP,Y,511.0
+36,Cruzeiro Saf - MG,Y,1053.0
+36,Cruzeiro Saf - MG,Y,605.0
+36,Cruzeiro Saf - MG,Y,606.0
+36,Cruzeiro Saf - MG,Y,
+36,Cruzeiro Saf - MG,Y,
+36,Cruzeiro Saf - MG,Y,859.0
+36,Santos - SP,Y,632.0
+36,Santos - SP,Y,301.0
+36,Santos - SP,Y,907.0
+37,Grêmio - RS,Y,107.0
+37,Grêmio - RS,Y,
+37,Grêmio - RS,Y,240.0
+37,Grêmio - RS,Y,361.0
+37,Grêmio - RS,Y,778.0
+37,Grêmio - RS,Y,782.0
+37,Red Bull Bragantino - SP,Y,730.0
+37,Red Bull Bragantino - SP,Y,1021.0
+38,Athletico Paranaense - PR,Y,277.0
+38,Athletico Paranaense - PR,Y,228.0
+38,Flamengo - RJ,Y,294.0
+38,Flamengo - RJ,Y,227.0
+39,Bahia - BA,Y,317.0
+39,Bahia - BA,Y,287.0
+40,America Saf - MG,Y,
+40,America Saf - MG,Y,30.0
+40,America Saf - MG,Y,700.0
+40,America Saf - MG,R,731.0
+40,Cuiabá Saf - MT,Y,709.0
+40,Cuiabá Saf - MT,Y,
+40,Cuiabá Saf - MT,Y,920.0
+40,Cuiabá Saf - MT,Y,923.0
+40,Cuiabá Saf - MT,Y,19.0
+41,Goiás - GO,Y,1007.0
+41,Goiás - GO,Y,1008.0
+42,Botafogo - RJ,Y,988.0
+42,Corinthians - SP,Y,251.0
+42,Corinthians - SP,Y,132.0
+43,Palmeiras - SP,Y,493.0
+43,Palmeiras - SP,Y,511.0
+43,Grêmio - RS,Y,307.0
+43,Grêmio - RS,Y,748.0
+43,Grêmio - RS,Y,107.0
+43,Grêmio - RS,Y,1030.0
+44,Santos - SP,Y,603.0
+44,Santos - SP,Y,632.0
+44,Santos - SP,Y,
+44,Bahia - BA,Y,785.0
+44,Bahia - BA,Y,987.0
+44,Bahia - BA,Y,787.0
+44,Bahia - BA,Y,
+45,Red Bull Bragantino - SP,Y,425.0
+45,Red Bull Bragantino - SP,Y,1021.0
+45,Red Bull Bragantino - SP,Y,209.0
+45,Red Bull Bragantino - SP,Y,206.0
+45,Red Bull Bragantino - SP,Y,967.0
+45,America Saf - MG,Y,201.0
+45,America Saf - MG,Y,236.0
+45,America Saf - MG,Y,683.0
+46,Cruzeiro Saf - MG,Y,1048.0
+46,Fluminense - RJ,Y,249.0
+46,Fluminense - RJ,Y,673.0
+46,Fluminense - RJ,Y,681.0
+46,Fluminense - RJ,Y,961.0
+46,Fluminense - RJ,Y,55.0
+46,Fluminense - RJ,R,55.0
+47,Internacional - RS,Y,405.0
+47,Internacional - RS,Y,300.0
+47,Athletico Paranaense - PR,Y,78.0
+47,Athletico Paranaense - PR,Y,393.0
+47,Athletico Paranaense - PR,Y,831.0
+47,Athletico Paranaense - PR,Y,1016.0
+48,Vasco da Gama S.a.f. - RJ,Y,
+49,Fortaleza - CE,Y,336.0
+49,Fortaleza - CE,R,218.0
+49,São Paulo - SP,Y,312.0
+49,São Paulo - SP,Y,858.0
+49,São Paulo - SP,Y,38.0
+49,São Paulo - SP,R,912.0
+50,Cuiabá Saf - MT,Y,697.0
+50,Atlético Mineiro - MG,Y,210.0
+50,Atlético Mineiro - MG,Y,259.0
+51,Fluminense - RJ,Y,332.0
+51,Fluminense - RJ,Y,445.0
+51,Fluminense - RJ,Y,145.0
+51,Cuiabá Saf - MT,Y,1031.0
+51,Cuiabá Saf - MT,Y,718.0
+51,Cuiabá Saf - MT,Y,175.0
+51,Cuiabá Saf - MT,Y,709.0
+52,Vasco da Gama S.a.f. - RJ,Y,508.0
+52,Vasco da Gama S.a.f. - RJ,Y,899.0
+52,Vasco da Gama S.a.f. - RJ,Y,582.0
+52,Vasco da Gama S.a.f. - RJ,Y,229.0
+52,Santos - SP,Y,
+53,Palmeiras - SP,Y,366.0
+53,Red Bull Bragantino - SP,Y,148.0
+53,Red Bull Bragantino - SP,Y,23.0
+53,Red Bull Bragantino - SP,Y,226.0
+53,Red Bull Bragantino - SP,Y,646.0
+54,Corinthians - SP,Y,257.0
+54,Corinthians - SP,Y,132.0
+54,São Paulo - SP,Y,115.0
+54,São Paulo - SP,Y,642.0
+54,São Paulo - SP,Y,684.0
+54,São Paulo - SP,Y,626.0
+55,Goiás - GO,Y,623.0
+55,Goiás - GO,Y,1056.0
+55,Goiás - GO,Y,
+55,Goiás - GO,Y,1007.0
+55,Goiás - GO,Y,1008.0
+55,Goiás - GO,Y,
+55,Goiás - GO,Y,671.0
+55,Botafogo - RJ,Y,278.0
+55,Botafogo - RJ,Y,9.0
+55,Botafogo - RJ,Y,
+56,Atlético Mineiro - MG,Y,441.0
+56,Atlético Mineiro - MG,Y,149.0
+56,Internacional - RS,Y,789.0
+56,Internacional - RS,Y,919.0
+56,Internacional - RS,Y,
+57,Grêmio - RS,Y,748.0
+57,Grêmio - RS,Y,869.0
+57,Grêmio - RS,Y,1030.0
+57,Fortaleza - CE,Y,
+57,Fortaleza - CE,Y,142.0
+57,Fortaleza - CE,Y,121.0
+57,Fortaleza - CE,Y,628.0
+58,Athletico Paranaense - PR,Y,275.0
+58,Athletico Paranaense - PR,Y,277.0
+58,Athletico Paranaense - PR,Y,1016.0
+59,Bahia - BA,Y,1019.0
+59,Bahia - BA,Y,2.0
+59,Bahia - BA,Y,1058.0
+59,Bahia - BA,R,987.0
+59,Bahia - BA,R,529.0
+59,Flamengo - RJ,Y,
+59,Flamengo - RJ,Y,253.0
+59,Flamengo - RJ,Y,581.0
+59,Flamengo - RJ,Y,329.0
+59,Flamengo - RJ,Y,75.0
+60,America Saf - MG,Y,886.0
+60,America Saf - MG,Y,46.0
+61,Corinthians - SP,Y,137.0
+61,Corinthians - SP,Y,105.0
+62,Botafogo - RJ,Y,129.0
+62,Botafogo - RJ,Y,278.0
+62,Botafogo - RJ,Y,284.0
+62,Botafogo - RJ,Y,988.0
+62,Fluminense - RJ,Y,561.0
+62,Fluminense - RJ,Y,682.0
+63,Vasco da Gama S.a.f. - RJ,Y,429.0
+63,Vasco da Gama S.a.f. - RJ,Y,139.0
+63,Vasco da Gama S.a.f. - RJ,Y,621.0
+63,Vasco da Gama S.a.f. - RJ,Y,
+64,Santos - SP,Y,
+64,Santos - SP,Y,
+64,Santos - SP,Y,195.0
+64,Palmeiras - SP,Y,862.0
+65,Red Bull Bragantino - SP,Y,148.0
+65,Red Bull Bragantino - SP,Y,206.0
+65,Red Bull Bragantino - SP,Y,425.0
+65,Athletico Paranaense - PR,Y,670.0
+65,Athletico Paranaense - PR,Y,13.0
+65,Athletico Paranaense - PR,Y,962.0
+66,Cruzeiro Saf - MG,Y,328.0
+66,Cuiabá Saf - MT,Y,1036.0
+66,Cuiabá Saf - MT,Y,281.0
+66,Cuiabá Saf - MT,Y,175.0
+67,Grêmio - RS,R,1030.0
+67,Internacional - RS,Y,354.0
+67,Internacional - RS,Y,364.0
+68,Atlético Mineiro - MG,Y,335.0
+68,Atlético Mineiro - MG,Y,210.0
+68,Atlético Mineiro - MG,Y,410.0
+68,Atlético Mineiro - MG,Y,394.0
+68,Atlético Mineiro - MG,Y,804.0
+68,Atlético Mineiro - MG,Y,880.0
+68,Atlético Mineiro - MG,R,803.0
+69,Bahia - BA,Y,933.0
+69,Goiás - GO,Y,24.0
+69,Goiás - GO,Y,
+69,Goiás - GO,Y,671.0
+70,America Saf - MG,Y,875.0
+70,America Saf - MG,Y,164.0
+70,America Saf - MG,Y,625.0
+70,America Saf - MG,Y,683.0
+70,Fortaleza - CE,Y,
+70,Fortaleza - CE,Y,
+71,Flamengo - RJ,Y,75.0
+71,Flamengo - RJ,Y,294.0
+71,Flamengo - RJ,Y,966.0
+71,Flamengo - RJ,Y,325.0
+71,Cruzeiro Saf - MG,Y,847.0
+71,Cruzeiro Saf - MG,Y,
+71,Cruzeiro Saf - MG,Y,1053.0
+71,Cruzeiro Saf - MG,Y,737.0
+71,Cruzeiro Saf - MG,Y,1048.0
+72,Botafogo - RJ,Y,278.0
+72,Botafogo - RJ,Y,988.0
+72,America Saf - MG,Y,875.0
+72,America Saf - MG,Y,395.0
+72,America Saf - MG,Y,683.0
+73,São Paulo - SP,Y,16.0
+73,São Paulo - SP,Y,1038.0
+73,Goiás - GO,Y,89.0
+73,Goiás - GO,Y,90.0
+73,Goiás - GO,Y,97.0
+73,Goiás - GO,Y,98.0
+73,Goiás - GO,Y,423.0
+73,Goiás - GO,Y,
+73,Goiás - GO,Y,623.0
+74,Corinthians - SP,Y,137.0
+74,Corinthians - SP,Y,258.0
+74,Corinthians - SP,Y,741.0
+74,Corinthians - SP,Y,132.0
+74,Fluminense - RJ,Y,272.0
+74,Fluminense - RJ,Y,938.0
+75,Red Bull Bragantino - SP,Y,376.0
+75,Red Bull Bragantino - SP,Y,730.0
+75,Santos - SP,Y,
+76,Atlético Mineiro - MG,Y,149.0
+76,Atlético Mineiro - MG,Y,259.0
+76,Atlético Mineiro - MG,Y,
+76,Palmeiras - SP,Y,981.0
+76,Palmeiras - SP,Y,862.0
+76,Palmeiras - SP,Y,320.0
+77,Internacional - RS,Y,354.0
+77,Internacional - RS,Y,364.0
+77,Bahia - BA,Y,237.0
+77,Bahia - BA,Y,933.0
+78,Athletico Paranaense - PR,Y,964.0
+78,Athletico Paranaense - PR,Y,1016.0
+78,Grêmio - RS,Y,
+78,Grêmio - RS,Y,53.0
+78,Grêmio - RS,Y,869.0
+78,Grêmio - RS,Y,361.0
+79,Fortaleza - CE,Y,478.0
+79,Fortaleza - CE,Y,336.0
+79,Fortaleza - CE,Y,383.0
+79,Vasco da Gama S.a.f. - RJ,Y,674.0
+80,Cuiabá Saf - MT,Y,861.0
+80,Cuiabá Saf - MT,Y,19.0
+80,Cuiabá Saf - MT,Y,419.0
+81,Fluminense - RJ,Y,272.0
+81,Fluminense - RJ,Y,810.0
+81,Fluminense - RJ,Y,938.0
+81,Fluminense - RJ,Y,1003.0
+81,Fluminense - RJ,Y,682.0
+81,Red Bull Bragantino - SP,Y,594.0
+81,Red Bull Bragantino - SP,Y,730.0
+82,Vasco da Gama S.a.f. - RJ,Y,674.0
+82,Vasco da Gama S.a.f. - RJ,Y,28.0
+83,Palmeiras - SP,Y,447.0
+83,Palmeiras - SP,Y,366.0
+83,Palmeiras - SP,Y,591.0
+83,Palmeiras - SP,Y,511.0
+84,Santos - SP,Y,907.0
+84,Santos - SP,Y,492.0
+84,Internacional - RS,Y,789.0
+84,Internacional - RS,Y,18.0
+84,Internacional - RS,Y,435.0
+84,Internacional - RS,Y,458.0
+85,Goiás - GO,Y,671.0
+85,Goiás - GO,Y,343.0
+85,Cuiabá Saf - MT,Y,718.0
+85,Cuiabá Saf - MT,Y,697.0
+85,Cuiabá Saf - MT,Y,861.0
+86,Cruzeiro Saf - MG,Y,641.0
+86,Cruzeiro Saf - MG,Y,388.0
+86,Cruzeiro Saf - MG,Y,737.0
+86,Cruzeiro Saf - MG,Y,
+86,Atlético Mineiro - MG,Y,238.0
+86,Atlético Mineiro - MG,Y,795.0
+86,Atlético Mineiro - MG,Y,335.0
+86,Atlético Mineiro - MG,Y,394.0
+86,Atlético Mineiro - MG,Y,880.0
+87,Grêmio - RS,Y,869.0
+87,Grêmio - RS,Y,614.0
+87,São Paulo - SP,Y,16.0
+88,Athletico Paranaense - PR,Y,831.0
+88,Athletico Paranaense - PR,Y,
+88,Athletico Paranaense - PR,Y,27.0
+88,Botafogo - RJ,Y,
+88,Botafogo - RJ,Y,852.0
+89,Fortaleza - CE,Y,1004.0
+89,Fortaleza - CE,Y,142.0
+89,Bahia - BA,Y,237.0
+89,Bahia - BA,Y,785.0
+89,Bahia - BA,Y,787.0
+90,America Saf - MG,Y,5.0
+91,Grêmio - RS,Y,645.0
+91,Grêmio - RS,Y,1030.0
+91,Grêmio - RS,Y,107.0
+92,Botafogo - RJ,Y,284.0
+92,Botafogo - RJ,Y,852.0
+92,Botafogo - RJ,Y,129.0
+92,Fortaleza - CE,Y,963.0
+92,Fortaleza - CE,Y,112.0
+92,Fortaleza - CE,Y,518.0
+93,São Paulo - SP,Y,910.0
+93,São Paulo - SP,Y,169.0
+93,São Paulo - SP,R,800.0
+93,Palmeiras - SP,Y,72.0
+94,Corinthians - SP,Y,760.0
+94,Corinthians - SP,Y,927.0
+94,Cuiabá Saf - MT,Y,281.0
+94,Cuiabá Saf - MT,Y,175.0
+94,Cuiabá Saf - MT,Y,179.0
+95,Goiás - GO,Y,1056.0
+95,Goiás - GO,Y,343.0
+95,Goiás - GO,Y,
+95,Fluminense - RJ,Y,249.0
+95,Fluminense - RJ,Y,324.0
+95,Fluminense - RJ,Y,168.0
+96,Atlético Mineiro - MG,Y,695.0
+96,Atlético Mineiro - MG,Y,803.0
+96,Red Bull Bragantino - SP,Y,148.0
+96,Red Bull Bragantino - SP,Y,578.0
+96,Red Bull Bragantino - SP,Y,619.0
+97,Internacional - RS,Y,726.0
+97,Internacional - RS,Y,911.0
+97,Vasco da Gama S.a.f. - RJ,Y,630.0
+97,Vasco da Gama S.a.f. - RJ,Y,631.0
+97,Vasco da Gama S.a.f. - RJ,Y,429.0
+97,Vasco da Gama S.a.f. - RJ,Y,899.0
+98,Santos - SP,R,344.0
+99,Bahia - BA,Y,
+99,Bahia - BA,Y,933.0
+99,Bahia - BA,Y,529.0
+99,Bahia - BA,Y,987.0
+99,Cruzeiro Saf - MG,Y,
+100,America Saf - MG,Y,46.0
+100,America Saf - MG,Y,683.0
+100,Athletico Paranaense - PR,Y,78.0
+100,Athletico Paranaense - PR,Y,1022.0
+100,Athletico Paranaense - PR,Y,228.0
+100,Athletico Paranaense - PR,Y,13.0
+101,Fluminense - RJ,Y,55.0
+101,Fluminense - RJ,Y,494.0
+101,Atlético Mineiro - MG,Y,335.0
+101,Atlético Mineiro - MG,Y,339.0
+101,Atlético Mineiro - MG,Y,903.0
+101,Atlético Mineiro - MG,Y,394.0
+102,Vasco da Gama S.a.f. - RJ,Y,708.0
+102,Vasco da Gama S.a.f. - RJ,Y,
+102,Goiás - GO,Y,662.0
+102,Goiás - GO,Y,242.0
+102,Goiás - GO,Y,1056.0
+103,São Paulo - SP,Y,115.0
+103,São Paulo - SP,Y,312.0
+103,São Paulo - SP,Y,498.0
+103,Athletico Paranaense - PR,Y,964.0
+103,Athletico Paranaense - PR,Y,27.0
+104,Santos - SP,Y,195.0
+104,Santos - SP,Y,907.0
+104,Corinthians - SP,Y,257.0
+104,Corinthians - SP,Y,350.0
+104,Corinthians - SP,Y,741.0
+104,Corinthians - SP,Y,1068.0
+106,Cruzeiro Saf - MG,Y,641.0
+106,Cruzeiro Saf - MG,Y,702.0
+106,Cruzeiro Saf - MG,Y,666.0
+106,Cruzeiro Saf - MG,Y,
+106,Fortaleza - CE,Y,518.0
+106,Fortaleza - CE,Y,112.0
+106,Fortaleza - CE,Y,218.0
+106,Fortaleza - CE,Y,341.0
+107,America Saf - MG,Y,714.0
+107,America Saf - MG,Y,717.0
+107,America Saf - MG,R,201.0
+108,Internacional - RS,Y,
+108,Internacional - RS,Y,309.0
+108,Internacional - RS,Y,878.0
+108,Internacional - RS,Y,354.0
+108,Internacional - RS,Y,364.0
+109,Bahia - BA,Y,
+109,Bahia - BA,Y,993.0
+109,Bahia - BA,Y,237.0
+109,Palmeiras - SP,Y,320.0
+109,Palmeiras - SP,Y,223.0
+109,Palmeiras - SP,Y,85.0
+110,Cuiabá Saf - MT,Y,282.0
+110,Cuiabá Saf - MT,Y,718.0
+110,Botafogo - RJ,Y,485.0
+110,Botafogo - RJ,Y,391.0
+111,Fluminense - RJ,Y,938.0
+111,Fluminense - RJ,R,682.0
+112,Vasco da Gama S.a.f. - RJ,Y,
+112,Vasco da Gama S.a.f. - RJ,Y,868.0
+112,Vasco da Gama S.a.f. - RJ,Y,305.0
+112,Vasco da Gama S.a.f. - RJ,Y,429.0
+112,Vasco da Gama S.a.f. - RJ,Y,504.0
+112,Cuiabá Saf - MT,Y,281.0
+112,Cuiabá Saf - MT,Y,19.0
+112,Cuiabá Saf - MT,Y,175.0
+113,Botafogo - RJ,Y,744.0
+113,Botafogo - RJ,Y,162.0
+113,Botafogo - RJ,Y,161.0
+114,Santos - SP,Y,590.0
+114,Santos - SP,Y,
+114,Flamengo - RJ,Y,227.0
+115,Red Bull Bragantino - SP,Y,1021.0
+115,Red Bull Bragantino - SP,Y,425.0
+115,Goiás - GO,Y,671.0
+115,Goiás - GO,Y,89.0
+115,Goiás - GO,Y,90.0
+115,Goiás - GO,Y,97.0
+115,Goiás - GO,Y,98.0
+116,Cruzeiro Saf - MG,Y,
+116,São Paulo - SP,Y,169.0
+116,São Paulo - SP,Y,912.0
+116,São Paulo - SP,Y,910.0
+117,Grêmio - RS,Y,869.0
+117,Grêmio - RS,Y,268.0
+118,Athletico Paranaense - PR,Y,78.0
+118,Athletico Paranaense - PR,Y,670.0
+118,Athletico Paranaense - PR,Y,1022.0
+118,Athletico Paranaense - PR,Y,277.0
+118,Corinthians - SP,Y,132.0
+118,Corinthians - SP,Y,251.0
+119,Fortaleza - CE,Y,142.0
+119,Atlético Mineiro - MG,Y,94.0
+119,Atlético Mineiro - MG,R,880.0
+120,America Saf - MG,Y,164.0
+120,Internacional - RS,Y,789.0
+121,Flamengo - RJ,Y,104.0
+121,Flamengo - RJ,Y,227.0
+122,Botafogo - RJ,Y,9.0
+122,Botafogo - RJ,Y,749.0
+122,Vasco da Gama S.a.f. - RJ,Y,899.0
+122,Vasco da Gama S.a.f. - RJ,Y,630.0
+122,Vasco da Gama S.a.f. - RJ,Y,631.0
+122,Vasco da Gama S.a.f. - RJ,Y,582.0
+122,Vasco da Gama S.a.f. - RJ,Y,868.0
+122,Vasco da Gama S.a.f. - RJ,Y,597.0
+123,São Paulo - SP,Y,808.0
+123,São Paulo - SP,Y,312.0
+123,Fluminense - RJ,Y,445.0
+123,Fluminense - RJ,Y,272.0
+123,Fluminense - RJ,R,445.0
+124,Corinthians - SP,Y,257.0
+124,Corinthians - SP,Y,316.0
+124,Corinthians - SP,Y,1047.0
+124,Red Bull Bragantino - SP,Y,694.0
+124,Red Bull Bragantino - SP,Y,209.0
+125,Goiás - GO,Y,671.0
+125,Goiás - GO,Y,89.0
+125,Goiás - GO,Y,90.0
+125,Goiás - GO,Y,97.0
+125,Goiás - GO,Y,98.0
+125,Goiás - GO,Y,
+125,Goiás - GO,Y,24.0
+125,Goiás - GO,Y,526.0
+126,Atlético Mineiro - MG,Y,17.0
+126,Atlético Mineiro - MG,R,335.0
+126,America Saf - MG,Y,46.0
+126,America Saf - MG,Y,706.0
+127,Internacional - RS,Y,256.0
+127,Internacional - RS,Y,458.0
+127,Internacional - RS,Y,878.0
+127,Internacional - RS,Y,1014.0
+127,Internacional - RS,Y,309.0
+127,Internacional - RS,Y,18.0
+127,Cruzeiro Saf - MG,Y,702.0
+127,Cruzeiro Saf - MG,Y,106.0
+127,Cruzeiro Saf - MG,R,605.0
+127,Cruzeiro Saf - MG,R,606.0
+128,Athletico Paranaense - PR,Y,670.0
+128,Athletico Paranaense - PR,Y,1022.0
+128,Athletico Paranaense - PR,Y,1016.0
+128,Athletico Paranaense - PR,Y,
+128,Palmeiras - SP,R,356.0
+129,Bahia - BA,Y,785.0
+129,Bahia - BA,Y,955.0
+129,Bahia - BA,Y,787.0
+129,Grêmio - RS,Y,471.0
+129,Grêmio - RS,Y,472.0
+129,Grêmio - RS,Y,1030.0
+130,Santos - SP,Y,301.0
+130,Santos - SP,Y,763.0
+131,Fluminense - RJ,Y,324.0
+131,Fluminense - RJ,Y,687.0
+131,Internacional - RS,Y,309.0
+131,Internacional - RS,Y,133.0
+131,Internacional - RS,Y,354.0
+131,Internacional - RS,Y,364.0
+132,Vasco da Gama S.a.f. - RJ,Y,674.0
+132,Vasco da Gama S.a.f. - RJ,Y,708.0
+132,Cruzeiro Saf - MG,Y,897.0
+132,Cruzeiro Saf - MG,Y,1053.0
+132,Cruzeiro Saf - MG,Y,532.0
+133,Palmeiras - SP,Y,890.0
+133,Palmeiras - SP,Y,762.0
+133,Flamengo - RJ,Y,253.0
+133,Flamengo - RJ,Y,986.0
+133,Flamengo - RJ,Y,75.0
+134,Santos - SP,Y,466.0
+134,Santos - SP,Y,590.0
+134,Santos - SP,Y,907.0
+134,Santos - SP,Y,940.0
+134,Santos - SP,Y,689.0
+134,Santos - SP,Y,99.0
+134,Goiás - GO,Y,
+134,Goiás - GO,Y,651.0
+134,Goiás - GO,R,343.0
+135,Red Bull Bragantino - SP,Y,646.0
+135,Red Bull Bragantino - SP,Y,1021.0
+135,São Paulo - SP,Y,780.0
+135,São Paulo - SP,Y,691.0
+136,Atlético Mineiro - MG,Y,903.0
+136,Atlético Mineiro - MG,Y,441.0
+136,Atlético Mineiro - MG,Y,695.0
+136,Corinthians - SP,Y,
+136,Corinthians - SP,Y,
+137,Grêmio - RS,Y,649.0
+137,Grêmio - RS,Y,869.0
+137,Botafogo - RJ,Y,391.0
+137,Botafogo - RJ,Y,278.0
+137,Botafogo - RJ,Y,162.0
+137,Botafogo - RJ,Y,284.0
+138,Coritiba S.a.f. - PR,Y,595.0
+138,Coritiba S.a.f. - PR,Y,377.0
+138,Coritiba S.a.f. - PR,Y,905.0
+138,Coritiba S.a.f. - PR,Y,534.0
+138,Coritiba S.a.f. - PR,Y,
+138,America Saf - MG,Y,562.0
+138,America Saf - MG,Y,625.0
+138,America Saf - MG,Y,236.0
+139,Fortaleza - CE,Y,218.0
+139,Fortaleza - CE,Y,963.0
+139,Fortaleza - CE,Y,696.0
+139,Athletico Paranaense - PR,Y,393.0
+139,Athletico Paranaense - PR,Y,1001.0
+139,Athletico Paranaense - PR,Y,677.0
+140,Cuiabá Saf - MT,Y,499.0
+140,Bahia - BA,Y,311.0
+140,Bahia - BA,Y,52.0
+140,Bahia - BA,Y,787.0
+141,Fluminense - RJ,Y,1003.0
+141,Fluminense - RJ,Y,55.0
+141,Fluminense - RJ,Y,272.0
+141,Fluminense - RJ,Y,494.0
+141,Fluminense - RJ,Y,324.0
+141,Fluminense - RJ,Y,810.0
+141,Flamengo - RJ,Y,239.0
+141,Flamengo - RJ,Y,294.0
+141,Flamengo - RJ,Y,283.0
+141,Flamengo - RJ,Y,
+141,Flamengo - RJ,Y,966.0
+141,Flamengo - RJ,R,661.0
+142,Botafogo - RJ,Y,988.0
+142,Red Bull Bragantino - SP,Y,1021.0
+143,São Paulo - SP,Y,38.0
+143,São Paulo - SP,Y,169.0
+143,São Paulo - SP,Y,765.0
+143,Santos - SP,Y,492.0
+143,Santos - SP,Y,495.0
+143,Santos - SP,Y,763.0
+143,Santos - SP,Y,940.0
+144,Corinthians - SP,Y,251.0
+144,Grêmio - RS,Y,1030.0
+145,Goiás - GO,Y,479.0
+145,Goiás - GO,Y,185.0
+145,Goiás - GO,Y,623.0
+145,Goiás - GO,Y,89.0
+145,Goiás - GO,Y,90.0
+145,Goiás - GO,Y,97.0
+145,Goiás - GO,Y,98.0
+145,Goiás - GO,Y,44.0
+145,Atlético Mineiro - MG,Y,20.0
+145,Atlético Mineiro - MG,Y,441.0
+145,Atlético Mineiro - MG,Y,210.0
+145,Atlético Mineiro - MG,Y,409.0
+145,Atlético Mineiro - MG,R,339.0
+146,Cruzeiro Saf - MG,Y,388.0
+146,Coritiba S.a.f. - PR,Y,77.0
+146,Coritiba S.a.f. - PR,Y,151.0
+146,Coritiba S.a.f. - PR,Y,430.0
+146,Coritiba S.a.f. - PR,Y,437.0
+147,Internacional - RS,Y,1014.0
+147,Palmeiras - SP,Y,509.0
+147,Palmeiras - SP,Y,320.0
+147,Palmeiras - SP,Y,366.0
+148,Athletico Paranaense - PR,Y,964.0
+148,Athletico Paranaense - PR,Y,
+148,Bahia - BA,Y,237.0
+149,Fortaleza - CE,Y,678.0
+149,Fortaleza - CE,Y,93.0
+149,Fortaleza - CE,Y,112.0
+149,Fortaleza - CE,Y,218.0
+149,Fortaleza - CE,Y,963.0
+149,Cuiabá Saf - MT,Y,
+149,Cuiabá Saf - MT,Y,
+149,Cuiabá Saf - MT,Y,179.0
+149,Cuiabá Saf - MT,Y,146.0
+150,America Saf - MG,Y,262.0
+150,America Saf - MG,Y,562.0
+150,America Saf - MG,Y,793.0
+150,America Saf - MG,R,262.0
+150,America Saf - MG,R,395.0
+150,Vasco da Gama S.a.f. - RJ,Y,630.0
+150,Vasco da Gama S.a.f. - RJ,Y,631.0
+150,Vasco da Gama S.a.f. - RJ,Y,942.0
+151,Flamengo - RJ,Y,75.0
+151,Flamengo - RJ,Y,329.0
+151,America Saf - MG,Y,395.0
+151,America Saf - MG,Y,157.0
+151,America Saf - MG,Y,706.0
+151,America Saf - MG,Y,812.0
+152,Vasco da Gama S.a.f. - RJ,Y,429.0
+152,Vasco da Gama S.a.f. - RJ,Y,516.0
+152,Athletico Paranaense - PR,Y,
+152,Athletico Paranaense - PR,Y,601.0
+152,Athletico Paranaense - PR,Y,277.0
+152,Athletico Paranaense - PR,R,
+153,Palmeiras - SP,Y,1051.0
+153,Palmeiras - SP,Y,511.0
+153,Palmeiras - SP,Y,493.0
+153,Fortaleza - CE,Y,142.0
+153,Fortaleza - CE,Y,678.0
+153,Fortaleza - CE,Y,518.0
+153,Fortaleza - CE,Y,218.0
+153,Fortaleza - CE,Y,628.0
+153,Fortaleza - CE,Y,947.0
+154,Santos - SP,Y,438.0
+154,Santos - SP,Y,457.0
+154,Santos - SP,Y,463.0
+154,Santos - SP,Y,25.0
+154,Botafogo - RJ,Y,278.0
+154,Botafogo - RJ,Y,9.0
+154,Botafogo - RJ,Y,749.0
+155,Red Bull Bragantino - SP,Y,502.0
+155,Red Bull Bragantino - SP,Y,583.0
+155,Red Bull Bragantino - SP,Y,
+155,Internacional - RS,Y,18.0
+155,Internacional - RS,Y,726.0
+156,Cruzeiro Saf - MG,Y,847.0
+156,Cruzeiro Saf - MG,Y,328.0
+156,Cruzeiro Saf - MG,Y,106.0
+156,Cruzeiro Saf - MG,Y,641.0
+156,Goiás - GO,Y,939.0
+156,Goiás - GO,Y,44.0
+156,Goiás - GO,Y,479.0
+156,Goiás - GO,Y,1056.0
+156,Goiás - GO,Y,390.0
+157,Grêmio - RS,Y,307.0
+157,Grêmio - RS,Y,869.0
+157,Grêmio - RS,Y,107.0
+157,Atlético Mineiro - MG,Y,39.0
+157,Atlético Mineiro - MG,Y,931.0
+157,Atlético Mineiro - MG,Y,880.0
+157,Atlético Mineiro - MG,Y,803.0
+158,Coritiba S.a.f. - PR,Y,900.0
+158,Fluminense - RJ,Y,55.0
+159,Bahia - BA,Y,1058.0
+159,Bahia - BA,Y,2.0
+159,Bahia - BA,Y,987.0
+159,Corinthians - SP,Y,132.0
+159,Corinthians - SP,Y,
+160,Cuiabá Saf - MT,Y,499.0
+160,Cuiabá Saf - MT,Y,697.0
+160,São Paulo - SP,Y,642.0
+160,São Paulo - SP,Y,800.0
+160,São Paulo - SP,Y,186.0
+160,São Paulo - SP,Y,498.0
+160,São Paulo - SP,Y,231.0
+161,Fluminense - RJ,Y,682.0
+161,Fluminense - RJ,Y,55.0
+161,Fluminense - RJ,Y,324.0
+161,Fluminense - RJ,Y,742.0
+161,Fluminense - RJ,Y,703.0
+161,Fluminense - RJ,Y,569.0
+161,Santos - SP,Y,466.0
+161,Santos - SP,Y,514.0
+161,Santos - SP,Y,495.0
+161,Santos - SP,Y,603.0
+161,Santos - SP,Y,907.0
+161,Santos - SP,Y,344.0
+162,Botafogo - RJ,Y,129.0
+162,Coritiba S.a.f. - PR,Y,736.0
+162,Coritiba S.a.f. - PR,Y,777.0
+162,Coritiba S.a.f. - PR,Y,900.0
+163,Bahia - BA,Y,855.0
+163,Bahia - BA,Y,720.0
+163,Bahia - BA,Y,311.0
+163,Bahia - BA,Y,327.0
+164,Corinthians - SP,Y,480.0
+164,Corinthians - SP,Y,258.0
+165,Goiás - GO,Y,89.0
+165,Goiás - GO,Y,90.0
+165,Goiás - GO,Y,97.0
+165,Goiás - GO,Y,98.0
+165,Goiás - GO,Y,89.0
+165,Goiás - GO,Y,90.0
+165,Goiás - GO,Y,97.0
+165,Goiás - GO,Y,98.0
+165,Goiás - GO,Y,242.0
+165,Goiás - GO,Y,721.0
+165,Grêmio - RS,Y,649.0
+165,Grêmio - RS,Y,922.0
+166,Atlético Mineiro - MG,Y,238.0
+166,Atlético Mineiro - MG,Y,880.0
+166,Atlético Mineiro - MG,Y,149.0
+166,Flamengo - RJ,Y,723.0
+166,Flamengo - RJ,Y,283.0
+166,Flamengo - RJ,Y,329.0
+166,Flamengo - RJ,Y,294.0
+166,Flamengo - RJ,Y,581.0
+167,Internacional - RS,Y,1014.0
+167,Internacional - RS,Y,256.0
+167,Internacional - RS,Y,958.0
+167,Internacional - RS,R,309.0
+167,Cuiabá Saf - MT,Y,1031.0
+167,Cuiabá Saf - MT,Y,861.0
+168,Athletico Paranaense - PR,Y,73.0
+168,Cruzeiro Saf - MG,Y,847.0
+168,Cruzeiro Saf - MG,Y,375.0
+168,Cruzeiro Saf - MG,Y,1053.0
+168,Cruzeiro Saf - MG,Y,1048.0
+169,Fortaleza - CE,Y,341.0
+169,Fortaleza - CE,Y,142.0
+169,Red Bull Bragantino - SP,Y,619.0
+169,Red Bull Bragantino - SP,Y,368.0
+169,Red Bull Bragantino - SP,Y,967.0
+170,America Saf - MG,Y,812.0
+170,America Saf - MG,Y,5.0
+170,Palmeiras - SP,Y,366.0
+171,Fluminense - RJ,Y,494.0
+171,Fluminense - RJ,Y,1003.0
+171,Fluminense - RJ,Y,742.0
+171,Fluminense - RJ,Y,272.0
+171,Fluminense - RJ,R,561.0
+171,Palmeiras - SP,Y,1051.0
+171,Palmeiras - SP,Y,981.0
+172,Vasco da Gama S.a.f. - RJ,Y,91.0
+172,Grêmio - RS,Y,869.0
+173,São Paulo - SP,Y,684.0
+173,São Paulo - SP,Y,626.0
+173,São Paulo - SP,Y,800.0
+173,São Paulo - SP,Y,912.0
+173,São Paulo - SP,Y,169.0
+173,São Paulo - SP,Y,186.0
+173,Atlético Mineiro - MG,Y,743.0
+173,Atlético Mineiro - MG,Y,149.0
+173,Atlético Mineiro - MG,Y,903.0
+173,Atlético Mineiro - MG,Y,441.0
+173,Atlético Mineiro - MG,Y,880.0
+174,Santos - SP,Y,466.0
+174,Santos - SP,Y,632.0
+174,Santos - SP,Y,495.0
+174,Athletico Paranaense - PR,Y,1016.0
+174,Athletico Paranaense - PR,Y,1022.0
+175,Goiás - GO,Y,615.0
+175,Fortaleza - CE,Y,648.0
+175,Fortaleza - CE,Y,112.0
+175,Fortaleza - CE,Y,522.0
+176,Cruzeiro Saf - MG,Y,641.0
+176,Botafogo - RJ,Y,278.0
+176,Botafogo - RJ,Y,284.0
+177,Internacional - RS,Y,943.0
+177,Internacional - RS,Y,458.0
+177,Internacional - RS,Y,103.0
+177,Internacional - RS,R,133.0
+177,Corinthians - SP,Y,924.0
+177,Corinthians - SP,Y,927.0
+177,Corinthians - SP,Y,1068.0
+178,Coritiba S.a.f. - PR,Y,58.0
+178,Coritiba S.a.f. - PR,Y,100.0
+178,Coritiba S.a.f. - PR,Y,430.0
+178,Red Bull Bragantino - SP,Y,502.0
+178,Red Bull Bragantino - SP,Y,646.0
+178,Red Bull Bragantino - SP,Y,459.0
+178,Red Bull Bragantino - SP,Y,587.0
+178,Red Bull Bragantino - SP,Y,1021.0
+179,Bahia - BA,Y,571.0
+179,Bahia - BA,Y,2.0
+179,Bahia - BA,Y,287.0
+179,Bahia - BA,Y,1019.0
+179,America Saf - MG,Y,338.0
+179,America Saf - MG,Y,706.0
+179,America Saf - MG,Y,5.0
+179,America Saf - MG,R,232.0
+180,Cuiabá Saf - MT,Y,978.0
+180,Cuiabá Saf - MT,Y,861.0
+181,Flamengo - RJ,Y,1049.0
+181,Flamengo - RJ,Y,325.0
+181,São Paulo - SP,Y,433.0
+181,São Paulo - SP,Y,525.0
+181,São Paulo - SP,Y,16.0
+181,São Paulo - SP,Y,1035.0
+181,São Paulo - SP,Y,912.0
+181,São Paulo - SP,Y,1038.0
+182,Botafogo - RJ,Y,432.0
+182,Botafogo - RJ,Y,9.0
+182,Botafogo - RJ,Y,843.0
+182,Internacional - RS,Y,943.0
+182,Internacional - RS,Y,309.0
+182,Internacional - RS,Y,297.0
+182,Internacional - RS,Y,306.0
+183,Palmeiras - SP,Y,366.0
+183,Palmeiras - SP,Y,981.0
+183,Cruzeiro Saf - MG,Y,737.0
+183,Cruzeiro Saf - MG,Y,375.0
+183,Cruzeiro Saf - MG,Y,328.0
+184,Corinthians - SP,Y,257.0
+184,Corinthians - SP,Y,760.0
+184,Coritiba S.a.f. - PR,Y,377.0
+184,Coritiba S.a.f. - PR,Y,989.0
+185,Red Bull Bragantino - SP,Y,4.0
+185,Red Bull Bragantino - SP,Y,646.0
+185,Red Bull Bragantino - SP,Y,23.0
+185,Vasco da Gama S.a.f. - RJ,Y,570.0
+185,Vasco da Gama S.a.f. - RJ,Y,322.0
+185,Vasco da Gama S.a.f. - RJ,Y,504.0
+185,Vasco da Gama S.a.f. - RJ,Y,699.0
+185,Vasco da Gama S.a.f. - RJ,Y,597.0
+186,Atlético Mineiro - MG,Y,149.0
+186,Atlético Mineiro - MG,Y,795.0
+187,Grêmio - RS,Y,250.0
+187,Grêmio - RS,Y,645.0
+187,Grêmio - RS,Y,748.0
+187,Fluminense - RJ,Y,159.0
+187,Fluminense - RJ,Y,55.0
+187,Fluminense - RJ,Y,938.0
+187,Fluminense - RJ,Y,703.0
+188,Athletico Paranaense - PR,Y,126.0
+188,Athletico Paranaense - PR,Y,964.0
+188,Athletico Paranaense - PR,Y,277.0
+188,Athletico Paranaense - PR,Y,13.0
+188,Athletico Paranaense - PR,Y,228.0
+188,Cuiabá Saf - MT,Y,891.0
+188,Cuiabá Saf - MT,Y,19.0
+188,Cuiabá Saf - MT,Y,179.0
+189,Fortaleza - CE,Y,142.0
+189,Fortaleza - CE,Y,412.0
+189,Santos - SP,Y,907.0
+190,America Saf - MG,R,157.0
+190,Goiás - GO,Y,721.0
+191,Fluminense - RJ,Y,445.0
+191,America Saf - MG,Y,236.0
+192,Vasco da Gama S.a.f. - RJ,Y,942.0
+192,Vasco da Gama S.a.f. - RJ,Y,91.0
+192,Vasco da Gama S.a.f. - RJ,Y,322.0
+192,Vasco da Gama S.a.f. - RJ,Y,814.0
+192,Vasco da Gama S.a.f. - RJ,Y,817.0
+192,Vasco da Gama S.a.f. - RJ,Y,303.0
+192,Vasco da Gama S.a.f. - RJ,Y,582.0
+192,Atlético Mineiro - MG,Y,903.0
+192,Atlético Mineiro - MG,Y,880.0
+192,Atlético Mineiro - MG,Y,441.0
+193,São Paulo - SP,Y,642.0
+193,São Paulo - SP,Y,186.0
+193,São Paulo - SP,Y,1035.0
+193,Botafogo - RJ,Y,162.0
+193,Botafogo - RJ,Y,584.0
+194,Santos - SP,Y,466.0
+194,Santos - SP,Y,492.0
+194,Santos - SP,Y,1064.0
+194,Santos - SP,Y,514.0
+194,Santos - SP,Y,689.0
+194,Santos - SP,Y,530.0
+194,Grêmio - RS,Y,906.0
+194,Grêmio - RS,Y,95.0
+194,Grêmio - RS,Y,250.0
+194,Grêmio - RS,Y,361.0
+194,Grêmio - RS,R,869.0
+195,Goiás - GO,Y,863.0
+195,Goiás - GO,Y,89.0
+195,Goiás - GO,Y,90.0
+195,Goiás - GO,Y,97.0
+195,Goiás - GO,Y,98.0
+195,Athletico Paranaense - PR,Y,73.0
+195,Athletico Paranaense - PR,Y,13.0
+195,Athletico Paranaense - PR,Y,277.0
+195,Athletico Paranaense - PR,Y,228.0
+196,Cruzeiro Saf - MG,Y,737.0
+196,Cruzeiro Saf - MG,Y,636.0
+196,Cruzeiro Saf - MG,Y,68.0
+196,Corinthians - SP,Y,316.0
+196,Corinthians - SP,Y,350.0
+196,Corinthians - SP,Y,480.0
+197,Internacional - RS,Y,943.0
+197,Internacional - RS,Y,830.0
+197,Internacional - RS,Y,789.0
+197,Internacional - RS,Y,103.0
+197,Fortaleza - CE,Y,478.0
+197,Fortaleza - CE,Y,977.0
+197,Fortaleza - CE,Y,518.0
+197,Fortaleza - CE,Y,963.0
+197,Fortaleza - CE,Y,522.0
+198,Coritiba S.a.f. - PR,Y,534.0
+198,Coritiba S.a.f. - PR,Y,900.0
+198,Coritiba S.a.f. - PR,Y,736.0
+198,Flamengo - RJ,Y,104.0
+198,Flamengo - RJ,Y,75.0
+198,Flamengo - RJ,Y,325.0
+199,Bahia - BA,Y,987.0
+199,Bahia - BA,Y,529.0
+199,Red Bull Bragantino - SP,Y,594.0
+199,Red Bull Bragantino - SP,Y,4.0
+199,Red Bull Bragantino - SP,Y,502.0
+199,Red Bull Bragantino - SP,Y,425.0
+199,Red Bull Bragantino - SP,Y,735.0
+200,Cuiabá Saf - MT,Y,19.0
+200,Cuiabá Saf - MT,Y,697.0
+200,Palmeiras - SP,Y,862.0
+200,Palmeiras - SP,Y,591.0
+200,Palmeiras - SP,Y,771.0
+200,Palmeiras - SP,Y,447.0
+200,Palmeiras - SP,Y,511.0
+200,Palmeiras - SP,Y,493.0
+201,Flamengo - RJ,Y,1049.0
+201,Flamengo - RJ,Y,227.0
+201,Internacional - RS,Y,392.0
+201,Internacional - RS,Y,224.0
+201,Internacional - RS,Y,726.0
+202,Botafogo - RJ,Y,180.0
+202,Botafogo - RJ,Y,432.0
+202,Bahia - BA,Y,1058.0
+202,Bahia - BA,Y,993.0
+202,Bahia - BA,Y,140.0
+203,Palmeiras - SP,Y,591.0
+203,Palmeiras - SP,Y,890.0
+203,Vasco da Gama S.a.f. - RJ,Y,899.0
+203,Vasco da Gama S.a.f. - RJ,Y,504.0
+203,Vasco da Gama S.a.f. - RJ,Y,814.0
+203,Vasco da Gama S.a.f. - RJ,Y,817.0
+204,Corinthians - SP,Y,579.0
+204,Corinthians - SP,Y,105.0
+204,Corinthians - SP,Y,637.0
+204,Goiás - GO,Y,48.0
+205,Red Bull Bragantino - SP,Y,646.0
+205,Red Bull Bragantino - SP,Y,967.0
+205,Red Bull Bragantino - SP,Y,1062.0
+205,Red Bull Bragantino - SP,Y,578.0
+205,Cuiabá Saf - MT,Y,861.0
+205,Cuiabá Saf - MT,Y,697.0
+205,Cuiabá Saf - MT,Y,282.0
+206,Atlético Mineiro - MG,Y,795.0
+206,Atlético Mineiro - MG,Y,335.0
+206,Atlético Mineiro - MG,Y,695.0
+206,Atlético Mineiro - MG,Y,803.0
+206,Atlético Mineiro - MG,Y,903.0
+206,Santos - SP,Y,195.0
+206,Santos - SP,Y,603.0
+207,Grêmio - RS,Y,307.0
+207,Grêmio - RS,Y,649.0
+207,Grêmio - RS,Y,645.0
+207,Cruzeiro Saf - MG,Y,388.0
+207,Cruzeiro Saf - MG,Y,666.0
+207,Cruzeiro Saf - MG,Y,702.0
+208,Athletico Paranaense - PR,Y,13.0
+208,Athletico Paranaense - PR,Y,73.0
+208,Athletico Paranaense - PR,Y,1022.0
+208,Athletico Paranaense - PR,R,1001.0
+208,Fluminense - RJ,Y,1003.0
+208,Fluminense - RJ,Y,1065.0
+208,Fluminense - RJ,Y,703.0
+209,Fortaleza - CE,Y,142.0
+209,Fortaleza - CE,Y,337.0
+209,Fortaleza - CE,Y,696.0
+209,Coritiba S.a.f. - PR,Y,941.0
+209,Coritiba S.a.f. - PR,Y,430.0
+209,Coritiba S.a.f. - PR,Y,373.0
+209,Coritiba S.a.f. - PR,Y,882.0
+209,Coritiba S.a.f. - PR,Y,900.0
+209,Coritiba S.a.f. - PR,Y,736.0
+210,America Saf - MG,Y,83.0
+210,America Saf - MG,Y,5.0
+210,America Saf - MG,Y,562.0
+210,America Saf - MG,Y,262.0
+210,America Saf - MG,Y,395.0
+210,America Saf - MG,R,338.0
+210,São Paulo - SP,Y,739.0
+211,Fluminense - RJ,Y,55.0
+211,Fluminense - RJ,Y,494.0
+211,Fluminense - RJ,Y,190.0
+211,Fluminense - RJ,Y,938.0
+211,Fortaleza - CE,Y,518.0
+211,Fortaleza - CE,Y,337.0
+211,Fortaleza - CE,Y,218.0
+212,Botafogo - RJ,Y,988.0
+212,Botafogo - RJ,Y,291.0
+212,Botafogo - RJ,Y,162.0
+212,Botafogo - RJ,R,291.0
+212,Flamengo - RJ,Y,75.0
+212,Flamengo - RJ,Y,104.0
+212,Flamengo - RJ,Y,253.0
+213,São Paulo - SP,Y,596.0
+213,São Paulo - SP,Y,498.0
+213,Coritiba S.a.f. - PR,Y,989.0
+213,Coritiba S.a.f. - PR,Y,900.0
+213,Coritiba S.a.f. - PR,Y,377.0
+214,Corinthians - SP,Y,637.0
+214,Corinthians - SP,R,760.0
+214,Palmeiras - SP,Y,366.0
+214,Palmeiras - SP,Y,511.0
+214,Palmeiras - SP,R,771.0
+215,Goiás - GO,Y,343.0
+215,Goiás - GO,R,671.0
+215,Goiás - GO,R,623.0
+215,Internacional - RS,Y,1032.0
+215,Internacional - RS,Y,141.0
+215,Internacional - RS,Y,224.0
+215,Internacional - RS,R,660.0
+216,Cruzeiro Saf - MG,Y,848.0
+216,Red Bull Bragantino - SP,Y,646.0
+216,Red Bull Bragantino - SP,Y,1021.0
+216,Red Bull Bragantino - SP,Y,735.0
+216,Red Bull Bragantino - SP,Y,967.0
+216,Red Bull Bragantino - SP,Y,23.0
+217,Grêmio - RS,Y,906.0
+217,Grêmio - RS,Y,240.0
+217,Cuiabá Saf - MT,Y,607.0
+218,Athletico Paranaense - PR,Y,1022.0
+218,Athletico Paranaense - PR,R,277.0
+218,Atlético Mineiro - MG,Y,238.0
+218,Atlético Mineiro - MG,Y,441.0
+218,Atlético Mineiro - MG,Y,335.0
+219,Bahia - BA,Y,1019.0
+219,Bahia - BA,Y,327.0
+219,Vasco da Gama S.a.f. - RJ,Y,582.0
+219,Vasco da Gama S.a.f. - RJ,Y,322.0
+219,Vasco da Gama S.a.f. - RJ,R,429.0
+220,America Saf - MG,Y,793.0
+220,Santos - SP,Y,438.0
+220,Santos - SP,Y,495.0
+220,Santos - SP,Y,1064.0
+220,Santos - SP,Y,975.0
+220,Santos - SP,R,1064.0
+221,Flamengo - RJ,Y,239.0
+221,Flamengo - RJ,Y,1049.0
+221,Flamengo - RJ,R,294.0
+221,Athletico Paranaense - PR,Y,393.0
+221,Athletico Paranaense - PR,Y,27.0
+222,Vasco da Gama S.a.f. - RJ,Y,798.0
+222,Vasco da Gama S.a.f. - RJ,Y,508.0
+222,Vasco da Gama S.a.f. - RJ,Y,305.0
+222,Vasco da Gama S.a.f. - RJ,Y,504.0
+222,Fluminense - RJ,Y,703.0
+223,Palmeiras - SP,Y,925.0
+223,Palmeiras - SP,Y,557.0
+223,Palmeiras - SP,Y,509.0
+223,Goiás - GO,Y,1056.0
+223,Goiás - GO,R,863.0
+224,Santos - SP,Y,457.0
+224,Santos - SP,Y,463.0
+224,Santos - SP,Y,907.0
+224,Santos - SP,Y,979.0
+224,Cruzeiro Saf - MG,Y,702.0
+224,Cruzeiro Saf - MG,Y,641.0
+225,Red Bull Bragantino - SP,Y,4.0
+225,Red Bull Bragantino - SP,Y,730.0
+225,Red Bull Bragantino - SP,Y,376.0
+225,Red Bull Bragantino - SP,Y,206.0
+225,Grêmio - RS,Y,748.0
+225,Grêmio - RS,Y,1030.0
+226,Atlético Mineiro - MG,Y,259.0
+226,Atlético Mineiro - MG,Y,695.0
+226,Botafogo - RJ,Y,584.0
+227,Internacional - RS,Y,553.0
+227,Internacional - RS,Y,726.0
+227,Internacional - RS,Y,297.0
+227,Internacional - RS,Y,306.0
+227,Internacional - RS,Y,309.0
+227,Internacional - RS,Y,638.0
+227,São Paulo - SP,Y,684.0
+227,São Paulo - SP,Y,186.0
+227,São Paulo - SP,Y,800.0
+227,São Paulo - SP,Y,498.0
+228,Coritiba S.a.f. - PR,Y,373.0
+228,Coritiba S.a.f. - PR,Y,100.0
+228,Coritiba S.a.f. - PR,Y,960.0
+228,Bahia - BA,Y,529.0
+229,Fortaleza - CE,Y,696.0
+229,Corinthians - SP,Y,132.0
+229,Corinthians - SP,Y,105.0
+230,Cuiabá Saf - MT,Y,282.0
+230,America Saf - MG,Y,909.0
+230,America Saf - MG,Y,913.0
+230,America Saf - MG,Y,262.0
+230,America Saf - MG,Y,164.0
+230,America Saf - MG,R,164.0
+231,Fluminense - RJ,Y,249.0
+231,Fluminense - RJ,Y,682.0
+231,Fluminense - RJ,Y,687.0
+231,Fluminense - RJ,Y,681.0
+231,Fluminense - RJ,Y,272.0
+231,Fluminense - RJ,Y,55.0
+231,Cruzeiro Saf - MG,Y,1048.0
+232,Vasco da Gama S.a.f. - RJ,Y,135.0
+232,Coritiba S.a.f. - PR,Y,56.0
+232,Coritiba S.a.f. - PR,Y,1057.0
+232,Coritiba S.a.f. - PR,Y,77.0
+233,São Paulo - SP,Y,780.0
+233,São Paulo - SP,Y,186.0
+233,São Paulo - SP,Y,910.0
+233,Fortaleza - CE,Y,478.0
+233,Fortaleza - CE,Y,963.0
+233,Fortaleza - CE,Y,696.0
+233,Fortaleza - CE,Y,142.0
+233,Fortaleza - CE,Y,821.0
+233,Fortaleza - CE,Y,518.0
+234,Corinthians - SP,Y,132.0
+234,Corinthians - SP,Y,316.0
+234,Corinthians - SP,Y,1068.0
+234,Corinthians - SP,Y,257.0
+234,Botafogo - RJ,Y,180.0
+234,Botafogo - RJ,Y,162.0
+234,Botafogo - RJ,Y,701.0
+234,Botafogo - RJ,Y,9.0
+234,Botafogo - RJ,R,278.0
+235,Goiás - GO,Y,526.0
+235,Flamengo - RJ,Y,104.0
+235,Flamengo - RJ,Y,406.0
+235,Flamengo - RJ,Y,253.0
+236,Atlético Mineiro - MG,Y,795.0
+236,Atlético Mineiro - MG,Y,803.0
+236,Atlético Mineiro - MG,Y,841.0
+236,Cuiabá Saf - MT,Y,607.0
+236,Cuiabá Saf - MT,Y,697.0
+236,Cuiabá Saf - MT,Y,175.0
+237,Grêmio - RS,Y,307.0
+237,Grêmio - RS,Y,906.0
+237,Grêmio - RS,Y,471.0
+237,Grêmio - RS,Y,472.0
+237,Grêmio - RS,R,748.0
+237,Palmeiras - SP,Y,690.0
+237,Palmeiras - SP,Y,320.0
+237,Palmeiras - SP,Y,762.0
+238,Athletico Paranaense - PR,Y,964.0
+238,Athletico Paranaense - PR,Y,799.0
+238,Athletico Paranaense - PR,Y,1016.0
+238,Internacional - RS,Y,256.0
+238,Internacional - RS,Y,133.0
+238,Internacional - RS,Y,726.0
+238,Internacional - RS,Y,1032.0
+238,Internacional - RS,Y,789.0
+239,Bahia - BA,Y,600.0
+239,Santos - SP,Y,632.0
+239,Santos - SP,Y,492.0
+240,Red Bull Bragantino - SP,Y,633.0
+240,Red Bull Bragantino - SP,Y,730.0
+241,Flamengo - RJ,Y,966.0
+241,Bahia - BA,Y,1058.0
+241,Bahia - BA,Y,529.0
+241,Bahia - BA,R,987.0
+242,Botafogo - RJ,Y,617.0
+242,Botafogo - RJ,Y,180.0
+242,Botafogo - RJ,Y,485.0
+242,Botafogo - RJ,Y,284.0
+242,Goiás - GO,Y,623.0
+242,Goiás - GO,Y,671.0
+242,Goiás - GO,Y,44.0
+242,Goiás - GO,Y,242.0
+243,São Paulo - SP,Y,684.0
+243,São Paulo - SP,Y,626.0
+243,São Paulo - SP,Y,1038.0
+243,São Paulo - SP,Y,498.0
+243,São Paulo - SP,Y,312.0
+243,Corinthians - SP,Y,357.0
+243,Corinthians - SP,Y,59.0
+244,Santos - SP,Y,466.0
+244,Santos - SP,Y,514.0
+244,Santos - SP,Y,1064.0
+244,Santos - SP,Y,195.0
+244,Santos - SP,Y,975.0
+244,Santos - SP,R,632.0
+244,Vasco da Gama S.a.f. - RJ,Y,135.0
+244,Vasco da Gama S.a.f. - RJ,R,322.0
+245,Red Bull Bragantino - SP,Y,148.0
+245,Red Bull Bragantino - SP,Y,619.0
+245,Red Bull Bragantino - SP,Y,4.0
+245,Red Bull Bragantino - SP,Y,967.0
+245,Palmeiras - SP,Y,981.0
+245,Palmeiras - SP,Y,591.0
+246,Cruzeiro Saf - MG,Y,1048.0
+246,Cruzeiro Saf - MG,Y,106.0
+246,Cruzeiro Saf - MG,Y,737.0
+246,Cruzeiro Saf - MG,R,276.0
+246,America Saf - MG,Y,1034.0
+246,America Saf - MG,Y,30.0
+246,America Saf - MG,Y,232.0
+247,Internacional - RS,Y,405.0
+247,Internacional - RS,R,392.0
+247,Atlético Mineiro - MG,Y,813.0
+248,Coritiba S.a.f. - PR,Y,151.0
+248,Coritiba S.a.f. - PR,Y,192.0
+248,Athletico Paranaense - PR,Y,13.0
+248,Athletico Paranaense - PR,Y,976.0
+248,Athletico Paranaense - PR,Y,964.0
+248,Athletico Paranaense - PR,Y,126.0
+249,Fortaleza - CE,Y,678.0
+249,Grêmio - RS,Y,778.0
+249,Grêmio - RS,Y,782.0
+249,Grêmio - RS,Y,598.0
+250,Cuiabá Saf - MT,Y,19.0
+250,Cuiabá Saf - MT,Y,607.0
+250,Cuiabá Saf - MT,Y,281.0
+250,Fluminense - RJ,Y,1003.0
+250,Fluminense - RJ,Y,961.0
+250,Fluminense - RJ,R,742.0
+251,Fluminense - RJ,Y,494.0
+251,Fluminense - RJ,Y,687.0
+251,Botafogo - RJ,Y,162.0
+251,Botafogo - RJ,Y,701.0
+252,Vasco da Gama S.a.f. - RJ,Y,814.0
+252,Vasco da Gama S.a.f. - RJ,Y,817.0
+252,Vasco da Gama S.a.f. - RJ,Y,621.0
+252,Vasco da Gama S.a.f. - RJ,Y,672.0
+252,Vasco da Gama S.a.f. - RJ,Y,582.0
+252,São Paulo - SP,Y,780.0
+253,Palmeiras - SP,Y,511.0
+253,Palmeiras - SP,Y,890.0
+253,Santos - SP,Y,36.0
+253,Santos - SP,Y,975.0
+253,Santos - SP,Y,344.0
+254,Corinthians - SP,Y,257.0
+254,Corinthians - SP,Y,637.0
+254,Corinthians - SP,Y,316.0
+254,Flamengo - RJ,Y,227.0
+254,Flamengo - RJ,Y,104.0
+254,Flamengo - RJ,Y,581.0
+255,Goiás - GO,Y,623.0
+255,Goiás - GO,Y,89.0
+255,Goiás - GO,Y,90.0
+255,Goiás - GO,Y,97.0
+255,Goiás - GO,Y,98.0
+255,Bahia - BA,Y,317.0
+255,Bahia - BA,Y,529.0
+256,Atlético Mineiro - MG,Y,795.0
+256,Atlético Mineiro - MG,Y,803.0
+256,Coritiba S.a.f. - PR,Y,900.0
+256,Coritiba S.a.f. - PR,Y,377.0
+257,Internacional - RS,Y,789.0
+257,Internacional - RS,Y,224.0
+257,Internacional - RS,Y,309.0
+257,Internacional - RS,Y,458.0
+257,Internacional - RS,Y,405.0
+257,Internacional - RS,Y,878.0
+257,Grêmio - RS,Y,21.0
+257,Grêmio - RS,Y,1030.0
+257,Grêmio - RS,Y,748.0
+257,Grêmio - RS,Y,838.0
+258,Athletico Paranaense - PR,Y,277.0
+258,Athletico Paranaense - PR,Y,13.0
+258,Red Bull Bragantino - SP,Y,4.0
+258,Red Bull Bragantino - SP,Y,865.0
+258,Red Bull Bragantino - SP,Y,646.0
+258,Red Bull Bragantino - SP,Y,376.0
+259,Fortaleza - CE,Y,218.0
+259,Fortaleza - CE,Y,412.0
+259,America Saf - MG,Y,886.0
+260,Cruzeiro Saf - MG,Y,666.0
+260,Cruzeiro Saf - MG,Y,605.0
+260,Cruzeiro Saf - MG,Y,606.0
+260,Cruzeiro Saf - MG,Y,68.0
+261,Fluminense - RJ,Y,324.0
+261,Fluminense - RJ,Y,681.0
+261,Fluminense - RJ,Y,1003.0
+261,Fluminense - RJ,R,272.0
+261,Corinthians - SP,Y,760.0
+261,Corinthians - SP,Y,827.0
+261,Corinthians - SP,Y,832.0
+261,Corinthians - SP,Y,1068.0
+262,Vasco da Gama S.a.f. - RJ,Y,699.0
+262,Vasco da Gama S.a.f. - RJ,Y,305.0
+262,Vasco da Gama S.a.f. - RJ,Y,708.0
+262,Fortaleza - CE,Y,336.0
+262,Fortaleza - CE,Y,337.0
+263,Palmeiras - SP,Y,223.0
+263,Palmeiras - SP,Y,366.0
+263,Palmeiras - SP,Y,447.0
+263,Palmeiras - SP,Y,925.0
+263,Palmeiras - SP,Y,252.0
+263,Palmeiras - SP,Y,557.0
+263,Atlético Mineiro - MG,Y,259.0
+263,Atlético Mineiro - MG,Y,931.0
+263,Atlético Mineiro - MG,Y,20.0
+264,Santos - SP,Y,466.0
+264,Santos - SP,Y,438.0
+264,Santos - SP,Y,362.0
+264,Santos - SP,Y,195.0
+264,Red Bull Bragantino - SP,Y,594.0
+265,Goiás - GO,Y,945.0
+265,Goiás - GO,Y,721.0
+265,Goiás - GO,Y,44.0
+265,Goiás - GO,Y,1056.0
+265,São Paulo - SP,Y,115.0
+265,São Paulo - SP,Y,684.0
+265,São Paulo - SP,Y,800.0
+266,Cruzeiro Saf - MG,Y,375.0
+266,Cruzeiro Saf - MG,Y,702.0
+266,Cruzeiro Saf - MG,Y,1048.0
+266,Flamengo - RJ,Y,14.0
+266,Flamengo - RJ,Y,966.0
+267,Grêmio - RS,Y,645.0
+267,Grêmio - RS,Y,869.0
+267,Grêmio - RS,R,869.0
+267,Athletico Paranaense - PR,Y,601.0
+267,Athletico Paranaense - PR,Y,27.0
+267,Athletico Paranaense - PR,Y,976.0
+267,Athletico Paranaense - PR,Y,536.0
+267,Athletico Paranaense - PR,Y,13.0
+267,Athletico Paranaense - PR,Y,964.0
+268,Cuiabá Saf - MT,Y,19.0
+268,Cuiabá Saf - MT,Y,861.0
+269,Bahia - BA,Y,529.0
+269,Internacional - RS,Y,1014.0
+269,Internacional - RS,R,638.0
+270,America Saf - MG,Y,30.0
+270,Botafogo - RJ,Y,503.0
+271,Flamengo - RJ,Y,253.0
+271,Vasco da Gama S.a.f. - RJ,Y,811.0
+271,Vasco da Gama S.a.f. - RJ,Y,814.0
+271,Vasco da Gama S.a.f. - RJ,Y,817.0
+272,Botafogo - RJ,Y,129.0
+272,Botafogo - RJ,Y,485.0
+272,Athletico Paranaense - PR,Y,536.0
+273,São Paulo - SP,Y,800.0
+273,Grêmio - RS,Y,519.0
+273,Grêmio - RS,Y,645.0
+273,Grêmio - RS,Y,1030.0
+274,Corinthians - SP,Y,257.0
+274,Corinthians - SP,Y,1047.0
+274,America Saf - MG,Y,886.0
+274,America Saf - MG,Y,1037.0
+275,Red Bull Bragantino - SP,Y,1021.0
+275,Red Bull Bragantino - SP,Y,619.0
+275,Red Bull Bragantino - SP,Y,730.0
+275,Fluminense - RJ,Y,445.0
+275,Fluminense - RJ,Y,938.0
+276,Atlético Mineiro - MG,Y,94.0
+276,Atlético Mineiro - MG,Y,259.0
+276,Atlético Mineiro - MG,Y,803.0
+276,Cruzeiro Saf - MG,Y,737.0
+276,Cruzeiro Saf - MG,Y,388.0
+276,Cruzeiro Saf - MG,Y,848.0
+277,Internacional - RS,Y,878.0
+277,Santos - SP,Y,362.0
+278,Coritiba S.a.f. - PR,Y,777.0
+278,Palmeiras - SP,Y,890.0
+279,Bahia - BA,Y,955.0
+279,Bahia - BA,Y,140.0
+279,Bahia - BA,Y,864.0
+279,Bahia - BA,Y,123.0
+279,Bahia - BA,Y,1058.0
+279,Fortaleza - CE,Y,93.0
+279,Fortaleza - CE,Y,218.0
+279,Fortaleza - CE,Y,628.0
+280,Cuiabá Saf - MT,Y,891.0
+280,Goiás - GO,Y,949.0
+280,Goiás - GO,Y,242.0
+280,Goiás - GO,Y,863.0
+281,Fluminense - RJ,Y,703.0
+281,Fluminense - RJ,Y,324.0
+281,Fluminense - RJ,Y,55.0
+281,Fluminense - RJ,Y,810.0
+281,Goiás - GO,Y,526.0
+281,Goiás - GO,Y,343.0
+282,Vasco da Gama S.a.f. - RJ,Y,504.0
+282,Vasco da Gama S.a.f. - RJ,R,814.0
+282,Vasco da Gama S.a.f. - RJ,R,817.0
+282,Vasco da Gama S.a.f. - RJ,R,229.0
+282,Internacional - RS,Y,943.0
+282,Internacional - RS,Y,133.0
+282,Internacional - RS,Y,309.0
+282,Internacional - RS,Y,1032.0
+283,Palmeiras - SP,Y,223.0
+283,Palmeiras - SP,Y,511.0
+283,Palmeiras - SP,Y,862.0
+283,São Paulo - SP,Y,626.0
+283,São Paulo - SP,Y,1038.0
+283,São Paulo - SP,R,684.0
+284,Santos - SP,Y,492.0
+284,Santos - SP,Y,530.0
+284,Coritiba S.a.f. - PR,Y,736.0
+284,Coritiba S.a.f. - PR,Y,900.0
+284,Coritiba S.a.f. - PR,Y,289.0
+284,Coritiba S.a.f. - PR,R,1057.0
+285,Red Bull Bragantino - SP,Y,583.0
+285,Red Bull Bragantino - SP,Y,4.0
+285,Atlético Mineiro - MG,Y,238.0
+285,Atlético Mineiro - MG,Y,149.0
+285,Atlético Mineiro - MG,Y,795.0
+285,Atlético Mineiro - MG,Y,880.0
+286,Cruzeiro Saf - MG,Y,636.0
+286,Cruzeiro Saf - MG,Y,666.0
+286,Bahia - BA,Y,140.0
+286,Bahia - BA,Y,123.0
+287,Grêmio - RS,Y,1030.0
+287,Grêmio - RS,Y,21.0
+287,Grêmio - RS,Y,838.0
+287,Flamengo - RJ,Y,581.0
+287,Flamengo - RJ,Y,661.0
+287,Flamengo - RJ,Y,227.0
+287,Flamengo - RJ,Y,239.0
+288,America Saf - MG,Y,791.0
+290,Cuiabá Saf - MT,Y,281.0
+290,Corinthians - SP,Y,251.0
+290,Corinthians - SP,Y,105.0
+290,Corinthians - SP,Y,132.0
