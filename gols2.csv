@@ -1,729 +1,729 @@
-NPartida,Clube,Apelido,Momento,Nome,Camisa
-1,Flamengo - RJ,Ayrton Lucas,11' (1ºT),Ayrton Lucas Dantas de Medeiros,6.0
-1,Flamengo - RJ,Gabriel Barbosa,10' (2ºT),Gabriel Barbosa Almeida,10.0
-1,Flamengo - RJ,Pedro,45+4' (2ºT),Pedro Guilherme Abreu dos Santos,9.0
-2,Botafogo - RJ,Carlos,43' (2ºT),Carlos Eduardo de Oliveira Alves,33.0
-2,Botafogo - RJ,Tiquinho,3' (1ºT),Francisco das Chagas Soares dos Santos,9.0
-2,São Paulo - SP,Calleri,16' (1ºT),Jonathan Calleri,9.0
-3,Palmeiras - SP,Endrick,4' (1ºT),Endrick Felipe Moreira de Sousa,9.0
-3,Palmeiras - SP,Lopez,19' (2ºT),Jose Manuel Alberto Lopez,18.0
-3,Cuiabá Saf - MT,Raniele,45+5' (1ºT),Raniele Almeida Melo,14.0
-4,Corinthians - SP,Matheus Araujo,23' (2ºT),Matheus de Araujo Andrade,30.0
-4,Corinthians - SP,Roger Guedes,42' (2ºT),,
-4,Cruzeiro Saf - MG,Lucas Oliveira,45+5' (2ºT),Lucas da Cruz Oliveira,26.0
-4,Cruzeiro Saf - MG,Lucas Oliveira,45+5' (2ºT),Lucas da Cruz Oliveira,6.0
-5,Red Bull Bragantino - SP,Bruninho,8' (2ºT),Bruno Gonçalves de Jesus,17.0
-5,Red Bull Bragantino - SP,Eduardo Sasha,25' (2ºT),Eduardo Colcenti Antunes,19.0
-6,Atlético Mineiro - MG,Muricio Lemos,45+4' (1ºT),Paolo Mauricio Lemos Merladett,28.0
-6,Vasco da Gama S.a.f. - RJ,Andrey Santos,4' (1ºT),,
-6,Vasco da Gama S.a.f. - RJ,Gabriel Pec,10' (1ºT),Gabriel Fortes Chaves,11.0
-7,Grêmio - RS,Joao Pedro,43' (1ºT),Joao Pedro Geraldino dos Santos Galvao,18.0
-7,Grêmio - RS,Joao Pedro,43' (1ºT),Joao Pedro Maturano dos Santos,18.0
-8,Athletico Paranaense - PR,Christian,12' (2ºT),Christian Roberto Alves Cardoso,88.0
-8,Athletico Paranaense - PR,Pedro Henrique,35' (1ºT),Pedro Henrique Ribeiro Goncalves,34.0
-9,Fortaleza - CE,Moises,11' (2ºT),,
-9,Internacional - RS,WANDERSON,8' (2ºT),Wanderson Maciel Sousa Campos,11.0
-10,Fluminense - RJ,German Cano,6' (2ºT),German Ezequiel Cano,14.0
-10,Fluminense - RJ,Lelê,26' (2ºT),Leanderson da Silva Genesio,99.0
-10,Fluminense - RJ,John Kennedy,14' (2ºT),John Kennedy Batista de Souza,9.0
-11,Fluminense - RJ,Nino,21' (2ºT),Marcilio Florencio Mota Filho,33.0
-11,Fluminense - RJ,Lima,10' (1ºT),Vinicius Moreira de Lima,45.0
-12,Vasco da Gama S.a.f. - RJ,Pedro Raul,28' (1ºT),,
-12,Vasco da Gama S.a.f. - RJ,Gabriel Pec,39' (1ºT),Gabriel Fortes Chaves,11.0
-12,Palmeiras - SP,Artur,17' (2ºT),Artur Victor Guimaraes,14.0
-12,Palmeiras - SP,Rafael Navarro,45+1' (1ºT),,
-13,São Paulo - SP,Luciano,20' (1ºT),Luciano da Rocha Neves,10.0
-13,São Paulo - SP,Marcos Paulo,45+5' (2ºT),Marcos Paulo Costa do Nascimento,32.0
-13,São Paulo - SP,Calleri,37' (2ºT),Jonathan Calleri,9.0
-15,Goiás - GO,Halter,35' (2ºT),Lucas Halter,3.0
-15,Goiás - GO,Apodi,45+4' (2ºT),Luiz Diallisson de Souza Alves,22.0
-15,Goiás - GO,Matheus Peixoto,30' (1ºT),,
-15,Corinthians - SP,Roger Guedes,16' (1ºT),,
-16,Cruzeiro Saf - MG,Bruno Rodrigues,19' (2ºT),Bruno Rafael Rodrigues do Nascimento,9.0
-17,Internacional - RS,Mauricio,21' (2ºT),Mauricio Magalhaes Prado,27.0
-17,Internacional - RS,Mauricio,45+8' (2ºT),Mauricio Magalhaes Prado,27.0
-17,Flamengo - RJ,Gerson,17' (2ºT),Gerson Santos da Silva,20.0
-18,Fortaleza - CE,Silvio Romero,6' (2ºT),Silvio Ezequiel Romero,18.0
-18,Fortaleza - CE,Yago,37' (2ºT),Glaybson Yago Souza Lisbôa,22.0
-18,Fortaleza - CE,Yago,45' (2ºT),Glaybson Yago Souza Lisbôa,22.0
-19,Botafogo - RJ,Tche Tche,32' (2ºT),Danilo das Neves Pinheiro,6.0
-19,Botafogo - RJ,Junior,28' (1ºT),Jose Antonio dos Santos Junior,37.0
-20,Cuiabá Saf - MT,Matheusinho,22' (2ºT),Mateus da Silva Duarte,98.0
-20,Red Bull Bragantino - SP,Thiago Borbas,40' (2ºT),Thiago Nicolas Borbas Silva,18.0
-21,Flamengo - RJ,Leo Pereira,13' (2ºT),Leonardo Pereira,4.0
-21,Flamengo - RJ,Leo Pereira,40' (2ºT),Leonardo Pereira,4.0
-21,Botafogo - RJ,Danilo,45+4' (1ºT),Danilo Barbosa da Silva,5.0
-21,Botafogo - RJ,Tiquinho,29' (1ºT),Francisco das Chagas Soares dos Santos,9.0
-21,Botafogo - RJ,Tiquinho,25' (2ºT),Francisco das Chagas Soares dos Santos,9.0
-23,Palmeiras - SP,Murilo,15' (1ºT),Murilo Cerqueira Paim,26.0
-23,Palmeiras - SP,Raphael Veiga,35' (1ºT),Raphael Cavalcante Veiga,0.0
-23,Palmeiras - SP,Joaquin Piquerez,31' (2ºT),Joaquin Piquerez Moreira,22.0
-24,Santos - SP,Eduardo,40' (1ºT),,
-24,Santos - SP,Mendoza,18' (1ºT),John Steven Mendoza Valencia,0.0
-24,Santos - SP,Marcos Leonardo,24' (2ºT),Marcos Leonardo Santos Almeida,9.0
-24,America Saf - MG,Ale,7' (1ºT),Alexandre Egea,16.0
-24,America Saf - MG,Everaldo,4' (2ºT),Everaldo Silva do Nascimento,37.0
-25,Cruzeiro Saf - MG,Ramiro,1' (1ºT),Ramiro Moschen Benetti,17.0
-25,Cruzeiro Saf - MG,Gilberto,19' (2ºT),Gilberto Oliveira Souza Junior,21.0
-25,Cruzeiro Saf - MG,Bruno Rodrigues,41' (2ºT),Bruno Rafael Rodrigues do Nascimento,9.0
-26,Atlético Mineiro - MG,Hulk,9' (1ºT),Givanildo Vieira de Sousa,7.0
-26,Atlético Mineiro - MG,Hulk,38' (2ºT),Givanildo Vieira de Sousa,7.0
-26,Athletico Paranaense - PR,Vitor Roque,45+2' (2ºT),Vitor Hugo Roque Ferreira,9.0
-27,Internacional - RS,Carlos de Pena,7' (2ºT),Carlos Maria de Pena Bonino,14.0
-28,São Paulo - SP,Marcos Paulo,35' (2ºT),Marcos Paulo Costa do Nascimento,32.0
-29,Fortaleza - CE,HERCULES,33' (2ºT),Hercules Pereira do Nascimento,35.0
-29,Fortaleza - CE,Thiago Galhardo,28' (1ºT),Thiago Galhardo do Nascimento Rocha,91.0
-29,Fortaleza - CE,Moises,34' (1ºT),,
-29,Fortaleza - CE,Moises,14' (2ºT),,
-29,Fluminense - RJ,Alan,45+1' (1ºT),,
-29,Fluminense - RJ,John Kennedy,23' (2ºT),John Kennedy Batista de Souza,9.0
-30,Cuiabá Saf - MT,Marllon,28' (1ºT),Marllon Goncalves Jeronimo Borges,4.0
-30,Grêmio - RS,Vina,9' (1ºT),,
-30,Grêmio - RS,Galdino,22' (2ºT),Everton Galdino Moreira,13.0
-31,Fluminense - RJ,Lima,9' (2ºT),Vinicius Moreira de Lima,45.0
-31,Vasco da Gama S.a.f. - RJ,Pedro Raul,1' (1ºT),,
-32,Botafogo - RJ,Matheus Nascimento,15' (2ºT),Matheus Nascimento de Paula,0.0
-32,Botafogo - RJ,Joao Victor,29' (1ºT),Joao Victor Santos Sa,7.0
-33,São Paulo - SP,Pablo,24' (2ºT),Pablo Gonçalves Maia Fortunato,29.0
-33,São Paulo - SP,Luciano,32' (1ºT),Luciano da Rocha Neves,10.0
-34,Corinthians - SP,Yuri Alberto,42' (2ºT),Yuri Alberto Monteiro da Silva,9.0
-34,Fortaleza - CE,Caio,34' (2ºT),Caio Alexandre Sousa E Silva,8.0
-35,Goiás - GO,Sidimar,3' (2ºT),Sidimar Fernando Cigolini,4.0
-35,Palmeiras - SP,Dudu,44' (2ºT),Eduardo Pereira Rodrigues,7.0
-35,Palmeiras - SP,Artur,9' (1ºT),Artur Victor Guimaraes,14.0
-35,Palmeiras - SP,Raphael Veiga,32' (2ºT),Raphael Cavalcante Veiga,0.0
-35,Palmeiras - SP,Endrick,37' (2ºT),Endrick Felipe Moreira de Sousa,9.0
-36,Cruzeiro Saf - MG,Wesley Ribeiro Silva,21' (1ºT),Wesley Ribeiro Silva,11.0
-36,Cruzeiro Saf - MG,Wesley Ribeiro Silva,16' (2ºT),Wesley Ribeiro Silva,11.0
-36,Santos - SP,Ângelo,12' (2ºT),,
-37,Grêmio - RS,Suarez,10' (2ºT),Luis Alberto Suarez Diaz,9.0
-37,Grêmio - RS,Galdino,16' (2ºT),Everton Galdino Moreira,13.0
-37,Grêmio - RS,Cristaldo,6' (1ºT),Franco Sebastian Cristaldo,19.0
-37,Red Bull Bragantino - SP,Matheus Fernandes,9' (1ºT),Matheus Fernandes Siqueira,35.0
-37,Red Bull Bragantino - SP,Thiago Borbas,45+1' (2ºT),Thiago Nicolas Borbas Silva,18.0
-37,Red Bull Bragantino - SP,Eduardo Sasha,8' (2ºT),Eduardo Colcenti Antunes,19.0
-38,Athletico Paranaense - PR,Vitor Roque,28' (1ºT),Vitor Hugo Roque Ferreira,9.0
-38,Athletico Paranaense - PR,Erick,35' (2ºT),Erick Luis Conrado Carvalho,26.0
-38,Flamengo - RJ,Gabriel Barbosa,15' (1ºT),Gabriel Barbosa Almeida,10.0
-39,Bahia - BA,Biel,19' (2ºT),Gabriel Teixeira Aragao,0.0
-39,Bahia - BA,David Duarte,23' (2ºT),David de Duarte Macedo,0.0
-40,America Saf - MG,Aloisio,11' (1ºT),Aloisio dos Santos Goncalves,99.0
-40,America Saf - MG,Marlon,39' (2ºT),Marlon Matheus Lopes do Nascimento,6.0
-40,Cuiabá Saf - MT,Ronald,45+1' (2ºT),Ronald Barbosa Raposo,8.0
-40,Cuiabá Saf - MT,Ronald,45+1' (2ºT),Ronald dos Santos Lopes,8.0
-41,Flamengo - RJ,Éverton Ribeiro,3' (2ºT),Everton Augusto de Barros Ribeiro,7.0
-41,Flamengo - RJ,Pedro,7' (1ºT),Pedro Guilherme Abreu dos Santos,9.0
-42,Botafogo - RJ,Carlos,36' (2ºT),Carlos Eduardo de Oliveira Alves,33.0
-42,Botafogo - RJ,Tiquinho,12' (1ºT),Francisco das Chagas Soares dos Santos,9.0
-42,Botafogo - RJ,Tiquinho,19' (2ºT),Francisco das Chagas Soares dos Santos,9.0
-43,Palmeiras - SP,Mayke,23' (2ºT),Mayke Rocha de Oliveira,0.0
-43,Palmeiras - SP,Luan Garcia,27' (2ºT),Luan Garcia Teixeira,13.0
-43,Palmeiras - SP,Raphael Veiga,23' (1ºT),Raphael Cavalcante Veiga,0.0
-43,Palmeiras - SP,Raphael Veiga,11' (2ºT),Raphael Cavalcante Veiga,0.0
-43,Grêmio - RS,Bitello,45+2' (1ºT),,
-44,Santos - SP,Ângelo,5' (2ºT),,
-44,Santos - SP,Mendoza,14' (1ºT),John Steven Mendoza Valencia,0.0
-44,Santos - SP,Deivid Washington,3' (1ºT),,
-45,Red Bull Bragantino - SP,Helinho,33' (1ºT),Helio Junio Nunes de Castro,11.0
-45,Red Bull Bragantino - SP,Helinho,43' (1ºT),Helio Junio Nunes de Castro,11.0
-45,America Saf - MG,Aloisio,14' (1ºT),Aloisio dos Santos Goncalves,99.0
-45,America Saf - MG,Aloisio,32' (2ºT),Aloisio dos Santos Goncalves,99.0
-46,Fluminense - RJ,PH GANSO,43' (1ºT),Paulo Henrique Chagas de Lima,10.0
-46,Fluminense - RJ,German Cano,8' (2ºT),German Ezequiel Cano,14.0
-47,Athletico Paranaense - PR,Christian,32' (2ºT),Christian Roberto Alves Cardoso,88.0
-47,Athletico Paranaense - PR,Willian,45+5' (2ºT),Willian Gomes de Siqueira,11.0
-48,Vasco da Gama S.a.f. - RJ,Erick Marcus,34' (2ºT),Erick Marcus dos Santos Oliveira do Carmo,16.0
-50,Atlético Mineiro - MG,Hulk,5' (2ºT),Givanildo Vieira de Sousa,7.0
-50,Atlético Mineiro - MG,Pavon,26' (2ºT),Cristian David Pavon,9.0
-50,Atlético Mineiro - MG,Paulinho,41' (2ºT),Paulo Henrique Sampaio Filho,10.0
-50,Atlético Mineiro - MG,Hyoran,12' (1ºT),Hyoran Kaue Dalmoro,20.0
-51,Fluminense - RJ,PH GANSO,10' (2ºT),Paulo Henrique Chagas de Lima,10.0
-51,Fluminense - RJ,Nino,5' (1ºT),Marcilio Florencio Mota Filho,33.0
-52,Santos - SP,Deivid Washington,28' (1ºT),,
-53,Palmeiras - SP,Artur,19' (2ºT),Artur Victor Guimaraes,14.0
-53,Red Bull Bragantino - SP,J. Capixaba,26' (2ºT),Luis Antonio da Rocha Junior,29.0
-54,Corinthians - SP,Roger Guedes,45+6' (1ºT),,
-54,São Paulo - SP,Michel Araujo,15' (1ºT),Michel Daryl Araujo Villar,15.0
-55,Goiás - GO,Bruno,45+6' (1ºT),Bruno Araujo Santos,19.0
-55,Goiás - GO,Bruno,45+6' (1ºT),Bruno Araujo Santos,13.0
-55,Goiás - GO,Bruno,45+6' (1ºT),Bruno Ferreira Melo,19.0
-55,Goiás - GO,Bruno,45+6' (1ºT),Bruno Ferreira Melo,13.0
-55,Goiás - GO,Magno Jose,11' (2ºT),Magno Jose da Silva,2.0
-55,Botafogo - RJ,Tiquinho,29' (1ºT),Francisco das Chagas Soares dos Santos,9.0
-56,Atlético Mineiro - MG,Paulinho,45+4' (2ºT),Paulo Henrique Sampaio Filho,10.0
-56,Atlético Mineiro - MG,Vargas,2' (1ºT),Eduardo Jesus Vargas Rojas,11.0
-58,Athletico Paranaense - PR,Canobbio,45+7' (2ºT),Agustin Canobbio Graviz,14.0
-58,Athletico Paranaense - PR,Pablo,3' (2ºT),Pablo Felipe Teixeira,92.0
-58,Athletico Paranaense - PR,Willian,45' (2ºT),Willian Gomes de Siqueira,11.0
-59,Bahia - BA,Ademir,6' (2ºT),Ademir da Silva Santos Junior,0.0
-59,Bahia - BA,Biel,35' (1ºT),Gabriel Teixeira Aragao,0.0
-59,Flamengo - RJ,Matheus França,23' (1ºT),,
-59,Flamengo - RJ,Gabriel Barbosa,28' (1ºT),Gabriel Barbosa Almeida,10.0
-59,Flamengo - RJ,David Luiz,45+4' (1ºT),David Luiz Moreira Marinho,0.0
-60,Cruzeiro Saf - MG,Marlon,24' (2ºT),Marlon Rodrigues Xavier,3.0
-60,Cruzeiro Saf - MG,Henrique Dourado,32' (1ºT),,
-60,Cruzeiro Saf - MG,Gilberto,38' (2ºT),Gilberto Oliveira Souza Junior,21.0
-60,Cruzeiro Saf - MG,Gilberto,45' (2ºT),Gilberto Oliveira Souza Junior,21.0
-61,Flamengo - RJ,Leo Pereira,45+3' (2ºT),Leonardo Pereira,4.0
-62,Botafogo - RJ,Victor Cuesta,29' (2ºT),Victor Leandro Cuesta,15.0
-63,São Paulo - SP,Beraldo,43' (2ºT),Lucas Lopes Beraldo,35.0
-63,São Paulo - SP,Rodrigo Nestor,41' (1ºT),Rodrigo Nestor Bertalia,11.0
-63,São Paulo - SP,Calleri,24' (1ºT),Jonathan Calleri,9.0
-63,São Paulo - SP,Juan,45+2' (2ºT),Juan Santos da Silva,31.0
-63,Vasco da Gama S.a.f. - RJ,Matias Galarza,38' (2ºT),,
-63,Vasco da Gama S.a.f. - RJ,Barros,44' (1ºT),Cauan Lucas Barros da Luz,88.0
-65,Red Bull Bragantino - SP,Eduardo Sasha,16' (1ºT),Eduardo Colcenti Antunes,19.0
-65,Red Bull Bragantino - SP,Thiago Borbas,40' (2ºT),Thiago Nicolas Borbas Silva,18.0
-66,Cuiabá Saf - MT,Deyverson,36' (1ºT),Deyverson Brum Silva,16.0
-67,Grêmio - RS,Bitello,20' (2ºT),,
-67,Grêmio - RS,Suarez,7' (1ºT),Luis Alberto Suarez Diaz,9.0
-67,Grêmio - RS,Villasanti,31' (1ºT),Mathias Adalberto Villasanti Rolon,20.0
-67,Internacional - RS,Joao Lucas,41' (2ºT),Joao Lucas de Souza Cardoso,30.0
-68,Atlético Mineiro - MG,Hulk,45' (2ºT),Givanildo Vieira de Sousa,7.0
-68,Atlético Mineiro - MG,Hyoran,35' (1ºT),Hyoran Kaue Dalmoro,20.0
-69,Bahia - BA,Everaldo,25' (1ºT),Everaldo Stum,0.0
-69,Goiás - GO,Bruno,31' (1ºT),Bruno Araujo Santos,19.0
-69,Goiás - GO,Bruno,31' (1ºT),Bruno Araujo Santos,13.0
-69,Goiás - GO,Bruno,31' (1ºT),Bruno Ferreira Melo,19.0
-69,Goiás - GO,Bruno,31' (1ºT),Bruno Ferreira Melo,13.0
-70,America Saf - MG,Breno Lemos,1' (1ºT),Breno Cascardo Lemos,0.0
-70,America Saf - MG,Felipe Azevedo,32' (1ºT),Felipe Azevedo dos Santos,11.0
-70,Fortaleza - CE,Pochettino,25' (1ºT),Tomas Pochettino,7.0
-71,Flamengo - RJ,Ayrton Lucas,32' (1ºT),Ayrton Lucas Dantas de Medeiros,6.0
-71,Cruzeiro Saf - MG,Marlon,5' (1ºT),Marlon Rodrigues Xavier,3.0
-72,Botafogo - RJ,Junior,3' (1ºT),Jose Antonio dos Santos Junior,37.0
-72,Botafogo - RJ,Luis Henrique,14' (2ºT),Luis Henrique Tomaz de Lima,11.0
-73,São Paulo - SP,Pablo,11' (2ºT),Pablo Gonçalves Maia Fortunato,29.0
-73,São Paulo - SP,David,45' (2ºT),David Correa da Fonseca,22.0
-73,Goiás - GO,Magno Jose,28' (1ºT),Magno Jose da Silva,2.0
-74,Corinthians - SP,Roger Guedes,13' (2ºT),,
-74,Corinthians - SP,Roger Guedes,45+1' (2ºT),,
-75,Red Bull Bragantino - SP,J. Capixaba,30' (2ºT),Luis Antonio da Rocha Junior,29.0
-75,Red Bull Bragantino - SP,Vitinho,30' (1ºT),Vitor Hugo Naum dos Santos,0.0
-76,Atlético Mineiro - MG,Pavon,44' (1ºT),Cristian David Pavon,9.0
-76,Palmeiras - SP,Dudu,6' (2ºT),Eduardo Pereira Rodrigues,7.0
-77,Internacional - RS,WANDERSON,45+8' (2ºT),Wanderson Maciel Sousa Campos,11.0
-77,Internacional - RS,Joao Lucas,4' (2ºT),Joao Lucas de Souza Cardoso,30.0
-78,Athletico Paranaense - PR,Vitor Roque,33' (1ºT),Vitor Hugo Roque Ferreira,9.0
-78,Grêmio - RS,Uvini,3' (2ºT),Bruno Uvini Bortolanca,15.0
-78,Grêmio - RS,Cuiabano,30' (1ºT),Luis Eduardo Soares da Silva,0.0
-79,Fortaleza - CE,Silvio Romero,45+3' (2ºT),Silvio Ezequiel Romero,18.0
-79,Fortaleza - CE,Thiago Galhardo,41' (2ºT),Thiago Galhardo do Nascimento Rocha,91.0
-80,Cuiabá Saf - MT,Fernando,3' (1ºT),Fernando Pereira do Nascimento,88.0
-81,Fluminense - RJ,Felipe Melo,33' (1ºT),Felipe Melo de Carvalho,30.0
-81,Fluminense - RJ,PH GANSO,27' (1ºT),Paulo Henrique Chagas de Lima,10.0
-81,Red Bull Bragantino - SP,Thiago Borbas,8' (2ºT),Thiago Nicolas Borbas Silva,18.0
-82,Vasco da Gama S.a.f. - RJ,Jair,12' (2ºT),Jair Rodrigues Junior,8.0
-82,Flamengo - RJ,Ayrton Lucas,45+2' (1ºT),Ayrton Lucas Dantas de Medeiros,6.0
-82,Flamengo - RJ,Erick Pulgar,14' (1ºT),Erick Antonio Pulgar Farfan,0.0
-82,Flamengo - RJ,Gerson,16' (1ºT),Gerson Santos da Silva,20.0
-82,Flamengo - RJ,Pedro,42' (1ºT),Pedro Guilherme Abreu dos Santos,9.0
-83,Palmeiras - SP,Artur,29' (1ºT),Artur Victor Guimaraes,14.0
-83,Palmeiras - SP,Rony,33' (1ºT),Ronielson da Silva Barbosa,0.0
-83,Palmeiras - SP,Rony,27' (2ºT),Ronielson da Silva Barbosa,0.0
-84,Santos - SP,Lucas Lima,11' (1ºT),Lucas Rafael Araujo Lima,23.0
-84,Internacional - RS,Luiz Adriano,3' (1ºT),Luiz Adriano Souza da Silva,9.0
-85,Cuiabá Saf - MT,Deyverson,8' (2ºT),Deyverson Brum Silva,16.0
-86,Atlético Mineiro - MG,Hulk,26' (1ºT),Givanildo Vieira de Sousa,7.0
-87,Grêmio - RS,Reinaldo,38' (1ºT),Reinaldo Manoel da Silva,0.0
-87,Grêmio - RS,Cristaldo,30' (1ºT),Franco Sebastian Cristaldo,19.0
-87,São Paulo - SP,Calleri,14' (1ºT),Jonathan Calleri,9.0
-88,Athletico Paranaense - PR,Alex Santana,41' (1ºT),Alex Paulo Menezes Santana,0.0
-90,America Saf - MG,Renato,41' (2ºT),Renato Marques de Oliveira Junior,0.0
-90,America Saf - MG,Danilo,28' (2ºT),Danilo Fernando Avelar,22.0
-91,Flamengo - RJ,Everton,23' (1ºT),Everton Sousa Soares,11.0
-91,Flamengo - RJ,Bruno Henrique,45+5' (2ºT),Bruno Henrique Pinto,27.0
-91,Flamengo - RJ,Pedro,19' (2ºT),Pedro Guilherme Abreu dos Santos,9.0
-92,Botafogo - RJ,Tiquinho,45+2' (1ºT),Francisco das Chagas Soares dos Santos,9.0
-92,Botafogo - RJ,Tiquinho,18' (2ºT),Francisco das Chagas Soares dos Santos,9.0
-93,Palmeiras - SP,Gabriel Menino,10' (1ºT),Gabriel Vinicius Menino,25.0
-93,Palmeiras - SP,Endrick,32' (2ºT),Endrick Felipe Moreira de Sousa,9.0
-94,Corinthians - SP,RUAN,35' (2ºT),Ruan de Oliveira Ferreira,0.0
-94,Cuiabá Saf - MT,Deyverson,9' (2ºT),Deyverson Brum Silva,16.0
-95,Goiás - GO,Matheus Peixoto,45+1' (1ºT),,
-95,Goiás - GO,Alesson,40' (2ºT),Alesson dos Santos Batista,27.0
-95,Fluminense - RJ,German Cano,2' (1ºT),German Ezequiel Cano,14.0
-95,Fluminense - RJ,Lima,1' (2ºT),Vinicius Moreira de Lima,45.0
-96,Atlético Mineiro - MG,Paulinho,16' (1ºT),Paulo Henrique Sampaio Filho,10.0
-96,Red Bull Bragantino - SP,Eduardo Sasha,35' (1ºT),Eduardo Colcenti Antunes,19.0
-97,Internacional - RS,WANDERSON,16' (1ºT),Wanderson Maciel Sousa Campos,11.0
-97,Internacional - RS,Romulo,2' (1ºT),Romulo Zanre Zwarg,40.0
-97,Vasco da Gama S.a.f. - RJ,Rayan,28' (1ºT),Rayan Vitor Simplício Rocha,0.0
-99,Bahia - BA,Kayky Chagas,17' (1ºT),,
-99,Bahia - BA,Arthur Sales,20' (2ºT),,
-99,Cruzeiro Saf - MG,Wesley Ribeiro Silva,45' (1ºT),Wesley Ribeiro Silva,11.0
-99,Cruzeiro Saf - MG,Bruno Rodrigues,30' (1ºT),Bruno Rafael Rodrigues do Nascimento,9.0
-100,America Saf - MG,Wellington Paulista,30' (2ºT),Wellington Pereira do Nascimento,9.0
-100,America Saf - MG,Danilo,45+6' (2ºT),Danilo Fernando Avelar,22.0
-100,Athletico Paranaense - PR,Vitor Roque,9' (1ºT),Vitor Hugo Roque Ferreira,9.0
-100,Athletico Paranaense - PR,Christian,3' (2ºT),Christian Roberto Alves Cardoso,88.0
-101,Fluminense - RJ,Guga,34' (1ºT),Claudio Rodrigues Gomes,23.0
-101,Fluminense - RJ,Samuel Xavier,45+1' (2ºT),Samuel Xavier Brito,2.0
-102,Goiás - GO,Morelli,28' (2ºT),Everton Morelli Casimiro,40.0
-103,São Paulo - SP,Gabriel Neves,19' (1ºT),Gabriel Neves Perdomo,20.0
-103,São Paulo - SP,Luciano,2' (2ºT),Luciano da Rocha Neves,10.0
-103,Athletico Paranaense - PR,Vitor Roque,10' (1ºT),Vitor Hugo Roque Ferreira,9.0
-104,Corinthians - SP,RUAN,27' (1ºT),Ruan de Oliveira Ferreira,0.0
-104,Corinthians - SP,Yuri Alberto,18' (1ºT),Yuri Alberto Monteiro da Silva,9.0
-105,Red Bull Bragantino - SP,Alerrandro,30' (2ºT),Alerrandro Barra Mansa Realino de Souza,9.0
-105,Red Bull Bragantino - SP,Eduardo,40' (1ºT),Eduardo Gonzaga Mendes Santos,26.0
-105,Red Bull Bragantino - SP,Henry Mosquera,3' (2ºT),Henry David Mosquera Sanchez,16.0
-105,Red Bull Bragantino - SP,Henry Mosquera,35' (2ºT),Henry David Mosquera Sanchez,16.0
-106,Fortaleza - CE,Lucero,34' (2ºT),Juan Martin Lucero,9.0
-107,Grêmio - RS,Suarez,23' (2ºT),Luis Alberto Suarez Diaz,9.0
-107,Grêmio - RS,Villasanti,15' (2ºT),Mathias Adalberto Villasanti Rolon,20.0
-107,America Saf - MG,Matheus,39' (1ºT),Matheus Fernando Cavichioli,1.0
-107,America Saf - MG,Danilo,24' (1ºT),Danilo Fernando Avelar,22.0
-108,Internacional - RS,Pedro,20' (2ºT),Pedro Henrique Konzen Medina da Silva,28.0
-109,Bahia - BA,Thaciano,45+2' (2ºT),Thaciano Mickael da Silva,0.0
-110,Botafogo - RJ,Tiquinho,15' (2ºT),Francisco das Chagas Soares dos Santos,9.0
-111,Fluminense - RJ,Lelê,3' (2ºT),Leanderson da Silva Genesio,99.0
-111,Fluminense - RJ,Gabriel Pirani,6' (2ºT),,
-111,Bahia - BA,Mingotti,27' (1ºT),Vinicius Alessandro Mingotti,0.0
-112,Vasco da Gama S.a.f. - RJ,Jair,31' (2ºT),Jair Rodrigues Junior,8.0
-113,Botafogo - RJ,Tiquinho,27' (1ºT),Francisco das Chagas Soares dos Santos,9.0
-114,Santos - SP,Rodrigo,6' (2ºT),Rodrigo Fernandez Cedres,14.0
-114,Santos - SP,Mendoza,39' (1ºT),John Steven Mendoza Valencia,0.0
-114,Flamengo - RJ,Everton,21' (1ºT),Everton Sousa Soares,11.0
-114,Flamengo - RJ,Erick Pulgar,11' (2ºT),Erick Antonio Pulgar Farfan,0.0
-114,Flamengo - RJ,Éverton Ribeiro,4' (2ºT),Everton Augusto de Barros Ribeiro,7.0
-115,Red Bull Bragantino - SP,Sorriso,45+2' (1ºT),Marcos Vinicios Lopes Moura,27.0
-115,Red Bull Bragantino - SP,Eduardo Sasha,6' (1ºT),Eduardo Colcenti Antunes,19.0
-116,São Paulo - SP,Rafinha,3' (1ºT),Marcio Rafael Ferreira de Souza,13.0
-117,Grêmio - RS,Bitello,8' (2ºT),,
-117,Grêmio - RS,Suarez,20' (2ºT),Luis Alberto Suarez Diaz,9.0
-117,Grêmio - RS,Andre,38' (2ºT),Andre Henrique da Silva Martins,77.0
-117,Grêmio - RS,Villasanti,2' (2ºT),Mathias Adalberto Villasanti Rolon,20.0
-117,Grêmio - RS,Cristaldo,33' (1ºT),Franco Sebastian Cristaldo,19.0
-118,Athletico Paranaense - PR,Vitor Roque,35' (1ºT),Vitor Hugo Roque Ferreira,9.0
-119,Fortaleza - CE,Pochettino,8' (2ºT),Tomas Pochettino,7.0
-119,Fortaleza - CE,Guilherme,16' (2ºT),Guilherme de Jesus da Silva,2.0
-119,Atlético Mineiro - MG,Alan Kardec,41' (2ºT),Alan Kardec de Souza Pereira Junior,0.0
-120,America Saf - MG,Juninho,18' (1ºT),Adilson dos Anjos Oliveira,8.0
-120,Internacional - RS,Alexandre,39' (2ºT),,
-120,Internacional - RS,Jean Dias,17' (2ºT),Jean Dias da Costa,38.0
-121,Flamengo - RJ,Gabriel Barbosa,15' (1ºT),Gabriel Barbosa Almeida,10.0
-121,Flamengo - RJ,De Arrascaeta,18' (2ºT),Giorgian Daniel de Arrascaeta Benedetti,0.0
-122,Botafogo - RJ,Carlos Alberto,45+5' (2ºT),Carlos Alberto Gomes da Silva Filho,0.0
-122,Botafogo - RJ,Luis Henrique,8' (2ºT),Luis Henrique Tomaz de Lima,11.0
-123,São Paulo - SP,Luciano,42' (2ºT),Luciano da Rocha Neves,10.0
-124,Red Bull Bragantino - SP,Eduardo Sasha,17' (1ºT),Eduardo Colcenti Antunes,19.0
-125,Goiás - GO,Vinicius,24' (2ºT),Vinicius Rodrigues Adelino dos Santos,7.0
-125,Goiás - GO,Vinicius,24' (2ºT),Vinicius Santos Silva,7.0
-126,Atlético Mineiro - MG,Hulk,27' (1ºT),Givanildo Vieira de Sousa,7.0
-126,Atlético Mineiro - MG,Zaracho,2' (1ºT),Federico Matias Zaracho,15.0
-126,America Saf - MG,Gonzalo Mastriani,13' (2ºT),Gonzalo Mathias Mastriani Borges,17.0
-126,America Saf - MG,Gonzalo Mastriani,26' (2ºT),Gonzalo Mathias Mastriani Borges,17.0
-128,Athletico Paranaense - PR,Vitor Roque,27' (2ºT),Vitor Hugo Roque Ferreira,9.0
-128,Athletico Paranaense - PR,Vitor Bueno,21' (2ºT),Vitor Frezarin Bueno,8.0
-128,Palmeiras - SP,Gabriel Menino,12' (2ºT),Gabriel Vinicius Menino,25.0
-128,Palmeiras - SP,Endrick,22' (1ºT),Endrick Felipe Moreira de Sousa,9.0
-129,Bahia - BA,Kayky Chagas,20' (1ºT),,
-129,Grêmio - RS,Cristaldo,8' (1ºT),Franco Sebastian Cristaldo,19.0
-129,Grêmio - RS,G. Martins,45+4' (2ºT),Gustavo Martins de Souza Santos,0.0
-130,Cuiabá Saf - MT,RIKELME,40' (2ºT),Rikelme Hernandes Amorim Rocha,0.0
-130,Cuiabá Saf - MT,Denilson,30' (2ºT),Denilson Alves Borges,27.0
-130,Cuiabá Saf - MT,Deyverson,7' (2ºT),Deyverson Brum Silva,16.0
-131,Fluminense - RJ,German Cano,24' (1ºT),German Ezequiel Cano,14.0
-131,Fluminense - RJ,Martinelli,39' (1ºT),Matheus Martinelli Lima,0.0
-132,Cruzeiro Saf - MG,Filipe Machado,45+3' (1ºT),Luiz Filipe da Rosa Machado,23.0
-133,Palmeiras - SP,Dudu,23' (1ºT),Eduardo Pereira Rodrigues,7.0
-133,Flamengo - RJ,De Arrascaeta,35' (2ºT),Giorgian Daniel de Arrascaeta Benedetti,0.0
-134,Santos - SP,Mendoza,45' (1ºT),John Steven Mendoza Valencia,0.0
-134,Santos - SP,Mendoza,45+3' (2ºT),John Steven Mendoza Valencia,0.0
-134,Santos - SP,Marcos Leonardo,15' (1ºT),Marcos Leonardo Santos Almeida,9.0
-134,Santos - SP,Marcos Leonardo,29' (1ºT),Marcos Leonardo Santos Almeida,9.0
-134,Goiás - GO,Guilherme,39' (1ºT),Guilherme Costa Marques,60.0
-134,Goiás - GO,Guilherme,15' (2ºT),Guilherme Costa Marques,60.0
-134,Goiás - GO,Joao,35' (2ºT),Joao Victo Magno de Souza Machado,0.0
-136,Corinthians - SP,Roger Guedes,40' (1ºT),,
-137,Botafogo - RJ,Carlos Alberto,41' (2ºT),Carlos Alberto Gomes da Silva Filho,0.0
-137,Botafogo - RJ,Carlos,29' (2ºT),Carlos Eduardo de Oliveira Alves,33.0
-138,Coritiba S.a.f. - PR,Robson,43' (1ºT),Robson dos Santos Fernandes,0.0
-138,Coritiba S.a.f. - PR,Alef Manga,39' (1ºT),,
-138,Coritiba S.a.f. - PR,Victor,45+6' (2ºT),Victor Luis Chuab Zamblauskas,0.0
-138,America Saf - MG,Juninho,7' (1ºT),Adilson dos Anjos Oliveira,8.0
-139,Fortaleza - CE,Yago,38' (2ºT),Glaybson Yago Souza Lisbôa,22.0
-140,Cuiabá Saf - MT,ALAN,5' (2ºT),Alan Pereira Empereur,33.0
-140,Cuiabá Saf - MT,Deyverson,17' (1ºT),Deyverson Brum Silva,16.0
-142,Botafogo - RJ,Di Placido,15' (2ºT),Leonel Di Placido,24.0
-142,Botafogo - RJ,Carlos,2' (2ºT),Carlos Eduardo de Oliveira Alves,33.0
-143,São Paulo - SP,Calleri,21' (1ºT),Jonathan Calleri,9.0
-143,São Paulo - SP,Calleri,45+1' (1ºT),Jonathan Calleri,9.0
-143,São Paulo - SP,David,34' (2ºT),David Correa da Fonseca,22.0
-143,São Paulo - SP,Alexandre Pato,43' (2ºT),Alexandre Rodrigues da Silva,0.0
-143,Santos - SP,Marcos Leonardo,45+3' (2ºT),Marcos Leonardo Santos Almeida,9.0
-144,Corinthians - SP,Fabio Santos,44' (1ºT),Fabio Santos Romeu,6.0
-144,Corinthians - SP,Giuliano,22' (2ºT),Giuliano Victor de Paula,20.0
-144,Corinthians - SP,Lucas Verissimo,45+4' (1ºT),Lucas Verissimo da Silva,0.0
-144,Corinthians - SP,Yuri Alberto,45+5' (1ºT),Yuri Alberto Monteiro da Silva,9.0
-144,Grêmio - RS,Suarez,13' (2ºT),Luis Alberto Suarez Diaz,9.0
-144,Grêmio - RS,Nathan,20' (1ºT),Nathan Allan de Souza,7.0
-144,Grêmio - RS,Nathan,20' (1ºT),Nathan Ribeiro Fernandes,7.0
-144,Grêmio - RS,Galdino,5' (2ºT),Everton Galdino Moreira,13.0
-144,Grêmio - RS,Cristaldo,26' (1ºT),Franco Sebastian Cristaldo,19.0
-148,Athletico Paranaense - PR,Vitor Roque,23' (1ºT),Vitor Hugo Roque Ferreira,9.0
-148,Athletico Paranaense - PR,Erick,34' (1ºT),Erick Luis Conrado Carvalho,26.0
-149,Cuiabá Saf - MT,Deyverson,18' (1ºT),Deyverson Brum Silva,16.0
-150,Vasco da Gama S.a.f. - RJ,Jair,45+2' (2ºT),Jair Rodrigues Junior,8.0
-151,Flamengo - RJ,Victor Hugo,45+4' (2ºT),Victor Hugo Gomes Silva,29.0
-151,America Saf - MG,Felipe Azevedo,39' (2ºT),Felipe Azevedo dos Santos,11.0
-152,Athletico Paranaense - PR,Christian,25' (2ºT),Christian Roberto Alves Cardoso,88.0
-152,Athletico Paranaense - PR,Vitor Bueno,34' (2ºT),Vitor Frezarin Bueno,8.0
-153,Palmeiras - SP,Breno,45+5' (2ºT),Breno Henrique Vasconcelos Lopes,19.0
-153,Palmeiras - SP,Richard Rios,7' (1ºT),Richard Rios Montoya,27.0
-153,Palmeiras - SP,Raphael Veiga,35' (2ºT),Raphael Cavalcante Veiga,0.0
-153,Fortaleza - CE,Lucero,44' (1ºT),Juan Martin Lucero,9.0
-154,Santos - SP,Marcos Leonardo,23' (1ºT),Marcos Leonardo Santos Almeida,9.0
-154,Santos - SP,Marcos Leonardo,36' (2ºT),Marcos Leonardo Santos Almeida,9.0
-154,Botafogo - RJ,Tiquinho,38' (2ºT),Francisco das Chagas Soares dos Santos,9.0
-154,Botafogo - RJ,Adryelson,42' (2ºT),Adryelson Shawann Lima Silva,34.0
-156,Goiás - GO,Joao,27' (1ºT),Joao Victo Magno de Souza Machado,0.0
-157,Grêmio - RS,Ronald,10' (1ºT),Ronald Cardoso Falkoski,0.0
-158,Coritiba S.a.f. - PR,Diogo,27' (1ºT),Diogo de Oliveira Barbosa,0.0
-158,Coritiba S.a.f. - PR,Robson,23' (1ºT),Robson dos Santos Fernandes,0.0
-160,Cuiabá Saf - MT,PITTA,32' (2ºT),Isidro Miguel Pitta Saldivar,9.0
-160,Cuiabá Saf - MT,Clayson,20' (2ºT),Clayson Henrique da Silva Vieira,0.0
-160,São Paulo - SP,Nathan,45+4' (2ºT),Nathan Gabriel de Souza Mendes,45.0
-161,Fluminense - RJ,German Cano,32' (2ºT),German Ezequiel Cano,14.0
-162,Botafogo - RJ,Tiquinho,36' (1ºT),Francisco das Chagas Soares dos Santos,9.0
-162,Botafogo - RJ,Tiquinho,5' (2ºT),Francisco das Chagas Soares dos Santos,9.0
-162,Botafogo - RJ,Gustavo,2' (1ºT),,
-162,Botafogo - RJ,Gustavo,45+3' (1ºT),,
-162,Coritiba S.a.f. - PR,Bruno Gomes,8' (1ºT),Bruno Gomes da Silva Clevelario,0.0
-164,Corinthians - SP,Maycon,18' (1ºT),Maycon de Andrade Barberan,7.0
-164,Corinthians - SP,Roger Guedes,28' (2ºT),,
-164,Corinthians - SP,Yuri Alberto,16' (2ºT),Yuri Alberto Monteiro da Silva,9.0
-164,Vasco da Gama S.a.f. - RJ,Gabriel Pec,25' (2ºT),Gabriel Fortes Chaves,11.0
-165,Goiás - GO,Matheus Babi,32' (2ºT),Matheus Barcelos da Silva,0.0
-166,Atlético Mineiro - MG,Paulinho,32' (1ºT),Paulo Henrique Sampaio Filho,10.0
-166,Flamengo - RJ,Wesley,42' (2ºT),Wesley Vinicius França Lima,43.0
-166,Flamengo - RJ,De Arrascaeta,34' (2ºT),Giorgian Daniel de Arrascaeta Benedetti,0.0
-167,Internacional - RS,BUSTOS,15' (1ºT),Fabricio Tomas Bustos Sein,0.0
-167,Cuiabá Saf - MT,Raniele,43' (1ºT),Raniele Almeida Melo,14.0
-167,Cuiabá Saf - MT,Deyverson,42' (2ºT),Deyverson Brum Silva,16.0
-168,Athletico Paranaense - PR,Pablo,32' (2ºT),Pablo Felipe Teixeira,92.0
-168,Athletico Paranaense - PR,Madson,41' (1ºT),Madson Ferreira dos Santos,22.0
-168,Athletico Paranaense - PR,Fernandinho,41' (2ºT),Fernando Luiz Roza,5.0
-168,Cruzeiro Saf - MG,Arthur Gomes,7' (1ºT),Arthur Gomes Lourenco,0.0
-168,Cruzeiro Saf - MG,Arthur Gomes,36' (1ºT),Arthur Gomes Lourenco,0.0
-168,Cruzeiro Saf - MG,Wesley Ribeiro Silva,36' (2ºT),Wesley Ribeiro Silva,11.0
-169,Red Bull Bragantino - SP,Luan Candido,23' (1ºT),Luan Candido de Almeida,0.0
-169,Red Bull Bragantino - SP,Bruninho,23' (2ºT),Bruno Gonçalves de Jesus,17.0
-169,Red Bull Bragantino - SP,Thiago Borbas,45+1' (2ºT),Thiago Nicolas Borbas Silva,18.0
-170,America Saf - MG,Nicolas,38' (1ºT),Nicolas Vichiatto da Silva,30.0
-170,Palmeiras - SP,Artur,7' (2ºT),Artur Victor Guimaraes,14.0
-170,Palmeiras - SP,Murilo,17' (1ºT),Murilo Cerqueira Paim,26.0
-170,Palmeiras - SP,Rony,25' (1ºT),Ronielson da Silva Barbosa,0.0
-170,Palmeiras - SP,Rony,13' (2ºT),Ronielson da Silva Barbosa,0.0
-171,Fluminense - RJ,John Kennedy,13' (2ºT),John Kennedy Batista de Souza,9.0
-171,Fluminense - RJ,Jhon Arias,14' (1ºT),Jhon Adolfo Arias Andrade,21.0
-171,Palmeiras - SP,Gustavo Gomez,45+5' (2ºT),Gustavo Raul Gomez Portillo,15.0
-172,Vasco da Gama S.a.f. - RJ,Vegetti,35' (2ºT),Pablo Ezequiel Vegetti,0.0
-173,Atlético Mineiro - MG,Hulk,4' (1ºT),Givanildo Vieira de Sousa,7.0
-173,Atlético Mineiro - MG,Pavon,23' (2ºT),Cristian David Pavon,9.0
-174,Santos - SP,Marcos Leonardo,45+5' (2ºT),Marcos Leonardo Santos Almeida,9.0
-174,Athletico Paranaense - PR,Pablo,30' (1ºT),Pablo Felipe Teixeira,92.0
-175,Fortaleza - CE,Tobias,8' (1ºT),Tobias Pereira Figueiredo,0.0
-177,Internacional - RS,Luiz Adriano,45+8' (2ºT),Luiz Adriano Souza da Silva,9.0
-177,Internacional - RS,Bruno,16' (1ºT),Bruno Henrique Corsini,0.0
-177,Corinthians - SP,Fabio Santos,40' (2ºT),Fabio Santos Romeu,6.0
-177,Corinthians - SP,Renato Augusto,12' (1ºT),Renato Soares de Oliveira Augusto,0.0
-178,Red Bull Bragantino - SP,Sorriso,18' (1ºT),Marcos Vinicios Lopes Moura,27.0
-179,Bahia - BA,Everaldo,25' (1ºT),Everaldo Stum,0.0
-179,Bahia - BA,Cauly,15' (2ºT),Cauly Oliveira Souza,0.0
-179,Bahia - BA,Rafael Ratão,25' (2ºT),Rafael Rogerio da Silva,0.0
-179,America Saf - MG,Gonzalo Mastriani,7' (2ºT),Gonzalo Mathias Mastriani Borges,17.0
-180,Cuiabá Saf - MT,Deyverson,35' (2ºT),Deyverson Brum Silva,16.0
-180,Cuiabá Saf - MT,Matheus Alexandre,1' (2ºT),Matheus Alexandre Anastacio de Souza,2.0
-180,Cuiabá Saf - MT,Clayson,9' (2ºT),Clayson Henrique da Silva Vieira,0.0
-181,Flamengo - RJ,Pedro,45+6' (2ºT),Pedro Guilherme Abreu dos Santos,9.0
-181,São Paulo - SP,Lucas,37' (1ºT),Lucas Rodrigues Moura da Silva,0.0
-182,Botafogo - RJ,Joao Victor,9' (2ºT),Joao Victor Santos Sa,7.0
-182,Botafogo - RJ,Luis Henrique,27' (2ºT),Luis Henrique Tomaz de Lima,11.0
-182,Internacional - RS,Mauricio,17' (1ºT),Mauricio Magalhaes Prado,27.0
-182,Internacional - RS,Nicolas Hernandez,12' (2ºT),Nicolas Hernandez Rodriguez,22.0
-183,Palmeiras - SP,Lopez,45+5' (2ºT),Jose Manuel Alberto Lopez,18.0
-184,Corinthians - SP,Yuri Alberto,8' (2ºT),Yuri Alberto Monteiro da Silva,9.0
-184,Corinthians - SP,Wesley,21' (2ºT),Wesley Gassova Ribeiro Teixeira,0.0
-184,Corinthians - SP,Gil,6' (2ºT),Carlos Gilberto do Nascimento Silva,4.0
-184,Corinthians - SP,Murillo,27' (1ºT),,
-185,Red Bull Bragantino - SP,Gustavinho,45+7' (1ºT),Gustavo Ribeiro Neves,22.0
-185,Vasco da Gama S.a.f. - RJ,Vegetti,31' (1ºT),Pablo Ezequiel Vegetti,0.0
-186,Atlético Mineiro - MG,Paulinho,3' (2ºT),Paulo Henrique Sampaio Filho,10.0
-187,Grêmio - RS,Bitello,24' (1ºT),,
-187,Grêmio - RS,Ferreira,45' (1ºT),Aldemir dos Santos Ferreira,0.0
-187,Fluminense - RJ,German Cano,19' (1ºT),German Ezequiel Cano,14.0
-188,Athletico Paranaense - PR,Canobbio,44' (1ºT),Agustin Canobbio Graviz,14.0
-188,Athletico Paranaense - PR,Zapelli,37' (2ºT),Bruno Zapelli,0.0
-189,Fortaleza - CE,Bruno Pacheco,45' (2ºT),Bruno de Jesus Pacheco,6.0
-189,Fortaleza - CE,Caio,37' (2ºT),Caio Alexandre Sousa E Silva,8.0
-189,Fortaleza - CE,Machuca,13' (2ºT),Imanol Javier Machuca,0.0
-189,Santos - SP,Joao,35' (2ºT),Joao Lucas de Almeida Carvalho,0.0
-189,Santos - SP,Joao,35' (2ºT),Joao Othavio Basso,0.0
-190,Goiás - GO,Halter,34' (1ºT),Lucas Halter,3.0
-191,Fluminense - RJ,German Cano,19' (2ºT),German Ezequiel Cano,14.0
-191,Fluminense - RJ,John Kennedy,12' (2ºT),John Kennedy Batista de Souza,9.0
-191,Fluminense - RJ,Jhon Arias,43' (2ºT),Jhon Adolfo Arias Andrade,21.0
-191,America Saf - MG,Felipe Azevedo,7' (2ºT),Felipe Azevedo dos Santos,11.0
-192,Vasco da Gama S.a.f. - RJ,Serginho,5' (1ºT),Sergio Antonio da Luz Junior,0.0
-194,Santos - SP,Marcos Leonardo,17' (2ºT),Marcos Leonardo Santos Almeida,9.0
-194,Santos - SP,Julio Furch,44' (2ºT),Julio Cesar Furch,0.0
-194,Grêmio - RS,Cristaldo,1' (2ºT),Franco Sebastian Cristaldo,19.0
-195,Goiás - GO,Alesson,35' (2ºT),Alesson dos Santos Batista,27.0
-195,Athletico Paranaense - PR,Vitor Roque,38' (1ºT),Vitor Hugo Roque Ferreira,9.0
-196,Cruzeiro Saf - MG,Rafael Papagaio,44' (1ºT),Rafael Elias da Silva,0.0
-196,Corinthians - SP,Mosquito,45+7' (2ºT),Gustavo Henric da Silva,0.0
-197,Fortaleza - CE,Thiago Galhardo,11' (1ºT),Thiago Galhardo do Nascimento Rocha,91.0
-198,Coritiba S.a.f. - PR,Robson,14' (1ºT),Robson dos Santos Fernandes,0.0
-198,Coritiba S.a.f. - PR,Edu,1' (2ºT),Eduardo Nascimento da Silva Junior,0.0
-198,Flamengo - RJ,Gabriel Barbosa,19' (1ºT),Gabriel Barbosa Almeida,10.0
-198,Flamengo - RJ,Gerson,45+4' (2ºT),Gerson Santos da Silva,20.0
-198,Flamengo - RJ,De Arrascaeta,30' (1ºT),Giorgian Daniel de Arrascaeta Benedetti,0.0
-199,Bahia - BA,Vitor Hugo,37' (1ºT),Vitor Hugo Franchescoli de Souza,0.0
-199,Bahia - BA,Mingotti,14' (2ºT),Vinicius Alessandro Mingotti,0.0
-199,Bahia - BA,Cauly,38' (2ºT),Cauly Oliveira Souza,0.0
-199,Bahia - BA,Rezende,8' (1ºT),Julio Cesar de Rezende Miranda,0.0
-200,Palmeiras - SP,Raphael Veiga,30' (1ºT),Raphael Cavalcante Veiga,0.0
-200,Palmeiras - SP,Richard Rios,20' (2ºT),Richard Rios Montoya,27.0
-202,Botafogo - RJ,Diego Costa,4' (1ºT),Diego da Silva Costa,0.0
-202,Botafogo - RJ,Diego Costa,6' (2ºT),Diego da Silva Costa,0.0
-202,Botafogo - RJ,Luis Henrique,31' (2ºT),Luis Henrique Tomaz de Lima,11.0
-203,Palmeiras - SP,Raphael Veiga,19' (2ºT),Raphael Cavalcante Veiga,0.0
-204,Corinthians - SP,Maycon,37' (2ºT),Maycon de Andrade Barberan,7.0
-204,Goiás - GO,Guilherme,14' (2ºT),Guilherme Costa Marques,60.0
-205,Red Bull Bragantino - SP,Thiago Borbas,9' (2ºT),Thiago Nicolas Borbas Silva,18.0
-205,Red Bull Bragantino - SP,Talisson,37' (2ºT),Talisson de Almeida,21.0
-206,Atlético Mineiro - MG,Paulinho,12' (1ºT),Paulo Henrique Sampaio Filho,10.0
-206,Atlético Mineiro - MG,Paulinho,22' (2ºT),Paulo Henrique Sampaio Filho,10.0
-207,Grêmio - RS,Carballo,8' (2ºT),Felipe Ignacio Carballo Ares,0.0
-207,Grêmio - RS,Pepe,32' (2ºT),Joao Pedro Vilardi Pinto,0.0
-207,Grêmio - RS,Suarez,28' (1ºT),Luis Alberto Suarez Diaz,9.0
-208,Athletico Paranaense - PR,Cacá,12' (1ºT),Carlos de Menezes Junior,0.0
-208,Athletico Paranaense - PR,Vitor Roque,45+3' (2ºT),Vitor Hugo Roque Ferreira,9.0
-208,Fluminense - RJ,Guga,30' (2ºT),Claudio Rodrigues Gomes,23.0
-208,Fluminense - RJ,João Neto,42' (2ºT),João Batista da Cruz Santos Neto,0.0
-209,Fortaleza - CE,Lucero,41' (1ºT),Juan Martin Lucero,9.0
-209,Fortaleza - CE,Lucero,45+3' (1ºT),Juan Martin Lucero,9.0
-209,Fortaleza - CE,Marinho,14' (2ºT),Mario Sergio Santos Costa,0.0
-209,Coritiba S.a.f. - PR,BENJAMIN,23' (2ºT),Benjamin Kuscevic Jaramillo,0.0
-210,America Saf - MG,Gonzalo Mastriani,16' (2ºT),Gonzalo Mathias Mastriani Borges,17.0
-210,America Saf - MG,Rodrigo Varanda,45' (2ºT),Rodrigo Santos Varanda,0.0
-210,São Paulo - SP,Alexandre Pato,35' (2ºT),Alexandre Rodrigues da Silva,0.0
-211,Fluminense - RJ,Diogo Barbosa,45+1' (2ºT),Diogo Barbosa Mendanha,0.0
-212,Botafogo - RJ,Marlon Freitas,1' (1ºT),Marlon Rodrigues Freitas,17.0
-212,Botafogo - RJ,Joao Victor,18' (1ºT),Joao Victor Santos Sa,7.0
-212,Flamengo - RJ,Bruno Henrique,27' (2ºT),Bruno Henrique Pinto,27.0
-213,São Paulo - SP,Alan Franco,32' (1ºT),Alan Javier Franco,28.0
-213,São Paulo - SP,Luciano,45+12' (1ºT),Luciano da Rocha Neves,10.0
-213,Coritiba S.a.f. - PR,Slimani,45+5' (1ºT),Islam Slimani,0.0
-217,Grêmio - RS,Suarez,30' (1ºT),Luis Alberto Suarez Diaz,9.0
-217,Cuiabá Saf - MT,RIKELME,17' (2ºT),Rikelme Hernandes Amorim Rocha,0.0
-218,Athletico Paranaense - PR,Vitor Roque,33' (2ºT),Vitor Hugo Roque Ferreira,9.0
-218,Atlético Mineiro - MG,Paulinho,5' (1ºT),Paulo Henrique Sampaio Filho,10.0
-219,Bahia - BA,Ademir,44' (1ºT),Ademir da Silva Santos Junior,0.0
-219,Vasco da Gama S.a.f. - RJ,Vegetti,18' (2ºT),Pablo Ezequiel Vegetti,0.0
-220,America Saf - MG,Juninho,9' (2ºT),Adilson dos Anjos Oliveira,8.0
-220,America Saf - MG,Rodrigo Varanda,28' (1ºT),Rodrigo Santos Varanda,0.0
-221,Athletico Paranaense - PR,Cacá,27' (1ºT),Carlos de Menezes Junior,0.0
-221,Athletico Paranaense - PR,Alex Santana,38' (2ºT),Alex Paulo Menezes Santana,0.0
-221,Athletico Paranaense - PR,Vitor Bueno,45+6' (2ºT),Vitor Frezarin Bueno,8.0
-222,Vasco da Gama S.a.f. - RJ,Vegetti,4' (2ºT),Pablo Ezequiel Vegetti,0.0
-222,Vasco da Gama S.a.f. - RJ,Praxedes,23' (1ºT),Bruno Conceicao Praxedes,0.0
-222,Vasco da Gama S.a.f. - RJ,Gabriel Pec,28' (2ºT),Gabriel Fortes Chaves,11.0
-222,Vasco da Gama S.a.f. - RJ,Gabriel Pec,39' (2ºT),Gabriel Fortes Chaves,11.0
-222,Fluminense - RJ,Marcelo,1' (2ºT),Marcelo Vieira da Silva Junior,0.0
-222,Fluminense - RJ,Lima,10' (2ºT),Vinicius Moreira de Lima,45.0
-223,Palmeiras - SP,Breno,45+6' (2ºT),Breno Henrique Vasconcelos Lopes,19.0
-224,Cruzeiro Saf - MG,Bruno Rodrigues,25' (2ºT),Bruno Rafael Rodrigues do Nascimento,9.0
-224,Cruzeiro Saf - MG,Matheus,40' (1ºT),Matheus Isaias dos Santos,18.0
-224,Cruzeiro Saf - MG,Nikao,44' (2ºT),Maycon Vinicius Ferreira da Cruz,10.0
-225,Red Bull Bragantino - SP,Vitinho,45+1' (1ºT),Vitor Hugo Naum dos Santos,0.0
-225,Grêmio - RS,Joao Pedro,19' (1ºT),Joao Pedro Geraldino dos Santos Galvao,18.0
-225,Grêmio - RS,Joao Pedro,19' (1ºT),Joao Pedro Maturano dos Santos,18.0
-226,Atlético Mineiro - MG,Paulinho,35' (2ºT),Paulo Henrique Sampaio Filho,10.0
-227,Internacional - RS,BUSTOS,13' (2ºT),Fabricio Tomas Bustos Sein,0.0
-227,Internacional - RS,Rene,25' (2ºT),Rene Rodrigues Martins,6.0
-227,São Paulo - SP,Calleri,45+3' (1ºT),Jonathan Calleri,9.0
-228,Coritiba S.a.f. - PR,Andrey,45+4' (2ºT),Andrey Ramos do Nascimento,0.0
-228,Coritiba S.a.f. - PR,Sebastian Gomez,1' (1ºT),Sebastian Gomez Londono,0.0
-228,Bahia - BA,Ademir,34' (1ºT),Ademir da Silva Santos Junior,0.0
-228,Bahia - BA,Thaciano,30' (1ºT),Thaciano Mickael da Silva,0.0
-228,Bahia - BA,Rafael Ratão,10' (1ºT),Rafael Rogerio da Silva,0.0
-228,Bahia - BA,Biel,28' (2ºT),Gabriel Teixeira Aragao,0.0
-229,Fortaleza - CE,Lucero,26' (1ºT),Juan Martin Lucero,9.0
-229,Fortaleza - CE,Yago,45+3' (2ºT),Glaybson Yago Souza Lisbôa,22.0
-229,Corinthians - SP,Pedrinho,32' (1ºT),Pedro Henrique de Assis,27.0
-229,Corinthians - SP,Pedrinho,32' (1ºT),Pedro Henrique Silva dos Santos,27.0
-230,Cuiabá Saf - MT,Deyverson,35' (1ºT),Deyverson Brum Silva,16.0
-230,Cuiabá Saf - MT,Wellington Silva,40' (1ºT),Wellington Alves da Silva,11.0
-230,America Saf - MG,Rodrigo,10' (1ºT),Rodrigo Henrique Santos de Souza,0.0
-230,America Saf - MG,Felipe Azevedo,31' (1ºT),Felipe Azevedo dos Santos,11.0
-231,Fluminense - RJ,Leo Fernandez,21' (2ºT),Leonardo Cecilio Fernandez Lopez,0.0
-232,Vasco da Gama S.a.f. - RJ,Zé Gabriel,8' (1ºT),Jose Gabriel dos Santos Silva,0.0
-232,Vasco da Gama S.a.f. - RJ,Rossi,33' (1ºT),Rosicley Pereira da Silva,0.0
-232,Vasco da Gama S.a.f. - RJ,Gabriel Pec,35' (2ºT),Gabriel Fortes Chaves,11.0
-232,Vasco da Gama S.a.f. - RJ,Vegetti,5' (2ºT),Pablo Ezequiel Vegetti,0.0
-232,Vasco da Gama S.a.f. - RJ,Vegetti,17' (2ºT),Pablo Ezequiel Vegetti,0.0
-232,Coritiba S.a.f. - PR,Sebastian Gomez,34' (2ºT),Sebastian Gomez Londono,0.0
-233,São Paulo - SP,James Rodriguez,33' (2ºT),James David Rodriguez Rubio,0.0
-233,Fortaleza - CE,Lucero,7' (2ºT),Juan Martin Lucero,9.0
-233,Fortaleza - CE,Welison,15' (1ºT),José Welison da Silva,17.0
-234,Corinthians - SP,Gil,13' (2ºT),Carlos Gilberto do Nascimento Silva,4.0
-236,Atlético Mineiro - MG,Paulinho,41' (1ºT),Paulo Henrique Sampaio Filho,10.0
-237,Grêmio - RS,Joao Pedro,9' (1ºT),Joao Pedro Geraldino dos Santos Galvao,18.0
-237,Grêmio - RS,Joao Pedro,9' (1ºT),Joao Pedro Maturano dos Santos,18.0
-238,Athletico Paranaense - PR,Erick,23' (1ºT),Erick Luis Conrado Carvalho,26.0
-238,Athletico Paranaense - PR,Alex Santana,44' (2ºT),Alex Paulo Menezes Santana,0.0
-238,Internacional - RS,Carlos de Pena,35' (1ºT),Carlos Maria de Pena Bonino,14.0
-239,Bahia - BA,Camilo Cándido,14' (2ºT),Camilo Damian Candido Aquino,0.0
-239,Santos - SP,Marcos Leonardo,27' (2ºT),Marcos Leonardo Santos Almeida,9.0
-239,Santos - SP,Julio Furch,45+4' (2ºT),Julio Cesar Furch,0.0
-240,Red Bull Bragantino - SP,Jadsom Silva,35' (1ºT),Jadsom Meemyas de Oliveira da Silva,5.0
-240,Red Bull Bragantino - SP,Evangelista,45+9' (2ºT),Lucas Evangelista Santana de Oliveira,8.0
-241,Flamengo - RJ,Pedro,15' (2ºT),Pedro Guilherme Abreu dos Santos,9.0
-242,Botafogo - RJ,Tiquinho,6' (2ºT),Francisco das Chagas Soares dos Santos,9.0
-242,Goiás - GO,Halter,26' (1ºT),Lucas Halter,3.0
-243,São Paulo - SP,Calleri,40' (1ºT),Jonathan Calleri,9.0
-243,São Paulo - SP,Calleri,45+2' (1ºT),Jonathan Calleri,9.0
-243,Corinthians - SP,Angel Romero,3' (1ºT),Angel Rodrigo Romero Villamayor,11.0
-244,Santos - SP,Marcos Leonardo,14' (1ºT),Marcos Leonardo Santos Almeida,9.0
-244,Santos - SP,Marcos Leonardo,45+2' (1ºT),Marcos Leonardo Santos Almeida,9.0
-244,Santos - SP,Yeferson Soteldo,29' (2ºT),Yeferson Julio Soteldo Martinez,10.0
-244,Santos - SP,Tomás Rincón,45' (1ºT),Tomás Eduardo Rincón Hernández,0.0
-244,Vasco da Gama S.a.f. - RJ,Vegetti,30' (1ºT),Pablo Ezequiel Vegetti,0.0
-245,Red Bull Bragantino - SP,Eduardo Sasha,36' (2ºT),Eduardo Colcenti Antunes,19.0
-245,Red Bull Bragantino - SP,Eric Ramires,44' (2ºT),Eric dos Santos Rodrigues,7.0
-245,Palmeiras - SP,Endrick,15' (1ºT),Endrick Felipe Moreira de Sousa,9.0
-246,Cruzeiro Saf - MG,Luciano Castan,20' (1ºT),Luciano Castan da Silva,4.0
-246,America Saf - MG,Martin Benitez,28' (1ºT),Martin Nicolas Benitez,0.0
-247,Atlético Mineiro - MG,Hulk,28' (2ºT),Givanildo Vieira de Sousa,7.0
-247,Atlético Mineiro - MG,Igor Gomes,38' (2ºT),Igor Silveira Gomes,17.0
-248,Coritiba S.a.f. - PR,Victor,13' (1ºT),Victor Luis Chuab Zamblauskas,0.0
-248,Coritiba S.a.f. - PR,Slimani,45+3' (1ºT),Islam Slimani,0.0
-249,Fortaleza - CE,Thiago Galhardo,43' (1ºT),Thiago Galhardo do Nascimento Rocha,91.0
-249,Grêmio - RS,Suarez,34' (2ºT),Luis Alberto Suarez Diaz,9.0
-250,Cuiabá Saf - MT,Clayson,11' (2ºT),Clayson Henrique da Silva Vieira,0.0
-250,Cuiabá Saf - MT,ALAN,18' (2ºT),Alan Pereira Empereur,33.0
-250,Cuiabá Saf - MT,Fernando,41' (2ºT),Fernando Pereira do Nascimento,88.0
-251,Botafogo - RJ,Tiquinho,22' (1ºT),Francisco das Chagas Soares dos Santos,9.0
-251,Botafogo - RJ,Junior,19' (1ºT),Jose Antonio dos Santos Junior,37.0
-253,Palmeiras - SP,Ze Rafael,42' (1ºT),Jose Rafael Vivian,8.0
-253,Santos - SP,Marcos Leonardo,24' (2ºT),Marcos Leonardo Santos Almeida,9.0
-253,Santos - SP,Tomás Rincón,45+1' (1ºT),Tomás Eduardo Rincón Hernández,0.0
-254,Corinthians - SP,Fabio Santos,34' (2ºT),Fabio Santos Romeu,6.0
-254,Flamengo - RJ,Gerson,10' (2ºT),Gerson Santos da Silva,20.0
-255,Goiás - GO,Matheus Babi,45+4' (1ºT),Matheus Barcelos da Silva,0.0
-255,Goiás - GO,Joao,4' (2ºT),Joao Victo Magno de Souza Machado,0.0
-255,Goiás - GO,Guilherme,27' (1ºT),Guilherme Costa Marques,60.0
-255,Goiás - GO,Guilherme,45+1' (1ºT),Guilherme Costa Marques,60.0
-255,Bahia - BA,Everaldo,14' (1ºT),Everaldo Stum,0.0
-255,Bahia - BA,Everaldo,37' (1ºT),Everaldo Stum,0.0
-255,Bahia - BA,Everaldo,7' (2ºT),Everaldo Stum,0.0
-255,Bahia - BA,Biel,45+5' (2ºT),Gabriel Teixeira Aragao,0.0
-255,Bahia - BA,Gilberto,17' (1ºT),Gilberto Moraes Junior,0.0
-255,Bahia - BA,Rafael Ratão,11' (2ºT),Rafael Rogerio da Silva,0.0
-256,Atlético Mineiro - MG,Hulk,12' (2ºT),Givanildo Vieira de Sousa,7.0
-256,Coritiba S.a.f. - PR,Matheus,18' (2ºT),Matheus Henrique Bianqui,0.0
-256,Coritiba S.a.f. - PR,Slimani,45' (2ºT),Islam Slimani,0.0
-257,Internacional - RS,WANDERSON,3' (2ºT),Wanderson Maciel Sousa Campos,11.0
-257,Internacional - RS,Alan Patrick,23' (2ºT),Alan Patrick Lourenço,10.0
-257,Internacional - RS,Valencia,6' (1ºT),Enner Remberto Valencia Lastra,0.0
-257,Grêmio - RS,Joao Pedro,22' (2ºT),Joao Pedro Geraldino dos Santos Galvao,18.0
-257,Grêmio - RS,Joao Pedro,22' (2ºT),Joao Pedro Maturano dos Santos,18.0
-257,Grêmio - RS,Suarez,28' (2ºT),Luis Alberto Suarez Diaz,9.0
-258,Athletico Paranaense - PR,Pablo,45+1' (1ºT),Pablo Felipe Teixeira,92.0
-258,Red Bull Bragantino - SP,Eric Ramires,33' (1ºT),Eric dos Santos Rodrigues,7.0
-259,Fortaleza - CE,Bruno Pacheco,22' (2ºT),Bruno de Jesus Pacheco,6.0
-259,Fortaleza - CE,Lucero,30' (1ºT),Juan Martin Lucero,9.0
-259,Fortaleza - CE,Machuca,10' (2ºT),Imanol Javier Machuca,0.0
-259,America Saf - MG,Gonzalo Mastriani,17' (1ºT),Gonzalo Mathias Mastriani Borges,17.0
-259,America Saf - MG,Gonzalo Mastriani,22' (1ºT),Gonzalo Mathias Mastriani Borges,17.0
-261,Fluminense - RJ,Lima,21' (1ºT),Vinicius Moreira de Lima,45.0
-261,Fluminense - RJ,Lima,10' (2ºT),Vinicius Moreira de Lima,45.0
-261,Fluminense - RJ,Jhon Arias,37' (2ºT),Jhon Adolfo Arias Andrade,21.0
-261,Corinthians - SP,Fabio Santos,31' (1ºT),Fabio Santos Romeu,6.0
-261,Corinthians - SP,Yuri Alberto,9' (1ºT),Yuri Alberto Monteiro da Silva,9.0
-261,Corinthians - SP,Yuri Alberto,26' (1ºT),Yuri Alberto Monteiro da Silva,9.0
-262,Vasco da Gama S.a.f. - RJ,Payet,13' (2ºT),Dimitri Payet,0.0
-263,Atlético Mineiro - MG,Hulk,2' (1ºT),Givanildo Vieira de Sousa,7.0
-263,Atlético Mineiro - MG,Paulinho,30' (2ºT),Paulo Henrique Sampaio Filho,10.0
-264,Red Bull Bragantino - SP,Eduardo Sasha,9' (1ºT),Eduardo Colcenti Antunes,19.0
-264,Red Bull Bragantino - SP,Eduardo Sasha,28' (1ºT),Eduardo Colcenti Antunes,19.0
-264,Red Bull Bragantino - SP,Léo Ortiz,39' (2ºT),Leonardo Rech Ortiz,0.0
-264,Red Bull Bragantino - SP,Eric Ramires,2' (2ºT),Eric dos Santos Rodrigues,7.0
-265,Goiás - GO,Hugo,9' (1ºT),Hugo Ferreira de Farias,66.0
-265,Goiás - GO,Morelli,45+5' (1ºT),Everton Morelli Casimiro,40.0
-266,Flamengo - RJ,Ayrton Lucas,38' (1ºT),Ayrton Lucas Dantas de Medeiros,6.0
-266,Flamengo - RJ,Pedro,43' (1ºT),Pedro Guilherme Abreu dos Santos,9.0
-267,Grêmio - RS,Besozzi,7' (1ºT),Lucas Agustin Besozzi,0.0
-267,Athletico Paranaense - PR,Zapelli,37' (1ºT),Bruno Zapelli,0.0
-267,Athletico Paranaense - PR,Kaique,45+3' (2ºT),Kaique Rocha Lima,0.0
-268,Cuiabá Saf - MT,PITTA,36' (2ºT),Isidro Miguel Pitta Saldivar,9.0
-268,Cuiabá Saf - MT,Deyverson,24' (1ºT),Deyverson Brum Silva,16.0
-268,Cuiabá Saf - MT,Raniele,42' (2ºT),Raniele Almeida Melo,14.0
-269,Bahia - BA,Biel,43' (1ºT),Gabriel Teixeira Aragao,0.0
-270,America Saf - MG,Martin Benitez,38' (1ºT),Martin Nicolas Benitez,0.0
-270,Botafogo - RJ,Junior,21' (1ºT),Jose Antonio dos Santos Junior,37.0
-270,Botafogo - RJ,Junior,4' (2ºT),Jose Antonio dos Santos Junior,37.0
-271,Flamengo - RJ,Gerson,30' (2ºT),Gerson Santos da Silva,20.0
-272,Botafogo - RJ,Tiquinho,23' (1ºT),Francisco das Chagas Soares dos Santos,9.0
-272,Athletico Paranaense - PR,Pablo,41' (1ºT),Pablo Felipe Teixeira,92.0
-273,São Paulo - SP,Michel Araujo,20' (1ºT),Michel Daryl Araujo Villar,15.0
-273,São Paulo - SP,Luciano,45+6' (2ºT),Luciano da Rocha Neves,10.0
-273,São Paulo - SP,Pablo,23' (2ºT),Pablo Gonçalves Maia Fortunato,29.0
-274,Corinthians - SP,Giuliano,45+8' (2ºT),Giuliano Victor de Paula,20.0
-274,America Saf - MG,Martin Benitez,37' (1ºT),Martin Nicolas Benitez,0.0
-275,Red Bull Bragantino - SP,Eduardo Sasha,16' (1ºT),Eduardo Colcenti Antunes,19.0
-276,Atlético Mineiro - MG,Jemerson,42' (2ºT),Jemerson de Jesus Nascimento,34.0
-277,Internacional - RS,Alan Patrick,13' (1ºT),Alan Patrick Lourenço,10.0
-277,Internacional - RS,Luiz Adriano,29' (2ºT),Luiz Adriano Souza da Silva,9.0
-277,Internacional - RS,BUSTOS,8' (2ºT),Fabricio Tomas Bustos Sein,0.0
-277,Internacional - RS,WANDERSON,38' (1ºT),Wanderson Maciel Sousa Campos,11.0
-277,Internacional - RS,Valencia,27' (1ºT),Enner Remberto Valencia Lastra,0.0
-277,Internacional - RS,Valencia,15' (2ºT),Enner Remberto Valencia Lastra,0.0
-277,Santos - SP,Maximiliano,34' (2ºT),Maximiliano Joaquin Silvera Cabo,0.0
-277,Santos - SP,Kevyson,1' (1ºT),Kevyson Costa E Silva,0.0
-278,Palmeiras - SP,Joaquin Piquerez,45+3' (1ºT),Joaquin Piquerez Moreira,22.0
-278,Palmeiras - SP,Gustavo Gomez,32' (1ºT),Gustavo Raul Gomez Portillo,15.0
-279,Bahia - BA,Kanu,21' (1ºT),Victor Hugo Soares dos Santos,0.0
-279,Bahia - BA,Rafael Ratão,45+6' (2ºT),Rafael Rogerio da Silva,0.0
-280,Cuiabá Saf - MT,Clayson,1' (2ºT),Clayson Henrique da Silva Vieira,0.0
-280,Goiás - GO,Guilherme,45+8' (1ºT),Guilherme Costa Marques,60.0
-281,Fluminense - RJ,Jhon Arias,36' (1ºT),Jhon Adolfo Arias Andrade,21.0
-281,Fluminense - RJ,Jhon Arias,1' (2ºT),Jhon Adolfo Arias Andrade,21.0
-281,Fluminense - RJ,Keno,7' (2ºT),Marcos da Silva Franca,11.0
-281,Fluminense - RJ,Keno,17' (2ºT),Marcos da Silva Franca,11.0
-281,Fluminense - RJ,Felipe Melo,16' (1ºT),Felipe Melo de Carvalho,30.0
-281,Goiás - GO,Julian,22' (2ºT),Julian Eduardo Palacios,10.0
-281,Goiás - GO,Allano,4' (1ºT),Allano Brendon de Souza Lima,0.0
-281,Goiás - GO,Matheus Babi,12' (1ºT),Matheus Barcelos da Silva,0.0
-282,Vasco da Gama S.a.f. - RJ,Alex Teixeira,38' (2ºT),Alex Teixeira Santos,7.0
-282,Internacional - RS,Valencia,13' (2ºT),Enner Remberto Valencia Lastra,0.0
-282,Internacional - RS,Mauricio,19' (1ºT),Mauricio Magalhaes Prado,27.0
-283,Palmeiras - SP,Marcos Rocha,39' (2ºT),Marcos Luis Rocha Aquino,2.0
-283,Palmeiras - SP,Joaquin Piquerez,45+1' (1ºT),Joaquin Piquerez Moreira,22.0
-283,Palmeiras - SP,Joaquin Piquerez,41' (2ºT),Joaquin Piquerez Moreira,22.0
-283,Palmeiras - SP,Breno,16' (1ºT),Breno Henrique Vasconcelos Lopes,19.0
-283,Palmeiras - SP,Breno,26' (1ºT),Breno Henrique Vasconcelos Lopes,19.0
-284,Santos - SP,Marcos Leonardo,28' (2ºT),Marcos Leonardo Santos Almeida,9.0
-284,Coritiba S.a.f. - PR,Matheus,3' (1ºT),Matheus Henrique Bianqui,0.0
-284,Coritiba S.a.f. - PR,Robson,10' (1ºT),Robson dos Santos Fernandes,0.0
-285,Red Bull Bragantino - SP,Talisson,38' (2ºT),Talisson de Almeida,21.0
-285,Atlético Mineiro - MG,Hulk,35' (1ºT),Givanildo Vieira de Sousa,7.0
-285,Atlético Mineiro - MG,Igor Gomes,35' (2ºT),Igor Silveira Gomes,17.0
-286,Cruzeiro Saf - MG,Bruno Rodrigues,42' (2ºT),Bruno Rafael Rodrigues do Nascimento,9.0
-286,Cruzeiro Saf - MG,Marlon,7' (2ºT),Marlon Rodrigues Xavier,3.0
-286,Bahia - BA,Kanu,18' (1ºT),Victor Hugo Soares dos Santos,0.0
-287,Grêmio - RS,Nathan,35' (2ºT),Nathan Allan de Souza,7.0
-287,Grêmio - RS,Nathan,35' (2ºT),Nathan Ribeiro Fernandes,7.0
-287,Grêmio - RS,Andre,40' (2ºT),Andre Henrique da Silva Martins,77.0
-287,Grêmio - RS,Ferreira,30' (2ºT),Aldemir dos Santos Ferreira,0.0
-287,Flamengo - RJ,Luiz,43' (2ºT),Luiz de Araujo Guimaraes Neto,0.0
-287,Flamengo - RJ,Everton,41' (1ºT),Everton Sousa Soares,11.0
-288,Athletico Paranaense - PR,Vitor Bueno,45+2' (1ºT),Vitor Frezarin Bueno,8.0
-288,Athletico Paranaense - PR,Pablo,44' (1ºT),Pablo Felipe Teixeira,92.0
-288,Athletico Paranaense - PR,Erick,27' (1ºT),Erick Luis Conrado Carvalho,26.0
-288,America Saf - MG,Emmanuel Martinez,33' (2ºT),Leandro Emmanuel Martinez,5.0
-288,America Saf - MG,Gonzalo Mastriani,11' (1ºT),Gonzalo Mathias Mastriani Borges,17.0
-290,Corinthians - SP,Angel Romero,33' (2ºT),Angel Rodrigo Romero Villamayor,11.0
+NPartida,Clube,Apelido,Momento,Nome,Camisa,id
+1,Flamengo - RJ,Ayrton Lucas,11' (1ºT),Ayrton Lucas Dantas de Medeiros,6.0,75.0
+1,Flamengo - RJ,Gabriel Barbosa,10' (2ºT),Gabriel Barbosa Almeida,10.0,294.0
+1,Flamengo - RJ,Pedro,45+4' (2ºT),Pedro Guilherme Abreu dos Santos,9.0,824.0
+2,Botafogo - RJ,Carlos,43' (2ºT),Carlos Eduardo de Oliveira Alves,33.0,129.0
+2,Botafogo - RJ,Tiquinho,3' (1ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+2,São Paulo - SP,Calleri,16' (1ºT),Jonathan Calleri,9.0,498.0
+3,Palmeiras - SP,Endrick,4' (1ºT),Endrick Felipe Moreira de Sousa,9.0,223.0
+3,Palmeiras - SP,Lopez,19' (2ºT),Jose Manuel Alberto Lopez,18.0,509.0
+3,Cuiabá Saf - MT,Raniele,45+5' (1ºT),Raniele Almeida Melo,14.0,861.0
+4,Corinthians - SP,Matheus Araujo,23' (2ºT),Matheus de Araujo Andrade,30.0,724.0
+4,Corinthians - SP,Roger Guedes,42' (2ºT),,,
+4,Cruzeiro Saf - MG,Lucas Oliveira,45+5' (2ºT),Lucas da Cruz Oliveira,26.0,605.0
+4,Cruzeiro Saf - MG,Lucas Oliveira,45+5' (2ºT),Lucas da Cruz Oliveira,6.0,606.0
+5,Red Bull Bragantino - SP,Bruninho,8' (2ºT),Bruno Gonçalves de Jesus,17.0,101.0
+5,Red Bull Bragantino - SP,Eduardo Sasha,25' (2ºT),Eduardo Colcenti Antunes,19.0,206.0
+6,Atlético Mineiro - MG,Muricio Lemos,45+4' (1ºT),Paolo Mauricio Lemos Merladett,28.0,803.0
+6,Vasco da Gama S.a.f. - RJ,Andrey Santos,4' (1ºT),,,
+6,Vasco da Gama S.a.f. - RJ,Gabriel Pec,10' (1ºT),Gabriel Fortes Chaves,11.0,305.0
+7,Grêmio - RS,Joao Pedro,43' (1ºT),Joao Pedro Geraldino dos Santos Galvao,18.0,471.0
+7,Grêmio - RS,Joao Pedro,43' (1ºT),Joao Pedro Maturano dos Santos,18.0,472.0
+8,Athletico Paranaense - PR,Christian,12' (2ºT),Christian Roberto Alves Cardoso,88.0,143.0
+8,Athletico Paranaense - PR,Pedro Henrique,35' (1ºT),Pedro Henrique Ribeiro Goncalves,34.0,831.0
+9,Fortaleza - CE,Moises,11' (2ºT),,,
+9,Internacional - RS,WANDERSON,8' (2ºT),Wanderson Maciel Sousa Campos,11.0,1032.0
+10,Fluminense - RJ,German Cano,6' (2ºT),German Ezequiel Cano,14.0,324.0
+10,Fluminense - RJ,Lelê,26' (2ºT),Leanderson da Silva Genesio,99.0,561.0
+10,Fluminense - RJ,John Kennedy,14' (2ºT),John Kennedy Batista de Souza,9.0,494.0
+11,Fluminense - RJ,Nino,21' (2ºT),Marcilio Florencio Mota Filho,33.0,682.0
+11,Fluminense - RJ,Lima,10' (1ºT),Vinicius Moreira de Lima,45.0,1003.0
+12,Vasco da Gama S.a.f. - RJ,Pedro Raul,28' (1ºT),,,
+12,Vasco da Gama S.a.f. - RJ,Gabriel Pec,39' (1ºT),Gabriel Fortes Chaves,11.0,305.0
+12,Palmeiras - SP,Artur,17' (2ºT),Artur Victor Guimaraes,14.0,72.0
+12,Palmeiras - SP,Rafael Navarro,45+1' (1ºT),,,
+13,São Paulo - SP,Luciano,20' (1ºT),Luciano da Rocha Neves,10.0,642.0
+13,São Paulo - SP,Marcos Paulo,45+5' (2ºT),Marcos Paulo Costa do Nascimento,32.0,691.0
+13,São Paulo - SP,Calleri,37' (2ºT),Jonathan Calleri,9.0,498.0
+15,Goiás - GO,Halter,35' (2ºT),Lucas Halter,3.0,623.0
+15,Goiás - GO,Apodi,45+4' (2ºT),Luiz Diallisson de Souza Alves,22.0,662.0
+15,Goiás - GO,Matheus Peixoto,30' (1ºT),,,
+15,Corinthians - SP,Roger Guedes,16' (1ºT),,,
+16,Cruzeiro Saf - MG,Bruno Rodrigues,19' (2ºT),Bruno Rafael Rodrigues do Nascimento,9.0,106.0
+17,Internacional - RS,Mauricio,21' (2ºT),Mauricio Magalhaes Prado,27.0,756.0
+17,Internacional - RS,Mauricio,45+8' (2ºT),Mauricio Magalhaes Prado,27.0,756.0
+17,Flamengo - RJ,Gerson,17' (2ºT),Gerson Santos da Silva,20.0,325.0
+18,Fortaleza - CE,Silvio Romero,6' (2ºT),Silvio Ezequiel Romero,18.0,947.0
+18,Fortaleza - CE,Yago,37' (2ºT),Glaybson Yago Souza Lisbôa,22.0,336.0
+18,Fortaleza - CE,Yago,45' (2ºT),Glaybson Yago Souza Lisbôa,22.0,336.0
+19,Botafogo - RJ,Tche Tche,32' (2ºT),Danilo das Neves Pinheiro,6.0,162.0
+19,Botafogo - RJ,Junior,28' (1ºT),Jose Antonio dos Santos Junior,37.0,503.0
+20,Cuiabá Saf - MT,Matheusinho,22' (2ºT),Mateus da Silva Duarte,98.0,709.0
+20,Red Bull Bragantino - SP,Thiago Borbas,40' (2ºT),Thiago Nicolas Borbas Silva,18.0,967.0
+21,Flamengo - RJ,Leo Pereira,13' (2ºT),Leonardo Pereira,4.0,581.0
+21,Flamengo - RJ,Leo Pereira,40' (2ºT),Leonardo Pereira,4.0,581.0
+21,Botafogo - RJ,Danilo,45+4' (1ºT),Danilo Barbosa da Silva,5.0,161.0
+21,Botafogo - RJ,Tiquinho,29' (1ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+21,Botafogo - RJ,Tiquinho,25' (2ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+23,Palmeiras - SP,Murilo,15' (1ºT),Murilo Cerqueira Paim,26.0,771.0
+23,Palmeiras - SP,Raphael Veiga,35' (1ºT),Raphael Cavalcante Veiga,0.0,862.0
+23,Palmeiras - SP,Joaquin Piquerez,31' (2ºT),Joaquin Piquerez Moreira,22.0,493.0
+24,Santos - SP,Eduardo,40' (1ºT),,,
+24,Santos - SP,Mendoza,18' (1ºT),John Steven Mendoza Valencia,0.0,495.0
+24,Santos - SP,Marcos Leonardo,24' (2ºT),Marcos Leonardo Santos Almeida,9.0,689.0
+24,America Saf - MG,Ale,7' (1ºT),Alexandre Egea,16.0,30.0
+24,America Saf - MG,Everaldo,4' (2ºT),Everaldo Silva do Nascimento,37.0,236.0
+25,Cruzeiro Saf - MG,Ramiro,1' (1ºT),Ramiro Moschen Benetti,17.0,859.0
+25,Cruzeiro Saf - MG,Gilberto,19' (2ºT),Gilberto Oliveira Souza Junior,21.0,328.0
+25,Cruzeiro Saf - MG,Bruno Rodrigues,41' (2ºT),Bruno Rafael Rodrigues do Nascimento,9.0,106.0
+26,Atlético Mineiro - MG,Hulk,9' (1ºT),Givanildo Vieira de Sousa,7.0,335.0
+26,Atlético Mineiro - MG,Hulk,38' (2ºT),Givanildo Vieira de Sousa,7.0,335.0
+26,Athletico Paranaense - PR,Vitor Roque,45+2' (2ºT),Vitor Hugo Roque Ferreira,9.0,1022.0
+27,Internacional - RS,Carlos de Pena,7' (2ºT),Carlos Maria de Pena Bonino,14.0,133.0
+28,São Paulo - SP,Marcos Paulo,35' (2ºT),Marcos Paulo Costa do Nascimento,32.0,691.0
+29,Fortaleza - CE,HERCULES,33' (2ºT),Hercules Pereira do Nascimento,35.0,383.0
+29,Fortaleza - CE,Thiago Galhardo,28' (1ºT),Thiago Galhardo do Nascimento Rocha,91.0,963.0
+29,Fortaleza - CE,Moises,34' (1ºT),,,
+29,Fortaleza - CE,Moises,14' (2ºT),,,
+29,Fluminense - RJ,Alan,45+1' (1ºT),,,
+29,Fluminense - RJ,John Kennedy,23' (2ºT),John Kennedy Batista de Souza,9.0,494.0
+30,Cuiabá Saf - MT,Marllon,28' (1ºT),Marllon Goncalves Jeronimo Borges,4.0,697.0
+30,Grêmio - RS,Vina,9' (1ºT),,,
+30,Grêmio - RS,Galdino,22' (2ºT),Everton Galdino Moreira,13.0,240.0
+31,Fluminense - RJ,Lima,9' (2ºT),Vinicius Moreira de Lima,45.0,1003.0
+31,Vasco da Gama S.a.f. - RJ,Pedro Raul,1' (1ºT),,,
+32,Botafogo - RJ,Matheus Nascimento,15' (2ºT),Matheus Nascimento de Paula,0.0,744.0
+32,Botafogo - RJ,Joao Victor,29' (1ºT),Joao Victor Santos Sa,7.0,485.0
+33,São Paulo - SP,Pablo,24' (2ºT),Pablo Gonçalves Maia Fortunato,29.0,800.0
+33,São Paulo - SP,Luciano,32' (1ºT),Luciano da Rocha Neves,10.0,642.0
+34,Corinthians - SP,Yuri Alberto,42' (2ºT),Yuri Alberto Monteiro da Silva,9.0,1068.0
+34,Fortaleza - CE,Caio,34' (2ºT),Caio Alexandre Sousa E Silva,8.0,112.0
+35,Goiás - GO,Sidimar,3' (2ºT),Sidimar Fernando Cigolini,4.0,945.0
+35,Palmeiras - SP,Dudu,44' (2ºT),Eduardo Pereira Rodrigues,7.0,213.0
+35,Palmeiras - SP,Artur,9' (1ºT),Artur Victor Guimaraes,14.0,72.0
+35,Palmeiras - SP,Raphael Veiga,32' (2ºT),Raphael Cavalcante Veiga,0.0,862.0
+35,Palmeiras - SP,Endrick,37' (2ºT),Endrick Felipe Moreira de Sousa,9.0,223.0
+36,Cruzeiro Saf - MG,Wesley Ribeiro Silva,21' (1ºT),Wesley Ribeiro Silva,11.0,1048.0
+36,Cruzeiro Saf - MG,Wesley Ribeiro Silva,16' (2ºT),Wesley Ribeiro Silva,11.0,1048.0
+36,Santos - SP,Ângelo,12' (2ºT),,,
+37,Grêmio - RS,Suarez,10' (2ºT),Luis Alberto Suarez Diaz,9.0,645.0
+37,Grêmio - RS,Galdino,16' (2ºT),Everton Galdino Moreira,13.0,240.0
+37,Grêmio - RS,Cristaldo,6' (1ºT),Franco Sebastian Cristaldo,19.0,288.0
+37,Red Bull Bragantino - SP,Matheus Fernandes,9' (1ºT),Matheus Fernandes Siqueira,35.0,730.0
+37,Red Bull Bragantino - SP,Thiago Borbas,45+1' (2ºT),Thiago Nicolas Borbas Silva,18.0,967.0
+37,Red Bull Bragantino - SP,Eduardo Sasha,8' (2ºT),Eduardo Colcenti Antunes,19.0,206.0
+38,Athletico Paranaense - PR,Vitor Roque,28' (1ºT),Vitor Hugo Roque Ferreira,9.0,1022.0
+38,Athletico Paranaense - PR,Erick,35' (2ºT),Erick Luis Conrado Carvalho,26.0,228.0
+38,Flamengo - RJ,Gabriel Barbosa,15' (1ºT),Gabriel Barbosa Almeida,10.0,294.0
+39,Bahia - BA,Biel,19' (2ºT),Gabriel Teixeira Aragao,0.0,317.0
+39,Bahia - BA,David Duarte,23' (2ºT),David de Duarte Macedo,0.0,170.0
+40,America Saf - MG,Aloisio,11' (1ºT),Aloisio dos Santos Goncalves,99.0,46.0
+40,America Saf - MG,Marlon,39' (2ºT),Marlon Matheus Lopes do Nascimento,6.0,700.0
+40,Cuiabá Saf - MT,Ronald,45+1' (2ºT),Ronald Barbosa Raposo,8.0,920.0
+40,Cuiabá Saf - MT,Ronald,45+1' (2ºT),Ronald dos Santos Lopes,8.0,923.0
+41,Flamengo - RJ,Éverton Ribeiro,3' (2ºT),Everton Augusto de Barros Ribeiro,7.0,239.0
+41,Flamengo - RJ,Pedro,7' (1ºT),Pedro Guilherme Abreu dos Santos,9.0,824.0
+42,Botafogo - RJ,Carlos,36' (2ºT),Carlos Eduardo de Oliveira Alves,33.0,129.0
+42,Botafogo - RJ,Tiquinho,12' (1ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+42,Botafogo - RJ,Tiquinho,19' (2ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+43,Palmeiras - SP,Mayke,23' (2ºT),Mayke Rocha de Oliveira,0.0,762.0
+43,Palmeiras - SP,Luan Garcia,27' (2ºT),Luan Garcia Teixeira,13.0,591.0
+43,Palmeiras - SP,Raphael Veiga,23' (1ºT),Raphael Cavalcante Veiga,0.0,862.0
+43,Palmeiras - SP,Raphael Veiga,11' (2ºT),Raphael Cavalcante Veiga,0.0,862.0
+43,Grêmio - RS,Bitello,45+2' (1ºT),,,
+44,Santos - SP,Ângelo,5' (2ºT),,,
+44,Santos - SP,Mendoza,14' (1ºT),John Steven Mendoza Valencia,0.0,495.0
+44,Santos - SP,Deivid Washington,3' (1ºT),,,
+45,Red Bull Bragantino - SP,Helinho,33' (1ºT),Helio Junio Nunes de Castro,11.0,376.0
+45,Red Bull Bragantino - SP,Helinho,43' (1ºT),Helio Junio Nunes de Castro,11.0,376.0
+45,America Saf - MG,Aloisio,14' (1ºT),Aloisio dos Santos Goncalves,99.0,46.0
+45,America Saf - MG,Aloisio,32' (2ºT),Aloisio dos Santos Goncalves,99.0,46.0
+46,Fluminense - RJ,PH GANSO,43' (1ºT),Paulo Henrique Chagas de Lima,10.0,810.0
+46,Fluminense - RJ,German Cano,8' (2ºT),German Ezequiel Cano,14.0,324.0
+47,Athletico Paranaense - PR,Christian,32' (2ºT),Christian Roberto Alves Cardoso,88.0,143.0
+47,Athletico Paranaense - PR,Willian,45+5' (2ºT),Willian Gomes de Siqueira,11.0,1055.0
+48,Vasco da Gama S.a.f. - RJ,Erick Marcus,34' (2ºT),Erick Marcus dos Santos Oliveira do Carmo,16.0,229.0
+50,Atlético Mineiro - MG,Hulk,5' (2ºT),Givanildo Vieira de Sousa,7.0,335.0
+50,Atlético Mineiro - MG,Pavon,26' (2ºT),Cristian David Pavon,9.0,149.0
+50,Atlético Mineiro - MG,Paulinho,41' (2ºT),Paulo Henrique Sampaio Filho,10.0,813.0
+50,Atlético Mineiro - MG,Hyoran,12' (1ºT),Hyoran Kaue Dalmoro,20.0,394.0
+51,Fluminense - RJ,PH GANSO,10' (2ºT),Paulo Henrique Chagas de Lima,10.0,810.0
+51,Fluminense - RJ,Nino,5' (1ºT),Marcilio Florencio Mota Filho,33.0,682.0
+52,Santos - SP,Deivid Washington,28' (1ºT),,,
+53,Palmeiras - SP,Artur,19' (2ºT),Artur Victor Guimaraes,14.0,72.0
+53,Red Bull Bragantino - SP,J. Capixaba,26' (2ºT),Luis Antonio da Rocha Junior,29.0,646.0
+54,Corinthians - SP,Roger Guedes,45+6' (1ºT),,,
+54,São Paulo - SP,Michel Araujo,15' (1ºT),Michel Daryl Araujo Villar,15.0,765.0
+55,Goiás - GO,Bruno,45+6' (1ºT),Bruno Araujo Santos,19.0,89.0
+55,Goiás - GO,Bruno,45+6' (1ºT),Bruno Araujo Santos,13.0,90.0
+55,Goiás - GO,Bruno,45+6' (1ºT),Bruno Ferreira Melo,19.0,97.0
+55,Goiás - GO,Bruno,45+6' (1ºT),Bruno Ferreira Melo,13.0,98.0
+55,Goiás - GO,Magno Jose,11' (2ºT),Magno Jose da Silva,2.0,671.0
+55,Botafogo - RJ,Tiquinho,29' (1ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+56,Atlético Mineiro - MG,Paulinho,45+4' (2ºT),Paulo Henrique Sampaio Filho,10.0,813.0
+56,Atlético Mineiro - MG,Vargas,2' (1ºT),Eduardo Jesus Vargas Rojas,11.0,210.0
+58,Athletico Paranaense - PR,Canobbio,45+7' (2ºT),Agustin Canobbio Graviz,14.0,13.0
+58,Athletico Paranaense - PR,Pablo,3' (2ºT),Pablo Felipe Teixeira,92.0,799.0
+58,Athletico Paranaense - PR,Willian,45' (2ºT),Willian Gomes de Siqueira,11.0,1055.0
+59,Bahia - BA,Ademir,6' (2ºT),Ademir da Silva Santos Junior,0.0,2.0
+59,Bahia - BA,Biel,35' (1ºT),Gabriel Teixeira Aragao,0.0,317.0
+59,Flamengo - RJ,Matheus França,23' (1ºT),,,
+59,Flamengo - RJ,Gabriel Barbosa,28' (1ºT),Gabriel Barbosa Almeida,10.0,294.0
+59,Flamengo - RJ,David Luiz,45+4' (1ºT),David Luiz Moreira Marinho,0.0,172.0
+60,Cruzeiro Saf - MG,Marlon,24' (2ºT),Marlon Rodrigues Xavier,3.0,702.0
+60,Cruzeiro Saf - MG,Henrique Dourado,32' (1ºT),,,
+60,Cruzeiro Saf - MG,Gilberto,38' (2ºT),Gilberto Oliveira Souza Junior,21.0,328.0
+60,Cruzeiro Saf - MG,Gilberto,45' (2ºT),Gilberto Oliveira Souza Junior,21.0,328.0
+61,Flamengo - RJ,Leo Pereira,45+3' (2ºT),Leonardo Pereira,4.0,581.0
+62,Botafogo - RJ,Victor Cuesta,29' (2ºT),Victor Leandro Cuesta,15.0,988.0
+63,São Paulo - SP,Beraldo,43' (2ºT),Lucas Lopes Beraldo,35.0,626.0
+63,São Paulo - SP,Rodrigo Nestor,41' (1ºT),Rodrigo Nestor Bertalia,11.0,912.0
+63,São Paulo - SP,Calleri,24' (1ºT),Jonathan Calleri,9.0,498.0
+63,São Paulo - SP,Juan,45+2' (2ºT),Juan Santos da Silva,31.0,525.0
+63,Vasco da Gama S.a.f. - RJ,Matias Galarza,38' (2ºT),,,
+63,Vasco da Gama S.a.f. - RJ,Barros,44' (1ºT),Cauan Lucas Barros da Luz,88.0,139.0
+65,Red Bull Bragantino - SP,Eduardo Sasha,16' (1ºT),Eduardo Colcenti Antunes,19.0,206.0
+65,Red Bull Bragantino - SP,Thiago Borbas,40' (2ºT),Thiago Nicolas Borbas Silva,18.0,967.0
+66,Cuiabá Saf - MT,Deyverson,36' (1ºT),Deyverson Brum Silva,16.0,179.0
+67,Grêmio - RS,Bitello,20' (2ºT),,,
+67,Grêmio - RS,Suarez,7' (1ºT),Luis Alberto Suarez Diaz,9.0,645.0
+67,Grêmio - RS,Villasanti,31' (1ºT),Mathias Adalberto Villasanti Rolon,20.0,748.0
+67,Internacional - RS,Joao Lucas,41' (2ºT),Joao Lucas de Souza Cardoso,30.0,458.0
+68,Atlético Mineiro - MG,Hulk,45' (2ºT),Givanildo Vieira de Sousa,7.0,335.0
+68,Atlético Mineiro - MG,Hyoran,35' (1ºT),Hyoran Kaue Dalmoro,20.0,394.0
+69,Bahia - BA,Everaldo,25' (1ºT),Everaldo Stum,0.0,237.0
+69,Goiás - GO,Bruno,31' (1ºT),Bruno Araujo Santos,19.0,89.0
+69,Goiás - GO,Bruno,31' (1ºT),Bruno Araujo Santos,13.0,90.0
+69,Goiás - GO,Bruno,31' (1ºT),Bruno Ferreira Melo,19.0,97.0
+69,Goiás - GO,Bruno,31' (1ºT),Bruno Ferreira Melo,13.0,98.0
+70,America Saf - MG,Breno Lemos,1' (1ºT),Breno Cascardo Lemos,0.0,83.0
+70,America Saf - MG,Felipe Azevedo,32' (1ºT),Felipe Azevedo dos Santos,11.0,262.0
+70,Fortaleza - CE,Pochettino,25' (1ºT),Tomas Pochettino,7.0,977.0
+71,Flamengo - RJ,Ayrton Lucas,32' (1ºT),Ayrton Lucas Dantas de Medeiros,6.0,75.0
+71,Cruzeiro Saf - MG,Marlon,5' (1ºT),Marlon Rodrigues Xavier,3.0,702.0
+72,Botafogo - RJ,Junior,3' (1ºT),Jose Antonio dos Santos Junior,37.0,503.0
+72,Botafogo - RJ,Luis Henrique,14' (2ºT),Luis Henrique Tomaz de Lima,11.0,658.0
+73,São Paulo - SP,Pablo,11' (2ºT),Pablo Gonçalves Maia Fortunato,29.0,800.0
+73,São Paulo - SP,David,45' (2ºT),David Correa da Fonseca,22.0,169.0
+73,Goiás - GO,Magno Jose,28' (1ºT),Magno Jose da Silva,2.0,671.0
+74,Corinthians - SP,Roger Guedes,13' (2ºT),,,
+74,Corinthians - SP,Roger Guedes,45+1' (2ºT),,,
+75,Red Bull Bragantino - SP,J. Capixaba,30' (2ºT),Luis Antonio da Rocha Junior,29.0,646.0
+75,Red Bull Bragantino - SP,Vitinho,30' (1ºT),Vitor Hugo Naum dos Santos,0.0,1021.0
+76,Atlético Mineiro - MG,Pavon,44' (1ºT),Cristian David Pavon,9.0,149.0
+76,Palmeiras - SP,Dudu,6' (2ºT),Eduardo Pereira Rodrigues,7.0,213.0
+77,Internacional - RS,WANDERSON,45+8' (2ºT),Wanderson Maciel Sousa Campos,11.0,1032.0
+77,Internacional - RS,Joao Lucas,4' (2ºT),Joao Lucas de Souza Cardoso,30.0,458.0
+78,Athletico Paranaense - PR,Vitor Roque,33' (1ºT),Vitor Hugo Roque Ferreira,9.0,1022.0
+78,Grêmio - RS,Uvini,3' (2ºT),Bruno Uvini Bortolanca,15.0,107.0
+78,Grêmio - RS,Cuiabano,30' (1ºT),Luis Eduardo Soares da Silva,0.0,649.0
+79,Fortaleza - CE,Silvio Romero,45+3' (2ºT),Silvio Ezequiel Romero,18.0,947.0
+79,Fortaleza - CE,Thiago Galhardo,41' (2ºT),Thiago Galhardo do Nascimento Rocha,91.0,963.0
+80,Cuiabá Saf - MT,Fernando,3' (1ºT),Fernando Pereira do Nascimento,88.0,281.0
+81,Fluminense - RJ,Felipe Melo,33' (1ºT),Felipe Melo de Carvalho,30.0,272.0
+81,Fluminense - RJ,PH GANSO,27' (1ºT),Paulo Henrique Chagas de Lima,10.0,810.0
+81,Red Bull Bragantino - SP,Thiago Borbas,8' (2ºT),Thiago Nicolas Borbas Silva,18.0,967.0
+82,Vasco da Gama S.a.f. - RJ,Jair,12' (2ºT),Jair Rodrigues Junior,8.0,429.0
+82,Flamengo - RJ,Ayrton Lucas,45+2' (1ºT),Ayrton Lucas Dantas de Medeiros,6.0,75.0
+82,Flamengo - RJ,Erick Pulgar,14' (1ºT),Erick Antonio Pulgar Farfan,0.0,227.0
+82,Flamengo - RJ,Gerson,16' (1ºT),Gerson Santos da Silva,20.0,325.0
+82,Flamengo - RJ,Pedro,42' (1ºT),Pedro Guilherme Abreu dos Santos,9.0,824.0
+83,Palmeiras - SP,Artur,29' (1ºT),Artur Victor Guimaraes,14.0,72.0
+83,Palmeiras - SP,Rony,33' (1ºT),Ronielson da Silva Barbosa,0.0,925.0
+83,Palmeiras - SP,Rony,27' (2ºT),Ronielson da Silva Barbosa,0.0,925.0
+84,Santos - SP,Lucas Lima,11' (1ºT),Lucas Rafael Araujo Lima,23.0,632.0
+84,Internacional - RS,Luiz Adriano,3' (1ºT),Luiz Adriano Souza da Silva,9.0,660.0
+85,Cuiabá Saf - MT,Deyverson,8' (2ºT),Deyverson Brum Silva,16.0,179.0
+86,Atlético Mineiro - MG,Hulk,26' (1ºT),Givanildo Vieira de Sousa,7.0,335.0
+87,Grêmio - RS,Reinaldo,38' (1ºT),Reinaldo Manoel da Silva,0.0,869.0
+87,Grêmio - RS,Cristaldo,30' (1ºT),Franco Sebastian Cristaldo,19.0,288.0
+87,São Paulo - SP,Calleri,14' (1ºT),Jonathan Calleri,9.0,498.0
+88,Athletico Paranaense - PR,Alex Santana,41' (1ºT),Alex Paulo Menezes Santana,0.0,27.0
+90,America Saf - MG,Renato,41' (2ºT),Renato Marques de Oliveira Junior,0.0,875.0
+90,America Saf - MG,Danilo,28' (2ºT),Danilo Fernando Avelar,22.0,164.0
+91,Flamengo - RJ,Everton,23' (1ºT),Everton Sousa Soares,11.0,243.0
+91,Flamengo - RJ,Bruno Henrique,45+5' (2ºT),Bruno Henrique Pinto,27.0,104.0
+91,Flamengo - RJ,Pedro,19' (2ºT),Pedro Guilherme Abreu dos Santos,9.0,824.0
+92,Botafogo - RJ,Tiquinho,45+2' (1ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+92,Botafogo - RJ,Tiquinho,18' (2ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+93,Palmeiras - SP,Gabriel Menino,10' (1ºT),Gabriel Vinicius Menino,25.0,320.0
+93,Palmeiras - SP,Endrick,32' (2ºT),Endrick Felipe Moreira de Sousa,9.0,223.0
+94,Corinthians - SP,RUAN,35' (2ºT),Ruan de Oliveira Ferreira,0.0,927.0
+94,Cuiabá Saf - MT,Deyverson,9' (2ºT),Deyverson Brum Silva,16.0,179.0
+95,Goiás - GO,Matheus Peixoto,45+1' (1ºT),,,
+95,Goiás - GO,Alesson,40' (2ºT),Alesson dos Santos Batista,27.0,24.0
+95,Fluminense - RJ,German Cano,2' (1ºT),German Ezequiel Cano,14.0,324.0
+95,Fluminense - RJ,Lima,1' (2ºT),Vinicius Moreira de Lima,45.0,1003.0
+96,Atlético Mineiro - MG,Paulinho,16' (1ºT),Paulo Henrique Sampaio Filho,10.0,813.0
+96,Red Bull Bragantino - SP,Eduardo Sasha,35' (1ºT),Eduardo Colcenti Antunes,19.0,206.0
+97,Internacional - RS,WANDERSON,16' (1ºT),Wanderson Maciel Sousa Campos,11.0,1032.0
+97,Internacional - RS,Romulo,2' (1ºT),Romulo Zanre Zwarg,40.0,919.0
+97,Vasco da Gama S.a.f. - RJ,Rayan,28' (1ºT),Rayan Vitor Simplício Rocha,0.0,868.0
+99,Bahia - BA,Kayky Chagas,17' (1ºT),,,
+99,Bahia - BA,Arthur Sales,20' (2ºT),,,
+99,Cruzeiro Saf - MG,Wesley Ribeiro Silva,45' (1ºT),Wesley Ribeiro Silva,11.0,1048.0
+99,Cruzeiro Saf - MG,Bruno Rodrigues,30' (1ºT),Bruno Rafael Rodrigues do Nascimento,9.0,106.0
+100,America Saf - MG,Wellington Paulista,30' (2ºT),Wellington Pereira do Nascimento,9.0,1037.0
+100,America Saf - MG,Danilo,45+6' (2ºT),Danilo Fernando Avelar,22.0,164.0
+100,Athletico Paranaense - PR,Vitor Roque,9' (1ºT),Vitor Hugo Roque Ferreira,9.0,1022.0
+100,Athletico Paranaense - PR,Christian,3' (2ºT),Christian Roberto Alves Cardoso,88.0,143.0
+101,Fluminense - RJ,Guga,34' (1ºT),Claudio Rodrigues Gomes,23.0,145.0
+101,Fluminense - RJ,Samuel Xavier,45+1' (2ºT),Samuel Xavier Brito,2.0,938.0
+102,Goiás - GO,Morelli,28' (2ºT),Everton Morelli Casimiro,40.0,242.0
+103,São Paulo - SP,Gabriel Neves,19' (1ºT),Gabriel Neves Perdomo,20.0,312.0
+103,São Paulo - SP,Luciano,2' (2ºT),Luciano da Rocha Neves,10.0,642.0
+103,Athletico Paranaense - PR,Vitor Roque,10' (1ºT),Vitor Hugo Roque Ferreira,9.0,1022.0
+104,Corinthians - SP,RUAN,27' (1ºT),Ruan de Oliveira Ferreira,0.0,927.0
+104,Corinthians - SP,Yuri Alberto,18' (1ºT),Yuri Alberto Monteiro da Silva,9.0,1068.0
+105,Red Bull Bragantino - SP,Alerrandro,30' (2ºT),Alerrandro Barra Mansa Realino de Souza,9.0,23.0
+105,Red Bull Bragantino - SP,Eduardo,40' (1ºT),Eduardo Gonzaga Mendes Santos,26.0,209.0
+105,Red Bull Bragantino - SP,Henry Mosquera,3' (2ºT),Henry David Mosquera Sanchez,16.0,382.0
+105,Red Bull Bragantino - SP,Henry Mosquera,35' (2ºT),Henry David Mosquera Sanchez,16.0,382.0
+106,Fortaleza - CE,Lucero,34' (2ºT),Juan Martin Lucero,9.0,522.0
+107,Grêmio - RS,Suarez,23' (2ºT),Luis Alberto Suarez Diaz,9.0,645.0
+107,Grêmio - RS,Villasanti,15' (2ºT),Mathias Adalberto Villasanti Rolon,20.0,748.0
+107,America Saf - MG,Matheus,39' (1ºT),Matheus Fernando Cavichioli,1.0,731.0
+107,America Saf - MG,Danilo,24' (1ºT),Danilo Fernando Avelar,22.0,164.0
+108,Internacional - RS,Pedro,20' (2ºT),Pedro Henrique Konzen Medina da Silva,28.0,830.0
+109,Bahia - BA,Thaciano,45+2' (2ºT),Thaciano Mickael da Silva,0.0,955.0
+110,Botafogo - RJ,Tiquinho,15' (2ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+111,Fluminense - RJ,Lelê,3' (2ºT),Leanderson da Silva Genesio,99.0,561.0
+111,Fluminense - RJ,Gabriel Pirani,6' (2ºT),,,
+111,Bahia - BA,Mingotti,27' (1ºT),Vinicius Alessandro Mingotti,0.0,993.0
+112,Vasco da Gama S.a.f. - RJ,Jair,31' (2ºT),Jair Rodrigues Junior,8.0,429.0
+113,Botafogo - RJ,Tiquinho,27' (1ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+114,Santos - SP,Rodrigo,6' (2ºT),Rodrigo Fernandez Cedres,14.0,907.0
+114,Santos - SP,Mendoza,39' (1ºT),John Steven Mendoza Valencia,0.0,495.0
+114,Flamengo - RJ,Everton,21' (1ºT),Everton Sousa Soares,11.0,243.0
+114,Flamengo - RJ,Erick Pulgar,11' (2ºT),Erick Antonio Pulgar Farfan,0.0,227.0
+114,Flamengo - RJ,Éverton Ribeiro,4' (2ºT),Everton Augusto de Barros Ribeiro,7.0,239.0
+115,Red Bull Bragantino - SP,Sorriso,45+2' (1ºT),Marcos Vinicios Lopes Moura,27.0,694.0
+115,Red Bull Bragantino - SP,Eduardo Sasha,6' (1ºT),Eduardo Colcenti Antunes,19.0,206.0
+116,São Paulo - SP,Rafinha,3' (1ºT),Marcio Rafael Ferreira de Souza,13.0,684.0
+117,Grêmio - RS,Bitello,8' (2ºT),,,
+117,Grêmio - RS,Suarez,20' (2ºT),Luis Alberto Suarez Diaz,9.0,645.0
+117,Grêmio - RS,Andre,38' (2ºT),Andre Henrique da Silva Martins,77.0,53.0
+117,Grêmio - RS,Villasanti,2' (2ºT),Mathias Adalberto Villasanti Rolon,20.0,748.0
+117,Grêmio - RS,Cristaldo,33' (1ºT),Franco Sebastian Cristaldo,19.0,288.0
+118,Athletico Paranaense - PR,Vitor Roque,35' (1ºT),Vitor Hugo Roque Ferreira,9.0,1022.0
+119,Fortaleza - CE,Pochettino,8' (2ºT),Tomas Pochettino,7.0,977.0
+119,Fortaleza - CE,Guilherme,16' (2ºT),Guilherme de Jesus da Silva,2.0,345.0
+119,Atlético Mineiro - MG,Alan Kardec,41' (2ºT),Alan Kardec de Souza Pereira Junior,0.0,17.0
+120,America Saf - MG,Juninho,18' (1ºT),Adilson dos Anjos Oliveira,8.0,5.0
+120,Internacional - RS,Alexandre,39' (2ºT),,,
+120,Internacional - RS,Jean Dias,17' (2ºT),Jean Dias da Costa,38.0,435.0
+121,Flamengo - RJ,Gabriel Barbosa,15' (1ºT),Gabriel Barbosa Almeida,10.0,294.0
+121,Flamengo - RJ,De Arrascaeta,18' (2ºT),Giorgian Daniel de Arrascaeta Benedetti,0.0,329.0
+122,Botafogo - RJ,Carlos Alberto,45+5' (2ºT),Carlos Alberto Gomes da Silva Filho,0.0,124.0
+122,Botafogo - RJ,Luis Henrique,8' (2ºT),Luis Henrique Tomaz de Lima,11.0,658.0
+123,São Paulo - SP,Luciano,42' (2ºT),Luciano da Rocha Neves,10.0,642.0
+124,Red Bull Bragantino - SP,Eduardo Sasha,17' (1ºT),Eduardo Colcenti Antunes,19.0,206.0
+125,Goiás - GO,Vinicius,24' (2ºT),Vinicius Rodrigues Adelino dos Santos,7.0,1007.0
+125,Goiás - GO,Vinicius,24' (2ºT),Vinicius Santos Silva,7.0,1008.0
+126,Atlético Mineiro - MG,Hulk,27' (1ºT),Givanildo Vieira de Sousa,7.0,335.0
+126,Atlético Mineiro - MG,Zaracho,2' (1ºT),Federico Matias Zaracho,15.0,259.0
+126,America Saf - MG,Gonzalo Mastriani,13' (2ºT),Gonzalo Mathias Mastriani Borges,17.0,338.0
+126,America Saf - MG,Gonzalo Mastriani,26' (2ºT),Gonzalo Mathias Mastriani Borges,17.0,338.0
+128,Athletico Paranaense - PR,Vitor Roque,27' (2ºT),Vitor Hugo Roque Ferreira,9.0,1022.0
+128,Athletico Paranaense - PR,Vitor Bueno,21' (2ºT),Vitor Frezarin Bueno,8.0,1016.0
+128,Palmeiras - SP,Gabriel Menino,12' (2ºT),Gabriel Vinicius Menino,25.0,320.0
+128,Palmeiras - SP,Endrick,22' (1ºT),Endrick Felipe Moreira de Sousa,9.0,223.0
+129,Bahia - BA,Kayky Chagas,20' (1ºT),,,
+129,Grêmio - RS,Cristaldo,8' (1ºT),Franco Sebastian Cristaldo,19.0,288.0
+129,Grêmio - RS,G. Martins,45+4' (2ºT),Gustavo Martins de Souza Santos,0.0,361.0
+130,Cuiabá Saf - MT,RIKELME,40' (2ºT),Rikelme Hernandes Amorim Rocha,0.0,891.0
+130,Cuiabá Saf - MT,Denilson,30' (2ºT),Denilson Alves Borges,27.0,175.0
+130,Cuiabá Saf - MT,Deyverson,7' (2ºT),Deyverson Brum Silva,16.0,179.0
+131,Fluminense - RJ,German Cano,24' (1ºT),German Ezequiel Cano,14.0,324.0
+131,Fluminense - RJ,Martinelli,39' (1ºT),Matheus Martinelli Lima,0.0,742.0
+132,Cruzeiro Saf - MG,Filipe Machado,45+3' (1ºT),Luiz Filipe da Rosa Machado,23.0,666.0
+133,Palmeiras - SP,Dudu,23' (1ºT),Eduardo Pereira Rodrigues,7.0,213.0
+133,Flamengo - RJ,De Arrascaeta,35' (2ºT),Giorgian Daniel de Arrascaeta Benedetti,0.0,329.0
+134,Santos - SP,Mendoza,45' (1ºT),John Steven Mendoza Valencia,0.0,495.0
+134,Santos - SP,Mendoza,45+3' (2ºT),John Steven Mendoza Valencia,0.0,495.0
+134,Santos - SP,Marcos Leonardo,15' (1ºT),Marcos Leonardo Santos Almeida,9.0,689.0
+134,Santos - SP,Marcos Leonardo,29' (1ºT),Marcos Leonardo Santos Almeida,9.0,689.0
+134,Goiás - GO,Guilherme,39' (1ºT),Guilherme Costa Marques,60.0,343.0
+134,Goiás - GO,Guilherme,15' (2ºT),Guilherme Costa Marques,60.0,343.0
+134,Goiás - GO,Joao,35' (2ºT),Joao Victo Magno de Souza Machado,0.0,479.0
+136,Corinthians - SP,Roger Guedes,40' (1ºT),,,
+137,Botafogo - RJ,Carlos Alberto,41' (2ºT),Carlos Alberto Gomes da Silva Filho,0.0,124.0
+137,Botafogo - RJ,Carlos,29' (2ºT),Carlos Eduardo de Oliveira Alves,33.0,129.0
+138,Coritiba S.a.f. - PR,Robson,43' (1ºT),Robson dos Santos Fernandes,0.0,900.0
+138,Coritiba S.a.f. - PR,Alef Manga,39' (1ºT),,,
+138,Coritiba S.a.f. - PR,Victor,45+6' (2ºT),Victor Luis Chuab Zamblauskas,0.0,989.0
+138,America Saf - MG,Juninho,7' (1ºT),Adilson dos Anjos Oliveira,8.0,5.0
+139,Fortaleza - CE,Yago,38' (2ºT),Glaybson Yago Souza Lisbôa,22.0,336.0
+140,Cuiabá Saf - MT,ALAN,5' (2ºT),Alan Pereira Empereur,33.0,19.0
+140,Cuiabá Saf - MT,Deyverson,17' (1ºT),Deyverson Brum Silva,16.0,179.0
+142,Botafogo - RJ,Di Placido,15' (2ºT),Leonel Di Placido,24.0,584.0
+142,Botafogo - RJ,Carlos,2' (2ºT),Carlos Eduardo de Oliveira Alves,33.0,129.0
+143,São Paulo - SP,Calleri,21' (1ºT),Jonathan Calleri,9.0,498.0
+143,São Paulo - SP,Calleri,45+1' (1ºT),Jonathan Calleri,9.0,498.0
+143,São Paulo - SP,David,34' (2ºT),David Correa da Fonseca,22.0,169.0
+143,São Paulo - SP,Alexandre Pato,43' (2ºT),Alexandre Rodrigues da Silva,0.0,32.0
+143,Santos - SP,Marcos Leonardo,45+3' (2ºT),Marcos Leonardo Santos Almeida,9.0,689.0
+144,Corinthians - SP,Fabio Santos,44' (1ºT),Fabio Santos Romeu,6.0,251.0
+144,Corinthians - SP,Giuliano,22' (2ºT),Giuliano Victor de Paula,20.0,334.0
+144,Corinthians - SP,Lucas Verissimo,45+4' (1ºT),Lucas Verissimo da Silva,0.0,637.0
+144,Corinthians - SP,Yuri Alberto,45+5' (1ºT),Yuri Alberto Monteiro da Silva,9.0,1068.0
+144,Grêmio - RS,Suarez,13' (2ºT),Luis Alberto Suarez Diaz,9.0,645.0
+144,Grêmio - RS,Nathan,20' (1ºT),Nathan Allan de Souza,7.0,778.0
+144,Grêmio - RS,Nathan,20' (1ºT),Nathan Ribeiro Fernandes,7.0,782.0
+144,Grêmio - RS,Galdino,5' (2ºT),Everton Galdino Moreira,13.0,240.0
+144,Grêmio - RS,Cristaldo,26' (1ºT),Franco Sebastian Cristaldo,19.0,288.0
+148,Athletico Paranaense - PR,Vitor Roque,23' (1ºT),Vitor Hugo Roque Ferreira,9.0,1022.0
+148,Athletico Paranaense - PR,Erick,34' (1ºT),Erick Luis Conrado Carvalho,26.0,228.0
+149,Cuiabá Saf - MT,Deyverson,18' (1ºT),Deyverson Brum Silva,16.0,179.0
+150,Vasco da Gama S.a.f. - RJ,Jair,45+2' (2ºT),Jair Rodrigues Junior,8.0,429.0
+151,Flamengo - RJ,Victor Hugo,45+4' (2ºT),Victor Hugo Gomes Silva,29.0,986.0
+151,America Saf - MG,Felipe Azevedo,39' (2ºT),Felipe Azevedo dos Santos,11.0,262.0
+152,Athletico Paranaense - PR,Christian,25' (2ºT),Christian Roberto Alves Cardoso,88.0,143.0
+152,Athletico Paranaense - PR,Vitor Bueno,34' (2ºT),Vitor Frezarin Bueno,8.0,1016.0
+153,Palmeiras - SP,Breno,45+5' (2ºT),Breno Henrique Vasconcelos Lopes,19.0,85.0
+153,Palmeiras - SP,Richard Rios,7' (1ºT),Richard Rios Montoya,27.0,890.0
+153,Palmeiras - SP,Raphael Veiga,35' (2ºT),Raphael Cavalcante Veiga,0.0,862.0
+153,Fortaleza - CE,Lucero,44' (1ºT),Juan Martin Lucero,9.0,522.0
+154,Santos - SP,Marcos Leonardo,23' (1ºT),Marcos Leonardo Santos Almeida,9.0,689.0
+154,Santos - SP,Marcos Leonardo,36' (2ºT),Marcos Leonardo Santos Almeida,9.0,689.0
+154,Botafogo - RJ,Tiquinho,38' (2ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+154,Botafogo - RJ,Adryelson,42' (2ºT),Adryelson Shawann Lima Silva,34.0,9.0
+156,Goiás - GO,Joao,27' (1ºT),Joao Victo Magno de Souza Machado,0.0,479.0
+157,Grêmio - RS,Ronald,10' (1ºT),Ronald Cardoso Falkoski,0.0,922.0
+158,Coritiba S.a.f. - PR,Diogo,27' (1ºT),Diogo de Oliveira Barbosa,0.0,192.0
+158,Coritiba S.a.f. - PR,Robson,23' (1ºT),Robson dos Santos Fernandes,0.0,900.0
+160,Cuiabá Saf - MT,PITTA,32' (2ºT),Isidro Miguel Pitta Saldivar,9.0,416.0
+160,Cuiabá Saf - MT,Clayson,20' (2ºT),Clayson Henrique da Silva Vieira,0.0,146.0
+160,São Paulo - SP,Nathan,45+4' (2ºT),Nathan Gabriel de Souza Mendes,45.0,780.0
+161,Fluminense - RJ,German Cano,32' (2ºT),German Ezequiel Cano,14.0,324.0
+162,Botafogo - RJ,Tiquinho,36' (1ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+162,Botafogo - RJ,Tiquinho,5' (2ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+162,Botafogo - RJ,Gustavo,2' (1ºT),,,
+162,Botafogo - RJ,Gustavo,45+3' (1ºT),,,
+162,Coritiba S.a.f. - PR,Bruno Gomes,8' (1ºT),Bruno Gomes da Silva Clevelario,0.0,100.0
+164,Corinthians - SP,Maycon,18' (1ºT),Maycon de Andrade Barberan,7.0,760.0
+164,Corinthians - SP,Roger Guedes,28' (2ºT),,,
+164,Corinthians - SP,Yuri Alberto,16' (2ºT),Yuri Alberto Monteiro da Silva,9.0,1068.0
+164,Vasco da Gama S.a.f. - RJ,Gabriel Pec,25' (2ºT),Gabriel Fortes Chaves,11.0,305.0
+165,Goiás - GO,Matheus Babi,32' (2ºT),Matheus Barcelos da Silva,0.0,721.0
+166,Atlético Mineiro - MG,Paulinho,32' (1ºT),Paulo Henrique Sampaio Filho,10.0,813.0
+166,Flamengo - RJ,Wesley,42' (2ºT),Wesley Vinicius França Lima,43.0,1049.0
+166,Flamengo - RJ,De Arrascaeta,34' (2ºT),Giorgian Daniel de Arrascaeta Benedetti,0.0,329.0
+167,Internacional - RS,BUSTOS,15' (1ºT),Fabricio Tomas Bustos Sein,0.0,256.0
+167,Cuiabá Saf - MT,Raniele,43' (1ºT),Raniele Almeida Melo,14.0,861.0
+167,Cuiabá Saf - MT,Deyverson,42' (2ºT),Deyverson Brum Silva,16.0,179.0
+168,Athletico Paranaense - PR,Pablo,32' (2ºT),Pablo Felipe Teixeira,92.0,799.0
+168,Athletico Paranaense - PR,Madson,41' (1ºT),Madson Ferreira dos Santos,22.0,670.0
+168,Athletico Paranaense - PR,Fernandinho,41' (2ºT),Fernando Luiz Roza,5.0,277.0
+168,Cruzeiro Saf - MG,Arthur Gomes,7' (1ºT),Arthur Gomes Lourenco,0.0,68.0
+168,Cruzeiro Saf - MG,Arthur Gomes,36' (1ºT),Arthur Gomes Lourenco,0.0,68.0
+168,Cruzeiro Saf - MG,Wesley Ribeiro Silva,36' (2ºT),Wesley Ribeiro Silva,11.0,1048.0
+169,Red Bull Bragantino - SP,Luan Candido,23' (1ºT),Luan Candido de Almeida,0.0,587.0
+169,Red Bull Bragantino - SP,Bruninho,23' (2ºT),Bruno Gonçalves de Jesus,17.0,101.0
+169,Red Bull Bragantino - SP,Thiago Borbas,45+1' (2ºT),Thiago Nicolas Borbas Silva,18.0,967.0
+170,America Saf - MG,Nicolas,38' (1ºT),Nicolas Vichiatto da Silva,30.0,791.0
+170,Palmeiras - SP,Artur,7' (2ºT),Artur Victor Guimaraes,14.0,72.0
+170,Palmeiras - SP,Murilo,17' (1ºT),Murilo Cerqueira Paim,26.0,771.0
+170,Palmeiras - SP,Rony,25' (1ºT),Ronielson da Silva Barbosa,0.0,925.0
+170,Palmeiras - SP,Rony,13' (2ºT),Ronielson da Silva Barbosa,0.0,925.0
+171,Fluminense - RJ,John Kennedy,13' (2ºT),John Kennedy Batista de Souza,9.0,494.0
+171,Fluminense - RJ,Jhon Arias,14' (1ºT),Jhon Adolfo Arias Andrade,21.0,445.0
+171,Palmeiras - SP,Gustavo Gomez,45+5' (2ºT),Gustavo Raul Gomez Portillo,15.0,366.0
+172,Vasco da Gama S.a.f. - RJ,Vegetti,35' (2ºT),Pablo Ezequiel Vegetti,0.0,798.0
+173,Atlético Mineiro - MG,Hulk,4' (1ºT),Givanildo Vieira de Sousa,7.0,335.0
+173,Atlético Mineiro - MG,Pavon,23' (2ºT),Cristian David Pavon,9.0,149.0
+174,Santos - SP,Marcos Leonardo,45+5' (2ºT),Marcos Leonardo Santos Almeida,9.0,689.0
+174,Athletico Paranaense - PR,Pablo,30' (1ºT),Pablo Felipe Teixeira,92.0,799.0
+175,Fortaleza - CE,Tobias,8' (1ºT),Tobias Pereira Figueiredo,0.0,974.0
+177,Internacional - RS,Luiz Adriano,45+8' (2ºT),Luiz Adriano Souza da Silva,9.0,660.0
+177,Internacional - RS,Bruno,16' (1ºT),Bruno Henrique Corsini,0.0,103.0
+177,Corinthians - SP,Fabio Santos,40' (2ºT),Fabio Santos Romeu,6.0,251.0
+177,Corinthians - SP,Renato Augusto,12' (1ºT),Renato Soares de Oliveira Augusto,0.0,877.0
+178,Red Bull Bragantino - SP,Sorriso,18' (1ºT),Marcos Vinicios Lopes Moura,27.0,694.0
+179,Bahia - BA,Everaldo,25' (1ºT),Everaldo Stum,0.0,237.0
+179,Bahia - BA,Cauly,15' (2ºT),Cauly Oliveira Souza,0.0,140.0
+179,Bahia - BA,Rafael Ratão,25' (2ºT),Rafael Rogerio da Silva,0.0,855.0
+179,America Saf - MG,Gonzalo Mastriani,7' (2ºT),Gonzalo Mathias Mastriani Borges,17.0,338.0
+180,Cuiabá Saf - MT,Deyverson,35' (2ºT),Deyverson Brum Silva,16.0,179.0
+180,Cuiabá Saf - MT,Matheus Alexandre,1' (2ºT),Matheus Alexandre Anastacio de Souza,2.0,718.0
+180,Cuiabá Saf - MT,Clayson,9' (2ºT),Clayson Henrique da Silva Vieira,0.0,146.0
+181,Flamengo - RJ,Pedro,45+6' (2ºT),Pedro Guilherme Abreu dos Santos,9.0,824.0
+181,São Paulo - SP,Lucas,37' (1ºT),Lucas Rodrigues Moura da Silva,0.0,634.0
+182,Botafogo - RJ,Joao Victor,9' (2ºT),Joao Victor Santos Sa,7.0,485.0
+182,Botafogo - RJ,Luis Henrique,27' (2ºT),Luis Henrique Tomaz de Lima,11.0,658.0
+182,Internacional - RS,Mauricio,17' (1ºT),Mauricio Magalhaes Prado,27.0,756.0
+182,Internacional - RS,Nicolas Hernandez,12' (2ºT),Nicolas Hernandez Rodriguez,22.0,789.0
+183,Palmeiras - SP,Lopez,45+5' (2ºT),Jose Manuel Alberto Lopez,18.0,509.0
+184,Corinthians - SP,Yuri Alberto,8' (2ºT),Yuri Alberto Monteiro da Silva,9.0,1068.0
+184,Corinthians - SP,Wesley,21' (2ºT),Wesley Gassova Ribeiro Teixeira,0.0,1047.0
+184,Corinthians - SP,Gil,6' (2ºT),Carlos Gilberto do Nascimento Silva,4.0,132.0
+184,Corinthians - SP,Murillo,27' (1ºT),,,
+185,Red Bull Bragantino - SP,Gustavinho,45+7' (1ºT),Gustavo Ribeiro Neves,22.0,368.0
+185,Vasco da Gama S.a.f. - RJ,Vegetti,31' (1ºT),Pablo Ezequiel Vegetti,0.0,798.0
+186,Atlético Mineiro - MG,Paulinho,3' (2ºT),Paulo Henrique Sampaio Filho,10.0,813.0
+187,Grêmio - RS,Bitello,24' (1ºT),,,
+187,Grêmio - RS,Ferreira,45' (1ºT),Aldemir dos Santos Ferreira,0.0,21.0
+187,Fluminense - RJ,German Cano,19' (1ºT),German Ezequiel Cano,14.0,324.0
+188,Athletico Paranaense - PR,Canobbio,44' (1ºT),Agustin Canobbio Graviz,14.0,13.0
+188,Athletico Paranaense - PR,Zapelli,37' (2ºT),Bruno Zapelli,0.0,110.0
+189,Fortaleza - CE,Bruno Pacheco,45' (2ºT),Bruno de Jesus Pacheco,6.0,93.0
+189,Fortaleza - CE,Caio,37' (2ºT),Caio Alexandre Sousa E Silva,8.0,112.0
+189,Fortaleza - CE,Machuca,13' (2ºT),Imanol Javier Machuca,0.0,412.0
+189,Santos - SP,Joao,35' (2ºT),Joao Lucas de Almeida Carvalho,0.0,457.0
+189,Santos - SP,Joao,35' (2ºT),Joao Othavio Basso,0.0,463.0
+190,Goiás - GO,Halter,34' (1ºT),Lucas Halter,3.0,623.0
+191,Fluminense - RJ,German Cano,19' (2ºT),German Ezequiel Cano,14.0,324.0
+191,Fluminense - RJ,John Kennedy,12' (2ºT),John Kennedy Batista de Souza,9.0,494.0
+191,Fluminense - RJ,Jhon Arias,43' (2ºT),Jhon Adolfo Arias Andrade,21.0,445.0
+191,America Saf - MG,Felipe Azevedo,7' (2ºT),Felipe Azevedo dos Santos,11.0,262.0
+192,Vasco da Gama S.a.f. - RJ,Serginho,5' (1ºT),Sergio Antonio da Luz Junior,0.0,942.0
+194,Santos - SP,Marcos Leonardo,17' (2ºT),Marcos Leonardo Santos Almeida,9.0,689.0
+194,Santos - SP,Julio Furch,44' (2ºT),Julio Cesar Furch,0.0,530.0
+194,Grêmio - RS,Cristaldo,1' (2ºT),Franco Sebastian Cristaldo,19.0,288.0
+195,Goiás - GO,Alesson,35' (2ºT),Alesson dos Santos Batista,27.0,24.0
+195,Athletico Paranaense - PR,Vitor Roque,38' (1ºT),Vitor Hugo Roque Ferreira,9.0,1022.0
+196,Cruzeiro Saf - MG,Rafael Papagaio,44' (1ºT),Rafael Elias da Silva,0.0,848.0
+196,Corinthians - SP,Mosquito,45+7' (2ºT),Gustavo Henric da Silva,0.0,357.0
+197,Fortaleza - CE,Thiago Galhardo,11' (1ºT),Thiago Galhardo do Nascimento Rocha,91.0,963.0
+198,Coritiba S.a.f. - PR,Robson,14' (1ºT),Robson dos Santos Fernandes,0.0,900.0
+198,Coritiba S.a.f. - PR,Edu,1' (2ºT),Eduardo Nascimento da Silva Junior,0.0,212.0
+198,Flamengo - RJ,Gabriel Barbosa,19' (1ºT),Gabriel Barbosa Almeida,10.0,294.0
+198,Flamengo - RJ,Gerson,45+4' (2ºT),Gerson Santos da Silva,20.0,325.0
+198,Flamengo - RJ,De Arrascaeta,30' (1ºT),Giorgian Daniel de Arrascaeta Benedetti,0.0,329.0
+199,Bahia - BA,Vitor Hugo,37' (1ºT),Vitor Hugo Franchescoli de Souza,0.0,1019.0
+199,Bahia - BA,Mingotti,14' (2ºT),Vinicius Alessandro Mingotti,0.0,993.0
+199,Bahia - BA,Cauly,38' (2ºT),Cauly Oliveira Souza,0.0,140.0
+199,Bahia - BA,Rezende,8' (1ºT),Julio Cesar de Rezende Miranda,0.0,529.0
+200,Palmeiras - SP,Raphael Veiga,30' (1ºT),Raphael Cavalcante Veiga,0.0,862.0
+200,Palmeiras - SP,Richard Rios,20' (2ºT),Richard Rios Montoya,27.0,890.0
+202,Botafogo - RJ,Diego Costa,4' (1ºT),Diego da Silva Costa,0.0,180.0
+202,Botafogo - RJ,Diego Costa,6' (2ºT),Diego da Silva Costa,0.0,180.0
+202,Botafogo - RJ,Luis Henrique,31' (2ºT),Luis Henrique Tomaz de Lima,11.0,658.0
+203,Palmeiras - SP,Raphael Veiga,19' (2ºT),Raphael Cavalcante Veiga,0.0,862.0
+204,Corinthians - SP,Maycon,37' (2ºT),Maycon de Andrade Barberan,7.0,760.0
+204,Goiás - GO,Guilherme,14' (2ºT),Guilherme Costa Marques,60.0,343.0
+205,Red Bull Bragantino - SP,Thiago Borbas,9' (2ºT),Thiago Nicolas Borbas Silva,18.0,967.0
+205,Red Bull Bragantino - SP,Talisson,37' (2ºT),Talisson de Almeida,21.0,950.0
+206,Atlético Mineiro - MG,Paulinho,12' (1ºT),Paulo Henrique Sampaio Filho,10.0,813.0
+206,Atlético Mineiro - MG,Paulinho,22' (2ºT),Paulo Henrique Sampaio Filho,10.0,813.0
+207,Grêmio - RS,Carballo,8' (2ºT),Felipe Ignacio Carballo Ares,0.0,268.0
+207,Grêmio - RS,Pepe,32' (2ºT),Joao Pedro Vilardi Pinto,0.0,476.0
+207,Grêmio - RS,Suarez,28' (1ºT),Luis Alberto Suarez Diaz,9.0,645.0
+208,Athletico Paranaense - PR,Cacá,12' (1ºT),Carlos de Menezes Junior,0.0,126.0
+208,Athletico Paranaense - PR,Vitor Roque,45+3' (2ºT),Vitor Hugo Roque Ferreira,9.0,1022.0
+208,Fluminense - RJ,Guga,30' (2ºT),Claudio Rodrigues Gomes,23.0,145.0
+208,Fluminense - RJ,João Neto,42' (2ºT),João Batista da Cruz Santos Neto,0.0,452.0
+209,Fortaleza - CE,Lucero,41' (1ºT),Juan Martin Lucero,9.0,522.0
+209,Fortaleza - CE,Lucero,45+3' (1ºT),Juan Martin Lucero,9.0,522.0
+209,Fortaleza - CE,Marinho,14' (2ºT),Mario Sergio Santos Costa,0.0,696.0
+209,Coritiba S.a.f. - PR,BENJAMIN,23' (2ºT),Benjamin Kuscevic Jaramillo,0.0,77.0
+210,America Saf - MG,Gonzalo Mastriani,16' (2ºT),Gonzalo Mathias Mastriani Borges,17.0,338.0
+210,America Saf - MG,Rodrigo Varanda,45' (2ºT),Rodrigo Santos Varanda,0.0,913.0
+210,São Paulo - SP,Alexandre Pato,35' (2ºT),Alexandre Rodrigues da Silva,0.0,32.0
+211,Fluminense - RJ,Diogo Barbosa,45+1' (2ºT),Diogo Barbosa Mendanha,0.0,190.0
+212,Botafogo - RJ,Marlon Freitas,1' (1ºT),Marlon Rodrigues Freitas,17.0,701.0
+212,Botafogo - RJ,Joao Victor,18' (1ºT),Joao Victor Santos Sa,7.0,485.0
+212,Flamengo - RJ,Bruno Henrique,27' (2ºT),Bruno Henrique Pinto,27.0,104.0
+213,São Paulo - SP,Alan Franco,32' (1ºT),Alan Javier Franco,28.0,16.0
+213,São Paulo - SP,Luciano,45+12' (1ºT),Luciano da Rocha Neves,10.0,642.0
+213,Coritiba S.a.f. - PR,Slimani,45+5' (1ºT),Islam Slimani,0.0,417.0
+217,Grêmio - RS,Suarez,30' (1ºT),Luis Alberto Suarez Diaz,9.0,645.0
+217,Cuiabá Saf - MT,RIKELME,17' (2ºT),Rikelme Hernandes Amorim Rocha,0.0,891.0
+218,Athletico Paranaense - PR,Vitor Roque,33' (2ºT),Vitor Hugo Roque Ferreira,9.0,1022.0
+218,Atlético Mineiro - MG,Paulinho,5' (1ºT),Paulo Henrique Sampaio Filho,10.0,813.0
+219,Bahia - BA,Ademir,44' (1ºT),Ademir da Silva Santos Junior,0.0,2.0
+219,Vasco da Gama S.a.f. - RJ,Vegetti,18' (2ºT),Pablo Ezequiel Vegetti,0.0,798.0
+220,America Saf - MG,Juninho,9' (2ºT),Adilson dos Anjos Oliveira,8.0,5.0
+220,America Saf - MG,Rodrigo Varanda,28' (1ºT),Rodrigo Santos Varanda,0.0,913.0
+221,Athletico Paranaense - PR,Cacá,27' (1ºT),Carlos de Menezes Junior,0.0,126.0
+221,Athletico Paranaense - PR,Alex Santana,38' (2ºT),Alex Paulo Menezes Santana,0.0,27.0
+221,Athletico Paranaense - PR,Vitor Bueno,45+6' (2ºT),Vitor Frezarin Bueno,8.0,1016.0
+222,Vasco da Gama S.a.f. - RJ,Vegetti,4' (2ºT),Pablo Ezequiel Vegetti,0.0,798.0
+222,Vasco da Gama S.a.f. - RJ,Praxedes,23' (1ºT),Bruno Conceicao Praxedes,0.0,91.0
+222,Vasco da Gama S.a.f. - RJ,Gabriel Pec,28' (2ºT),Gabriel Fortes Chaves,11.0,305.0
+222,Vasco da Gama S.a.f. - RJ,Gabriel Pec,39' (2ºT),Gabriel Fortes Chaves,11.0,305.0
+222,Fluminense - RJ,Marcelo,1' (2ºT),Marcelo Vieira da Silva Junior,0.0,681.0
+222,Fluminense - RJ,Lima,10' (2ºT),Vinicius Moreira de Lima,45.0,1003.0
+223,Palmeiras - SP,Breno,45+6' (2ºT),Breno Henrique Vasconcelos Lopes,19.0,85.0
+224,Cruzeiro Saf - MG,Bruno Rodrigues,25' (2ºT),Bruno Rafael Rodrigues do Nascimento,9.0,106.0
+224,Cruzeiro Saf - MG,Matheus,40' (1ºT),Matheus Isaias dos Santos,18.0,737.0
+224,Cruzeiro Saf - MG,Nikao,44' (2ºT),Maycon Vinicius Ferreira da Cruz,10.0,761.0
+225,Red Bull Bragantino - SP,Vitinho,45+1' (1ºT),Vitor Hugo Naum dos Santos,0.0,1021.0
+225,Grêmio - RS,Joao Pedro,19' (1ºT),Joao Pedro Geraldino dos Santos Galvao,18.0,471.0
+225,Grêmio - RS,Joao Pedro,19' (1ºT),Joao Pedro Maturano dos Santos,18.0,472.0
+226,Atlético Mineiro - MG,Paulinho,35' (2ºT),Paulo Henrique Sampaio Filho,10.0,813.0
+227,Internacional - RS,BUSTOS,13' (2ºT),Fabricio Tomas Bustos Sein,0.0,256.0
+227,Internacional - RS,Rene,25' (2ºT),Rene Rodrigues Martins,6.0,878.0
+227,São Paulo - SP,Calleri,45+3' (1ºT),Jonathan Calleri,9.0,498.0
+228,Coritiba S.a.f. - PR,Andrey,45+4' (2ºT),Andrey Ramos do Nascimento,0.0,58.0
+228,Coritiba S.a.f. - PR,Sebastian Gomez,1' (1ºT),Sebastian Gomez Londono,0.0,941.0
+228,Bahia - BA,Ademir,34' (1ºT),Ademir da Silva Santos Junior,0.0,2.0
+228,Bahia - BA,Thaciano,30' (1ºT),Thaciano Mickael da Silva,0.0,955.0
+228,Bahia - BA,Rafael Ratão,10' (1ºT),Rafael Rogerio da Silva,0.0,855.0
+228,Bahia - BA,Biel,28' (2ºT),Gabriel Teixeira Aragao,0.0,317.0
+229,Fortaleza - CE,Lucero,26' (1ºT),Juan Martin Lucero,9.0,522.0
+229,Fortaleza - CE,Yago,45+3' (2ºT),Glaybson Yago Souza Lisbôa,22.0,336.0
+229,Corinthians - SP,Pedrinho,32' (1ºT),Pedro Henrique de Assis,27.0,827.0
+229,Corinthians - SP,Pedrinho,32' (1ºT),Pedro Henrique Silva dos Santos,27.0,832.0
+230,Cuiabá Saf - MT,Deyverson,35' (1ºT),Deyverson Brum Silva,16.0,179.0
+230,Cuiabá Saf - MT,Wellington Silva,40' (1ºT),Wellington Alves da Silva,11.0,1036.0
+230,America Saf - MG,Rodrigo,10' (1ºT),Rodrigo Henrique Santos de Souza,0.0,909.0
+230,America Saf - MG,Felipe Azevedo,31' (1ºT),Felipe Azevedo dos Santos,11.0,262.0
+231,Fluminense - RJ,Leo Fernandez,21' (2ºT),Leonardo Cecilio Fernandez Lopez,0.0,569.0
+232,Vasco da Gama S.a.f. - RJ,Zé Gabriel,8' (1ºT),Jose Gabriel dos Santos Silva,0.0,504.0
+232,Vasco da Gama S.a.f. - RJ,Rossi,33' (1ºT),Rosicley Pereira da Silva,0.0,926.0
+232,Vasco da Gama S.a.f. - RJ,Gabriel Pec,35' (2ºT),Gabriel Fortes Chaves,11.0,305.0
+232,Vasco da Gama S.a.f. - RJ,Vegetti,5' (2ºT),Pablo Ezequiel Vegetti,0.0,798.0
+232,Vasco da Gama S.a.f. - RJ,Vegetti,17' (2ºT),Pablo Ezequiel Vegetti,0.0,798.0
+232,Coritiba S.a.f. - PR,Sebastian Gomez,34' (2ºT),Sebastian Gomez Londono,0.0,941.0
+233,São Paulo - SP,James Rodriguez,33' (2ºT),James David Rodriguez Rubio,0.0,431.0
+233,Fortaleza - CE,Lucero,7' (2ºT),Juan Martin Lucero,9.0,522.0
+233,Fortaleza - CE,Welison,15' (1ºT),José Welison da Silva,17.0,518.0
+234,Corinthians - SP,Gil,13' (2ºT),Carlos Gilberto do Nascimento Silva,4.0,132.0
+236,Atlético Mineiro - MG,Paulinho,41' (1ºT),Paulo Henrique Sampaio Filho,10.0,813.0
+237,Grêmio - RS,Joao Pedro,9' (1ºT),Joao Pedro Geraldino dos Santos Galvao,18.0,471.0
+237,Grêmio - RS,Joao Pedro,9' (1ºT),Joao Pedro Maturano dos Santos,18.0,472.0
+238,Athletico Paranaense - PR,Erick,23' (1ºT),Erick Luis Conrado Carvalho,26.0,228.0
+238,Athletico Paranaense - PR,Alex Santana,44' (2ºT),Alex Paulo Menezes Santana,0.0,27.0
+238,Internacional - RS,Carlos de Pena,35' (1ºT),Carlos Maria de Pena Bonino,14.0,133.0
+239,Bahia - BA,Camilo Cándido,14' (2ºT),Camilo Damian Candido Aquino,0.0,123.0
+239,Santos - SP,Marcos Leonardo,27' (2ºT),Marcos Leonardo Santos Almeida,9.0,689.0
+239,Santos - SP,Julio Furch,45+4' (2ºT),Julio Cesar Furch,0.0,530.0
+240,Red Bull Bragantino - SP,Jadsom Silva,35' (1ºT),Jadsom Meemyas de Oliveira da Silva,5.0,425.0
+240,Red Bull Bragantino - SP,Evangelista,45+9' (2ºT),Lucas Evangelista Santana de Oliveira,8.0,619.0
+241,Flamengo - RJ,Pedro,15' (2ºT),Pedro Guilherme Abreu dos Santos,9.0,824.0
+242,Botafogo - RJ,Tiquinho,6' (2ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+242,Goiás - GO,Halter,26' (1ºT),Lucas Halter,3.0,623.0
+243,São Paulo - SP,Calleri,40' (1ºT),Jonathan Calleri,9.0,498.0
+243,São Paulo - SP,Calleri,45+2' (1ºT),Jonathan Calleri,9.0,498.0
+243,Corinthians - SP,Angel Romero,3' (1ºT),Angel Rodrigo Romero Villamayor,11.0,59.0
+244,Santos - SP,Marcos Leonardo,14' (1ºT),Marcos Leonardo Santos Almeida,9.0,689.0
+244,Santos - SP,Marcos Leonardo,45+2' (1ºT),Marcos Leonardo Santos Almeida,9.0,689.0
+244,Santos - SP,Yeferson Soteldo,29' (2ºT),Yeferson Julio Soteldo Martinez,10.0,1064.0
+244,Santos - SP,Tomás Rincón,45' (1ºT),Tomás Eduardo Rincón Hernández,0.0,975.0
+244,Vasco da Gama S.a.f. - RJ,Vegetti,30' (1ºT),Pablo Ezequiel Vegetti,0.0,798.0
+245,Red Bull Bragantino - SP,Eduardo Sasha,36' (2ºT),Eduardo Colcenti Antunes,19.0,206.0
+245,Red Bull Bragantino - SP,Eric Ramires,44' (2ºT),Eric dos Santos Rodrigues,7.0,226.0
+245,Palmeiras - SP,Endrick,15' (1ºT),Endrick Felipe Moreira de Sousa,9.0,223.0
+246,Cruzeiro Saf - MG,Luciano Castan,20' (1ºT),Luciano Castan da Silva,4.0,641.0
+246,America Saf - MG,Martin Benitez,28' (1ºT),Martin Nicolas Benitez,0.0,706.0
+247,Atlético Mineiro - MG,Hulk,28' (2ºT),Givanildo Vieira de Sousa,7.0,335.0
+247,Atlético Mineiro - MG,Igor Gomes,38' (2ºT),Igor Silveira Gomes,17.0,410.0
+248,Coritiba S.a.f. - PR,Victor,13' (1ºT),Victor Luis Chuab Zamblauskas,0.0,989.0
+248,Coritiba S.a.f. - PR,Slimani,45+3' (1ºT),Islam Slimani,0.0,417.0
+249,Fortaleza - CE,Thiago Galhardo,43' (1ºT),Thiago Galhardo do Nascimento Rocha,91.0,963.0
+249,Grêmio - RS,Suarez,34' (2ºT),Luis Alberto Suarez Diaz,9.0,645.0
+250,Cuiabá Saf - MT,Clayson,11' (2ºT),Clayson Henrique da Silva Vieira,0.0,146.0
+250,Cuiabá Saf - MT,ALAN,18' (2ºT),Alan Pereira Empereur,33.0,19.0
+250,Cuiabá Saf - MT,Fernando,41' (2ºT),Fernando Pereira do Nascimento,88.0,281.0
+251,Botafogo - RJ,Tiquinho,22' (1ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+251,Botafogo - RJ,Junior,19' (1ºT),Jose Antonio dos Santos Junior,37.0,503.0
+253,Palmeiras - SP,Ze Rafael,42' (1ºT),Jose Rafael Vivian,8.0,511.0
+253,Santos - SP,Marcos Leonardo,24' (2ºT),Marcos Leonardo Santos Almeida,9.0,689.0
+253,Santos - SP,Tomás Rincón,45+1' (1ºT),Tomás Eduardo Rincón Hernández,0.0,975.0
+254,Corinthians - SP,Fabio Santos,34' (2ºT),Fabio Santos Romeu,6.0,251.0
+254,Flamengo - RJ,Gerson,10' (2ºT),Gerson Santos da Silva,20.0,325.0
+255,Goiás - GO,Matheus Babi,45+4' (1ºT),Matheus Barcelos da Silva,0.0,721.0
+255,Goiás - GO,Joao,4' (2ºT),Joao Victo Magno de Souza Machado,0.0,479.0
+255,Goiás - GO,Guilherme,27' (1ºT),Guilherme Costa Marques,60.0,343.0
+255,Goiás - GO,Guilherme,45+1' (1ºT),Guilherme Costa Marques,60.0,343.0
+255,Bahia - BA,Everaldo,14' (1ºT),Everaldo Stum,0.0,237.0
+255,Bahia - BA,Everaldo,37' (1ºT),Everaldo Stum,0.0,237.0
+255,Bahia - BA,Everaldo,7' (2ºT),Everaldo Stum,0.0,237.0
+255,Bahia - BA,Biel,45+5' (2ºT),Gabriel Teixeira Aragao,0.0,317.0
+255,Bahia - BA,Gilberto,17' (1ºT),Gilberto Moraes Junior,0.0,327.0
+255,Bahia - BA,Rafael Ratão,11' (2ºT),Rafael Rogerio da Silva,0.0,855.0
+256,Atlético Mineiro - MG,Hulk,12' (2ºT),Givanildo Vieira de Sousa,7.0,335.0
+256,Coritiba S.a.f. - PR,Matheus,18' (2ºT),Matheus Henrique Bianqui,0.0,736.0
+256,Coritiba S.a.f. - PR,Slimani,45' (2ºT),Islam Slimani,0.0,417.0
+257,Internacional - RS,WANDERSON,3' (2ºT),Wanderson Maciel Sousa Campos,11.0,1032.0
+257,Internacional - RS,Alan Patrick,23' (2ºT),Alan Patrick Lourenço,10.0,18.0
+257,Internacional - RS,Valencia,6' (1ºT),Enner Remberto Valencia Lastra,0.0,224.0
+257,Grêmio - RS,Joao Pedro,22' (2ºT),Joao Pedro Geraldino dos Santos Galvao,18.0,471.0
+257,Grêmio - RS,Joao Pedro,22' (2ºT),Joao Pedro Maturano dos Santos,18.0,472.0
+257,Grêmio - RS,Suarez,28' (2ºT),Luis Alberto Suarez Diaz,9.0,645.0
+258,Athletico Paranaense - PR,Pablo,45+1' (1ºT),Pablo Felipe Teixeira,92.0,799.0
+258,Red Bull Bragantino - SP,Eric Ramires,33' (1ºT),Eric dos Santos Rodrigues,7.0,226.0
+259,Fortaleza - CE,Bruno Pacheco,22' (2ºT),Bruno de Jesus Pacheco,6.0,93.0
+259,Fortaleza - CE,Lucero,30' (1ºT),Juan Martin Lucero,9.0,522.0
+259,Fortaleza - CE,Machuca,10' (2ºT),Imanol Javier Machuca,0.0,412.0
+259,America Saf - MG,Gonzalo Mastriani,17' (1ºT),Gonzalo Mathias Mastriani Borges,17.0,338.0
+259,America Saf - MG,Gonzalo Mastriani,22' (1ºT),Gonzalo Mathias Mastriani Borges,17.0,338.0
+261,Fluminense - RJ,Lima,21' (1ºT),Vinicius Moreira de Lima,45.0,1003.0
+261,Fluminense - RJ,Lima,10' (2ºT),Vinicius Moreira de Lima,45.0,1003.0
+261,Fluminense - RJ,Jhon Arias,37' (2ºT),Jhon Adolfo Arias Andrade,21.0,445.0
+261,Corinthians - SP,Fabio Santos,31' (1ºT),Fabio Santos Romeu,6.0,251.0
+261,Corinthians - SP,Yuri Alberto,9' (1ºT),Yuri Alberto Monteiro da Silva,9.0,1068.0
+261,Corinthians - SP,Yuri Alberto,26' (1ºT),Yuri Alberto Monteiro da Silva,9.0,1068.0
+262,Vasco da Gama S.a.f. - RJ,Payet,13' (2ºT),Dimitri Payet,0.0,188.0
+263,Atlético Mineiro - MG,Hulk,2' (1ºT),Givanildo Vieira de Sousa,7.0,335.0
+263,Atlético Mineiro - MG,Paulinho,30' (2ºT),Paulo Henrique Sampaio Filho,10.0,813.0
+264,Red Bull Bragantino - SP,Eduardo Sasha,9' (1ºT),Eduardo Colcenti Antunes,19.0,206.0
+264,Red Bull Bragantino - SP,Eduardo Sasha,28' (1ºT),Eduardo Colcenti Antunes,19.0,206.0
+264,Red Bull Bragantino - SP,Léo Ortiz,39' (2ºT),Leonardo Rech Ortiz,0.0,583.0
+264,Red Bull Bragantino - SP,Eric Ramires,2' (2ºT),Eric dos Santos Rodrigues,7.0,226.0
+265,Goiás - GO,Hugo,9' (1ºT),Hugo Ferreira de Farias,66.0,390.0
+265,Goiás - GO,Morelli,45+5' (1ºT),Everton Morelli Casimiro,40.0,242.0
+266,Flamengo - RJ,Ayrton Lucas,38' (1ºT),Ayrton Lucas Dantas de Medeiros,6.0,75.0
+266,Flamengo - RJ,Pedro,43' (1ºT),Pedro Guilherme Abreu dos Santos,9.0,824.0
+267,Grêmio - RS,Besozzi,7' (1ºT),Lucas Agustin Besozzi,0.0,598.0
+267,Athletico Paranaense - PR,Zapelli,37' (1ºT),Bruno Zapelli,0.0,110.0
+267,Athletico Paranaense - PR,Kaique,45+3' (2ºT),Kaique Rocha Lima,0.0,536.0
+268,Cuiabá Saf - MT,PITTA,36' (2ºT),Isidro Miguel Pitta Saldivar,9.0,416.0
+268,Cuiabá Saf - MT,Deyverson,24' (1ºT),Deyverson Brum Silva,16.0,179.0
+268,Cuiabá Saf - MT,Raniele,42' (2ºT),Raniele Almeida Melo,14.0,861.0
+269,Bahia - BA,Biel,43' (1ºT),Gabriel Teixeira Aragao,0.0,317.0
+270,America Saf - MG,Martin Benitez,38' (1ºT),Martin Nicolas Benitez,0.0,706.0
+270,Botafogo - RJ,Junior,21' (1ºT),Jose Antonio dos Santos Junior,37.0,503.0
+270,Botafogo - RJ,Junior,4' (2ºT),Jose Antonio dos Santos Junior,37.0,503.0
+271,Flamengo - RJ,Gerson,30' (2ºT),Gerson Santos da Silva,20.0,325.0
+272,Botafogo - RJ,Tiquinho,23' (1ºT),Francisco das Chagas Soares dos Santos,9.0,284.0
+272,Athletico Paranaense - PR,Pablo,41' (1ºT),Pablo Felipe Teixeira,92.0,799.0
+273,São Paulo - SP,Michel Araujo,20' (1ºT),Michel Daryl Araujo Villar,15.0,765.0
+273,São Paulo - SP,Luciano,45+6' (2ºT),Luciano da Rocha Neves,10.0,642.0
+273,São Paulo - SP,Pablo,23' (2ºT),Pablo Gonçalves Maia Fortunato,29.0,800.0
+274,Corinthians - SP,Giuliano,45+8' (2ºT),Giuliano Victor de Paula,20.0,334.0
+274,America Saf - MG,Martin Benitez,37' (1ºT),Martin Nicolas Benitez,0.0,706.0
+275,Red Bull Bragantino - SP,Eduardo Sasha,16' (1ºT),Eduardo Colcenti Antunes,19.0,206.0
+276,Atlético Mineiro - MG,Jemerson,42' (2ºT),Jemerson de Jesus Nascimento,34.0,441.0
+277,Internacional - RS,Alan Patrick,13' (1ºT),Alan Patrick Lourenço,10.0,18.0
+277,Internacional - RS,Luiz Adriano,29' (2ºT),Luiz Adriano Souza da Silva,9.0,660.0
+277,Internacional - RS,BUSTOS,8' (2ºT),Fabricio Tomas Bustos Sein,0.0,256.0
+277,Internacional - RS,WANDERSON,38' (1ºT),Wanderson Maciel Sousa Campos,11.0,1032.0
+277,Internacional - RS,Valencia,27' (1ºT),Enner Remberto Valencia Lastra,0.0,224.0
+277,Internacional - RS,Valencia,15' (2ºT),Enner Remberto Valencia Lastra,0.0,224.0
+277,Santos - SP,Maximiliano,34' (2ºT),Maximiliano Joaquin Silvera Cabo,0.0,758.0
+277,Santos - SP,Kevyson,1' (1ºT),Kevyson Costa E Silva,0.0,559.0
+278,Palmeiras - SP,Joaquin Piquerez,45+3' (1ºT),Joaquin Piquerez Moreira,22.0,493.0
+278,Palmeiras - SP,Gustavo Gomez,32' (1ºT),Gustavo Raul Gomez Portillo,15.0,366.0
+279,Bahia - BA,Kanu,21' (1ºT),Victor Hugo Soares dos Santos,0.0,987.0
+279,Bahia - BA,Rafael Ratão,45+6' (2ºT),Rafael Rogerio da Silva,0.0,855.0
+280,Cuiabá Saf - MT,Clayson,1' (2ºT),Clayson Henrique da Silva Vieira,0.0,146.0
+280,Goiás - GO,Guilherme,45+8' (1ºT),Guilherme Costa Marques,60.0,343.0
+281,Fluminense - RJ,Jhon Arias,36' (1ºT),Jhon Adolfo Arias Andrade,21.0,445.0
+281,Fluminense - RJ,Jhon Arias,1' (2ºT),Jhon Adolfo Arias Andrade,21.0,445.0
+281,Fluminense - RJ,Keno,7' (2ºT),Marcos da Silva Franca,11.0,687.0
+281,Fluminense - RJ,Keno,17' (2ºT),Marcos da Silva Franca,11.0,687.0
+281,Fluminense - RJ,Felipe Melo,16' (1ºT),Felipe Melo de Carvalho,30.0,272.0
+281,Goiás - GO,Julian,22' (2ºT),Julian Eduardo Palacios,10.0,526.0
+281,Goiás - GO,Allano,4' (1ºT),Allano Brendon de Souza Lima,0.0,44.0
+281,Goiás - GO,Matheus Babi,12' (1ºT),Matheus Barcelos da Silva,0.0,721.0
+282,Vasco da Gama S.a.f. - RJ,Alex Teixeira,38' (2ºT),Alex Teixeira Santos,7.0,28.0
+282,Internacional - RS,Valencia,13' (2ºT),Enner Remberto Valencia Lastra,0.0,224.0
+282,Internacional - RS,Mauricio,19' (1ºT),Mauricio Magalhaes Prado,27.0,756.0
+283,Palmeiras - SP,Marcos Rocha,39' (2ºT),Marcos Luis Rocha Aquino,2.0,690.0
+283,Palmeiras - SP,Joaquin Piquerez,45+1' (1ºT),Joaquin Piquerez Moreira,22.0,493.0
+283,Palmeiras - SP,Joaquin Piquerez,41' (2ºT),Joaquin Piquerez Moreira,22.0,493.0
+283,Palmeiras - SP,Breno,16' (1ºT),Breno Henrique Vasconcelos Lopes,19.0,85.0
+283,Palmeiras - SP,Breno,26' (1ºT),Breno Henrique Vasconcelos Lopes,19.0,85.0
+284,Santos - SP,Marcos Leonardo,28' (2ºT),Marcos Leonardo Santos Almeida,9.0,689.0
+284,Coritiba S.a.f. - PR,Matheus,3' (1ºT),Matheus Henrique Bianqui,0.0,736.0
+284,Coritiba S.a.f. - PR,Robson,10' (1ºT),Robson dos Santos Fernandes,0.0,900.0
+285,Red Bull Bragantino - SP,Talisson,38' (2ºT),Talisson de Almeida,21.0,950.0
+285,Atlético Mineiro - MG,Hulk,35' (1ºT),Givanildo Vieira de Sousa,7.0,335.0
+285,Atlético Mineiro - MG,Igor Gomes,35' (2ºT),Igor Silveira Gomes,17.0,410.0
+286,Cruzeiro Saf - MG,Bruno Rodrigues,42' (2ºT),Bruno Rafael Rodrigues do Nascimento,9.0,106.0
+286,Cruzeiro Saf - MG,Marlon,7' (2ºT),Marlon Rodrigues Xavier,3.0,702.0
+286,Bahia - BA,Kanu,18' (1ºT),Victor Hugo Soares dos Santos,0.0,987.0
+287,Grêmio - RS,Nathan,35' (2ºT),Nathan Allan de Souza,7.0,778.0
+287,Grêmio - RS,Nathan,35' (2ºT),Nathan Ribeiro Fernandes,7.0,782.0
+287,Grêmio - RS,Andre,40' (2ºT),Andre Henrique da Silva Martins,77.0,53.0
+287,Grêmio - RS,Ferreira,30' (2ºT),Aldemir dos Santos Ferreira,0.0,21.0
+287,Flamengo - RJ,Luiz,43' (2ºT),Luiz de Araujo Guimaraes Neto,0.0,661.0
+287,Flamengo - RJ,Everton,41' (1ºT),Everton Sousa Soares,11.0,243.0
+288,Athletico Paranaense - PR,Vitor Bueno,45+2' (1ºT),Vitor Frezarin Bueno,8.0,1016.0
+288,Athletico Paranaense - PR,Pablo,44' (1ºT),Pablo Felipe Teixeira,92.0,799.0
+288,Athletico Paranaense - PR,Erick,27' (1ºT),Erick Luis Conrado Carvalho,26.0,228.0
+288,America Saf - MG,Emmanuel Martinez,33' (2ºT),Leandro Emmanuel Martinez,5.0,562.0
+288,America Saf - MG,Gonzalo Mastriani,11' (1ºT),Gonzalo Mathias Mastriani Borges,17.0,338.0
+290,Corinthians - SP,Angel Romero,33' (2ºT),Angel Rodrigo Romero Villamayor,11.0,59.0
