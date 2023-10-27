@@ -1,0 +1,2611 @@
+NPartida,Time,Substituido,Substituto
+1,Flamengo - RJ,Everton,Bruno Henrique
+1,Flamengo - RJ,Thiago Maia,Igor Jesus
+1,Flamengo - RJ,Éverton Ribeiro,Victor Hugo
+1,Flamengo - RJ,Gabriel Barbosa,Pedro
+1,Flamengo - RJ,Matheus França,Marinho
+2,Botafogo - RJ,Tche Tche,Lucas
+2,Botafogo - RJ,Gustavo,Luis Henrique
+2,Botafogo - RJ,Junior,Matias Segovia
+2,Botafogo - RJ,Di Placido,Luis Segovia
+2,Botafogo - RJ,Rafael,Daniel Borges
+2,São Paulo - SP,Wellington Rato,Gabriel Neves
+2,São Paulo - SP,Sebastian Mendez,Pablo
+2,São Paulo - SP,Rodrigo Nestor,Alisson
+2,São Paulo - SP,Luciano,David
+3,Palmeiras - SP,Endrick,Rafael Navarro
+3,Palmeiras - SP,Ze Rafael,Fabinho
+3,Palmeiras - SP,Artur,Breno
+3,Palmeiras - SP,Lopez,Luis Guilherme
+3,Palmeiras - SP,Gabriel Menino,Richard Rios
+3,Cuiabá Saf - MT,Patric,Matheus Alexandre
+3,Cuiabá Saf - MT,Cafu,Nicolas
+3,Cuiabá Saf - MT,Deyverson,Fernando
+3,Cuiabá Saf - MT,Emerson,PITTA
+3,Cuiabá Saf - MT,Pablo Ceppelini Gatto,Rafael Gava
+4,Corinthians - SP,Chrystian,Adson
+4,Corinthians - SP,Matheus Bidu,Fabio Santos
+4,Corinthians - SP,Fausto,Eduardo Santos Queiroz
+4,Corinthians - SP,Giuliano,Matheus Araujo
+4,Corinthians - SP,Roni,Cantillo
+4,Cruzeiro Saf - MG,Mateus,Bilu
+4,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Nikao
+4,Cruzeiro Saf - MG,Ramiro,Filipe Machado
+5,Red Bull Bragantino - SP,Alerrandro,Eduardo Sasha
+5,Red Bull Bragantino - SP,Léo Realpe,Eduardo
+5,Red Bull Bragantino - SP,Talisson,Henry Mosquera
+5,Red Bull Bragantino - SP,Nacho Laquintana,Helinho
+5,Red Bull Bragantino - SP,Jadsom Silva,Evangelista
+6,Atlético Mineiro - MG,Pavon,Isaac
+6,Atlético Mineiro - MG,Otavio,Edenilson
+6,Atlético Mineiro - MG,Hyoran,Pedrinho
+6,Atlético Mineiro - MG,Renzo Saravia,Mariano
+6,Atlético Mineiro - MG,Rubens,Patrick
+6,Vasco da Gama S.a.f. - RJ,Andrey Santos,Barros
+6,Vasco da Gama S.a.f. - RJ,Lucas Piton,Paulo Victor
+6,Vasco da Gama S.a.f. - RJ,Gabriel Pec,Figueiredo
+6,Vasco da Gama S.a.f. - RJ,Jair,Matias Galarza
+6,Vasco da Gama S.a.f. - RJ,Alex Teixeira,Marlon Gomes
+7,Grêmio - RS,Vina,Galdino
+7,Grêmio - RS,Cristaldo,Nathan
+7,Grêmio - RS,Joao Pedro,Thomas Luciano
+7,Grêmio - RS,Villasanti,Darlan
+7,Grêmio - RS,Zinho,Andre
+7,Santos - SP,Daniel Ruiz,Ângelo
+7,Santos - SP,Dodi,Bruno Mezenga
+7,Santos - SP,Camacho,Rodrigo
+7,Santos - SP,Lucas,Yeferson Soteldo
+7,Santos - SP,Lucas Lima,Miguel
+8,Athletico Paranaense - PR,Vitor Bueno,Vitor Roque
+8,Athletico Paranaense - PR,Hugo Moura,Erick
+8,Athletico Paranaense - PR,Romulo,Reinaldo
+8,Athletico Paranaense - PR,Pedro Henrique,Ze Ivaldo
+8,Athletico Paranaense - PR,Cittadini,Thiago
+8,Goiás - GO,Magno Jose,Matheus
+8,Goiás - GO,Zé Ricardo,Jhonny
+8,Goiás - GO,Morelli,Guilherme
+8,Goiás - GO,Matheus Peixoto,Philippe
+8,Goiás - GO,Diego,Willian Oliveira
+9,Fortaleza - CE,Caio,HERCULES
+9,Fortaleza - CE,Lucero,Silvio Romero
+9,Fortaleza - CE,Moises,Guilherme Augusto
+9,Fortaleza - CE,Calebe,Yago
+9,Fortaleza - CE,Thiago Galhardo,Pochettino
+9,Internacional - RS,Alan Patrick,Carlos de Pena
+9,Internacional - RS,Pedro,Jean Dias
+9,Internacional - RS,WANDERSON,Lucca
+9,Internacional - RS,Igor Gomes,Romulo
+9,Internacional - RS,Joao Lucas,Gustavo
+10,America Saf - MG,Everaldo,ADYSON
+10,America Saf - MG,Felipe Azevedo,Matheusinho
+10,America Saf - MG,H. Almeida,Wellington Paulista
+10,America Saf - MG,Iago,Ricardo Silva
+10,America Saf - MG,Emmanuel Martinez,Lucas
+10,Fluminense - RJ,German Cano,Keno
+10,Fluminense - RJ,Gabriel Pirani,Lelê
+10,Fluminense - RJ,Alexsander,Guga
+10,Fluminense - RJ,PH GANSO,Thiago Santos
+10,Fluminense - RJ,Nino,David Braz
+11,Fluminense - RJ,Felipe Melo,Vitor Mendes
+11,Fluminense - RJ,German Cano,John Kennedy
+11,Fluminense - RJ,PH GANSO,Lelê
+11,Fluminense - RJ,Keno,Gabriel Pirani
+11,Fluminense - RJ,Lima,Thiago Santos
+11,Athletico Paranaense - PR,Fernandinho,Vitor Bueno
+11,Athletico Paranaense - PR,Thiago,Romulo
+11,Athletico Paranaense - PR,Erick,Christian
+11,Athletico Paranaense - PR,Cuello,Vitor Roque
+11,Athletico Paranaense - PR,Cittadini,Hugo Moura
+12,Vasco da Gama S.a.f. - RJ,Robson,Capasso
+12,Vasco da Gama S.a.f. - RJ,Alex Teixeira,Figueiredo
+12,Vasco da Gama S.a.f. - RJ,Gabriel Pec,Orellano
+12,Vasco da Gama S.a.f. - RJ,Rodrigo,Marlon Gomes
+12,Vasco da Gama S.a.f. - RJ,Jair,Matias Galarza
+12,Palmeiras - SP,Dudu,Luis Guilherme
+12,Palmeiras - SP,Artur,Jhon Jhon
+12,Palmeiras - SP,Rafael Navarro,Endrick
+12,Palmeiras - SP,Richard Rios,Fabinho
+12,Palmeiras - SP,Gabriel Menino,Lopez
+13,São Paulo - SP,Patryck,Caio Paulista
+13,São Paulo - SP,Michel Araujo,Wellington Rato
+13,São Paulo - SP,Luciano,Marcos Paulo
+13,São Paulo - SP,Luan Silva,Gabriel Neves
+13,São Paulo - SP,Rodrigo Nestor,Alisson
+13,America Saf - MG,Matheusinho,Felipe Azevedo
+13,America Saf - MG,Emmanuel Martinez,H. Almeida
+13,America Saf - MG,Aloisio,Wellington Paulista
+13,America Saf - MG,Everaldo,ADYSON
+13,America Saf - MG,Nino Paraiba,Marcinho
+14,Santos - SP,Ângelo,Miguel
+14,Santos - SP,Daniel Ruiz,Luan
+14,Santos - SP,Marcos Leonardo,Bruno Mezenga
+14,Santos - SP,Nathan,Gabriel
+14,Atlético Mineiro - MG,Edenilson,Pavon
+14,Atlético Mineiro - MG,Rubens,Vargas
+14,Atlético Mineiro - MG,Hyoran,Patrick
+14,Atlético Mineiro - MG,Renzo Saravia,Mariano
+14,Atlético Mineiro - MG,Muricio Lemos,Jemerson
+15,Goiás - GO,Zé Ricardo,Apodi
+15,Goiás - GO,Julian,Jhonny
+15,Goiás - GO,Matheus Peixoto,Matheus
+15,Corinthians - SP,Giuliano,Paulinho
+15,Corinthians - SP,Balbuena,Aluisio
+15,Corinthians - SP,Bruno Mendez,Roni
+15,Corinthians - SP,Fausto,Maycon
+15,Corinthians - SP,Chrystian,Pedrinho
+16,Cruzeiro Saf - MG,Richard,Neto
+16,Cruzeiro Saf - MG,Mateus,Wallisson
+16,Cruzeiro Saf - MG,Ramiro,Filipe Machado
+16,Cruzeiro Saf - MG,Nikao,Bilu
+16,Grêmio - RS,Lucas Silva,Galdino
+16,Grêmio - RS,Vina,Andre
+16,Grêmio - RS,Cristaldo,Gustavo
+16,Grêmio - RS,Nathan,Zinho
+17,Internacional - RS,WANDERSON,Jean Dias
+17,Internacional - RS,Pedro,Mauricio
+17,Internacional - RS,Alexandre,Luiz Adriano
+17,Internacional - RS,Gustavo,Gabriel  Baralhas
+17,Internacional - RS,Joao Lucas,Carlos de Pena
+17,Flamengo - RJ,Leo Pereira,Rodrigo Caio
+17,Flamengo - RJ,VIDAL,Everton
+17,Flamengo - RJ,Éverton Ribeiro,Matheus França
+17,Flamengo - RJ,Pedro,Marinho
+18,Fortaleza - CE,Silvio Romero,Yago
+18,Fortaleza - CE,Calebe,Moises
+18,Fortaleza - CE,Guilherme Augusto,Romarinho
+18,Fortaleza - CE,HERCULES,Lucas
+18,Fortaleza - CE,Pochettino,Zanocelo
+19,Botafogo - RJ,Lucas,Tche Tche
+19,Botafogo - RJ,Adryelson,Philipe
+19,Botafogo - RJ,Danilo,Marlon Freitas
+19,Botafogo - RJ,Junior,Matias Segovia
+19,Botafogo - RJ,Joao Victor,Luis Henrique
+20,Cuiabá Saf - MT,Iury,Cafu
+20,Cuiabá Saf - MT,Denilson,Ronald
+20,Cuiabá Saf - MT,Emerson,Wellington Silva
+20,Cuiabá Saf - MT,Deyverson,PITTA
+20,Cuiabá Saf - MT,Raniele,Fernando
+20,Red Bull Bragantino - SP,Matheus Fernandes,Thiago Borbas
+20,Red Bull Bragantino - SP,Helinho,Sorriso
+20,Red Bull Bragantino - SP,Gustavinho,Eric Ramires
+20,Red Bull Bragantino - SP,Henry Mosquera,Nacho Laquintana
+20,Red Bull Bragantino - SP,Evangelista,Jadsom Silva
+21,Flamengo - RJ,Everton,Bruno Henrique
+21,Flamengo - RJ,Wesley,Marinho
+21,Flamengo - RJ,VIDAL,Victor Hugo
+21,Flamengo - RJ,Thiago Maia,Matheus França
+21,Flamengo - RJ,Ayrton Lucas,Éverton Ribeiro
+21,Botafogo - RJ,Carlos,Marlon Freitas
+21,Botafogo - RJ,Tche Tche,Philipe
+21,Botafogo - RJ,Junior,Di Placido
+21,Botafogo - RJ,Joao Victor,Luis Henrique
+22,Vasco da Gama S.a.f. - RJ,Alex Teixeira,Carabajal
+22,Vasco da Gama S.a.f. - RJ,Marlon Gomes,Orellano
+22,Vasco da Gama S.a.f. - RJ,Andrey Santos,Rodrigo
+22,Vasco da Gama S.a.f. - RJ,Gabriel Pec,Erick Marcus
+22,Vasco da Gama S.a.f. - RJ,Jair,Rwan
+23,Palmeiras - SP,Raphael Veiga,Jhon Jhon
+23,Palmeiras - SP,Artur,Giovani
+23,Palmeiras - SP,Mayke,Gustavo Garcia
+23,Palmeiras - SP,Ze Rafael,Richard Rios
+23,Palmeiras - SP,Rony,Rafael Navarro
+23,Corinthians - SP,Adson,Paulinho
+23,Corinthians - SP,Angel Romero,Giuliano
+23,Corinthians - SP,Yuri Alberto,Giovane Nascimento
+23,Corinthians - SP,Eduardo Santos Queiroz,Fagner
+23,Corinthians - SP,Fausto,Maycon
+24,Santos - SP,Lucas Lima,Alison
+24,Santos - SP,Nathan,Gabriel
+24,Santos - SP,Mendoza,Ângelo
+24,Santos - SP,Dodi,Ed Carlos
+24,Santos - SP,Yeferson Soteldo,Daniel Ruiz
+24,America Saf - MG,Matheusinho,Felipe Azevedo
+24,America Saf - MG,Juninho,Danilo
+24,America Saf - MG,Aloisio,MIKAEL
+24,America Saf - MG,Marlon,Nino Paraiba
+24,America Saf - MG,Martin Benitez,Emmanuel Martinez
+25,Red Bull Bragantino - SP,J. Capixaba,Thiago Borbas
+25,Red Bull Bragantino - SP,Helinho,Henry Mosquera
+25,Red Bull Bragantino - SP,Sorriso,Andres Hurtado
+25,Red Bull Bragantino - SP,Matheus Fernandes,Gustavinho
+25,Cruzeiro Saf - MG,Mateus,Neto
+25,Cruzeiro Saf - MG,Nikao,Bilu
+25,Cruzeiro Saf - MG,Luciano Castan,Matheus
+25,Cruzeiro Saf - MG,Neris,Reynaldo
+26,Atlético Mineiro - MG,Edenilson,Rodrigo Battaglia
+26,Atlético Mineiro - MG,Hyoran,Patrick
+26,Atlético Mineiro - MG,Renzo Saravia,Mariano
+26,Atlético Mineiro - MG,Jemerson,Bruno Fuchs
+26,Atlético Mineiro - MG,Paulinho,Rubens
+26,Athletico Paranaense - PR,Erick,Vitor Bueno
+26,Athletico Paranaense - PR,Romulo,Pablo
+26,Athletico Paranaense - PR,David Terans,Thiago
+26,Athletico Paranaense - PR,Khellven,Madson
+27,Internacional - RS,Carlos de Pena,Alan Patrick
+27,Internacional - RS,BUSTOS,Igor Gomes
+27,Internacional - RS,Mauricio,Jean Dias
+27,Internacional - RS,Luiz Adriano,Alexandre
+27,Internacional - RS,Pedro,Lucca
+27,Goiás - GO,Matheus Peixoto,Apodi
+27,Goiás - GO,Morelli,Guilherme
+27,Goiás - GO,Julian,Diego
+28,São Paulo - SP,Rai,Rafinha
+28,São Paulo - SP,Luan Silva,Marcos Paulo
+28,São Paulo - SP,Pablo,Gabriel Neves
+28,São Paulo - SP,Rodrigo Nestor,Juan
+28,São Paulo - SP,Wellington Rato,Michel Araujo
+29,Fortaleza - CE,Pochettino,Yago
+29,Fortaleza - CE,Caio,Welison
+29,Fortaleza - CE,Thiago Galhardo,Guilherme Augusto
+29,Fortaleza - CE,Moises,Romarinho
+29,Fortaleza - CE,Calebe,Lucas
+29,Fluminense - RJ,Gabriel Pirani,PH GANSO
+29,Fluminense - RJ,Alan,Jhon Arias
+29,Fluminense - RJ,Guga,Keno
+29,Fluminense - RJ,Manoel,German Cano
+29,Fluminense - RJ,Lelê,Isaac
+30,Cuiabá Saf - MT,Cafu,Wellington Silva
+30,Cuiabá Saf - MT,Matheusinho,Matheus Alexandre
+30,Cuiabá Saf - MT,Raniele,Denilson
+30,Cuiabá Saf - MT,Filipe Augusto,PITTA
+30,Cuiabá Saf - MT,Pablo Ceppelini Gatto,Ronald
+30,Grêmio - RS,Cristaldo,Nathan
+30,Grêmio - RS,Fabio,Thomas Luciano
+30,Grêmio - RS,Lucas Silva,Uvini
+30,Grêmio - RS,Vina,Galdino
+30,Grêmio - RS,Mila,Zinho
+31,Fluminense - RJ,Marcelo,Lelê
+31,Fluminense - RJ,Lima,Thiago Santos
+31,Fluminense - RJ,Felipe Melo,John Kennedy
+31,Fluminense - RJ,Samuel Xavier,Guga
+31,Vasco da Gama S.a.f. - RJ,Gabriel Pec,Figueiredo
+31,Vasco da Gama S.a.f. - RJ,Jair,Marlon Gomes
+31,Vasco da Gama S.a.f. - RJ,Alex Teixeira,Rwan
+31,Vasco da Gama S.a.f. - RJ,Pedro Raul,Eguinaldo
+31,Vasco da Gama S.a.f. - RJ,Andrey Santos,Matias Galarza
+32,Botafogo - RJ,Lucas,Tche Tche
+32,Botafogo - RJ,Gabriel,Carlos
+32,Botafogo - RJ,Junior,Matias Segovia
+32,Botafogo - RJ,Matheus Nascimento,Tiquinho
+32,Botafogo - RJ,Joao Victor,Luis Henrique
+32,Atlético Mineiro - MG,Paulinho,Vargas
+32,Atlético Mineiro - MG,Edenilson,Pavon
+32,Atlético Mineiro - MG,Hyoran,Igor Gomes
+32,Atlético Mineiro - MG,Rubens,Patrick
+33,São Paulo - SP,Marcos Paulo,Calleri
+33,São Paulo - SP,Gabriel Neves,Luan Silva
+33,São Paulo - SP,Rodrigo Nestor,Sebastian Mendez
+33,São Paulo - SP,Alisson,Wellington Rato
+33,São Paulo - SP,Luciano,Michel Araujo
+33,Internacional - RS,Vitão,Moledo
+33,Internacional - RS,Mauricio,Pedro
+33,Internacional - RS,Gustavo,Gabriel  Baralhas
+33,Internacional - RS,Igor Gomes,BUSTOS
+33,Internacional - RS,Luiz Adriano,Lucca
+34,Corinthians - SP,Adson,Angel Romero
+34,Corinthians - SP,Fausto,Paulinho
+34,Corinthians - SP,Matheus Araujo,Yuri Alberto
+34,Corinthians - SP,Pedrinho,Guilherme Biro
+34,Corinthians - SP,Fabio Santos,Matheus Bidu
+34,Fortaleza - CE,Moises,Romarinho
+34,Fortaleza - CE,HERCULES,Yago
+34,Fortaleza - CE,Calebe,Pochettino
+34,Fortaleza - CE,Lucas,Zanocelo
+34,Fortaleza - CE,Thiago Galhardo,Silvio Romero
+35,Goiás - GO,Zé Ricardo,Alesson
+35,Goiás - GO,Guilherme,Sidimar
+35,Goiás - GO,Matheus Peixoto,Apodi
+35,Goiás - GO,Julian,Vinicius
+35,Goiás - GO,Vinicius,Diego
+35,Palmeiras - SP,Raphael Veiga,Jhon Jhon
+35,Palmeiras - SP,Rony,Endrick
+35,Palmeiras - SP,Gabriel Menino,Richard Rios
+35,Palmeiras - SP,Mayke,Gustavo Garcia
+35,Palmeiras - SP,Ze Rafael,Fabinho
+36,Cruzeiro Saf - MG,Bilu,Wesley Ribeiro Silva
+36,Cruzeiro Saf - MG,Gilberto,Henrique Dourado
+36,Cruzeiro Saf - MG,Mateus,Neto
+36,Cruzeiro Saf - MG,Ramiro,Filipe Machado
+36,Santos - SP,Lucas Lima,Daniel Ruiz
+36,Santos - SP,Nathan,Gabriel
+36,Santos - SP,Rodrigo,Ed Carlos
+36,Santos - SP,Camacho,Deivid Washington
+36,Santos - SP,Lucas,Ângelo
+37,Grêmio - RS,Suarez,Andre
+37,Grêmio - RS,Vina,Galdino
+37,Grêmio - RS,Mila,G. Martins
+37,Grêmio - RS,Cristaldo,Nathan
+37,Grêmio - RS,Lucas Silva,Zinho
+37,Red Bull Bragantino - SP,Matheus Fernandes,Thiago Borbas
+37,Red Bull Bragantino - SP,Helinho,Henry Mosquera
+37,Red Bull Bragantino - SP,Bruninho,Vitinho
+38,Athletico Paranaense - PR,Christian,Bryan Garcia
+38,Athletico Paranaense - PR,David Terans,Pablo
+38,Athletico Paranaense - PR,Romulo,Thiago
+38,Athletico Paranaense - PR,Vitor Roque,Canobbio
+38,Athletico Paranaense - PR,Erick,Hugo Moura
+38,Flamengo - RJ,Santos,Matheus Cunha
+38,Flamengo - RJ,Éverton Ribeiro,De Arrascaeta
+38,Flamengo - RJ,Matheus França,Marinho
+38,Flamengo - RJ,Thiago Maia,Victor Hugo
+39,Bahia - BA,Yago Felipe,Acevedo
+39,Bahia - BA,Biel,Mugni
+39,Bahia - BA,Thaciano,Diego Rosa
+39,Bahia - BA,Everaldo,Arthur Sales
+39,Bahia - BA,Cauly,Ademir
+40,America Saf - MG,Aloisio,MIKAEL
+40,America Saf - MG,Felipe Azevedo,Mateus Gonçalves
+40,America Saf - MG,Everaldo,Emmanuel Martinez
+40,America Saf - MG,Martin Benitez,Lucas
+40,America Saf - MG,Marcinho,Nino Paraiba
+40,Cuiabá Saf - MT,Pablo Ceppelini Gatto,Nicolas
+40,Cuiabá Saf - MT,Emerson,Cafu
+40,Cuiabá Saf - MT,Iury,Wellington Silva
+40,Cuiabá Saf - MT,Raniele,Ronald
+40,Cuiabá Saf - MT,Deyverson,PITTA
+41,Flamengo - RJ,Ayrton Lucas,David Luiz
+41,Flamengo - RJ,Éverton Ribeiro,Matheus França
+41,Flamengo - RJ,Pedro,Bruno Henrique
+41,Flamengo - RJ,Erick Pulgar,VIDAL
+41,Flamengo - RJ,Everton,Matheus Gonçalves
+41,Goiás - GO,Julian,Diego
+41,Goiás - GO,Jackson,Vinicius
+41,Goiás - GO,Vinicius,Alesson
+41,Goiás - GO,Morelli,Willian Oliveira
+42,Botafogo - RJ,Marlon Freitas,Lucas
+42,Botafogo - RJ,Gabriel,Tche Tche
+42,Botafogo - RJ,Joao Victor,Matias Segovia
+42,Botafogo - RJ,Junior,Luis Henrique
+42,Botafogo - RJ,Tiquinho,Janderson
+42,Corinthians - SP,Fabio Santos,Bruno Mendez
+42,Corinthians - SP,Adson,Wesley
+42,Corinthians - SP,Maycon,Chrystian
+42,Corinthians - SP,Matheus Araujo,Giuliano
+43,Palmeiras - SP,Rony,Richard Rios
+43,Palmeiras - SP,Raphael Veiga,Endrick
+43,Palmeiras - SP,Artur,Breno
+43,Palmeiras - SP,Ze Rafael,Fabinho
+43,Palmeiras - SP,Dudu,Bruno
+43,Grêmio - RS,Carballo,Galdino
+43,Grêmio - RS,Cristaldo,Zinho
+43,Grêmio - RS,Thomas Luciano,G. Martins
+43,Grêmio - RS,Vina,Nathan
+43,Grêmio - RS,Kannemann,Andre
+44,Santos - SP,Ângelo,Ed Carlos
+44,Santos - SP,Dodi,Vinicius
+44,Santos - SP,Mendoza,Lucas
+44,Santos - SP,Camacho,Alison
+44,Santos - SP,Lucas Lima,Daniel Ruiz
+44,Bahia - BA,Cicinho,Cauly
+44,Bahia - BA,Arthur Sales,Diego Rosa
+44,Bahia - BA,Acevedo,Mingotti
+44,Bahia - BA,Thaciano,Yago Felipe
+44,Bahia - BA,Biel,Daniel
+45,Red Bull Bragantino - SP,Evangelista,Jadsom Silva
+45,Red Bull Bragantino - SP,Bruninho,Gustavinho
+45,Red Bull Bragantino - SP,Helinho,Sorriso
+45,Red Bull Bragantino - SP,J. Capixaba,Guilherme
+45,Red Bull Bragantino - SP,Eduardo Sasha,Thiago Borbas
+45,America Saf - MG,Everaldo,Emmanuel Martinez
+45,America Saf - MG,Felipe Azevedo,MIKAEL
+45,America Saf - MG,Nicolas,Danilo
+45,America Saf - MG,Ale,Renato
+45,America Saf - MG,Marcinho,Iago
+46,Cruzeiro Saf - MG,Neto,Wallisson
+46,Cruzeiro Saf - MG,Luciano Castan,Nikao
+46,Cruzeiro Saf - MG,Gilberto,Henrique Dourado
+46,Cruzeiro Saf - MG,Filipe Machado,Daniel JR
+46,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Stênio
+46,Fluminense - RJ,Felipe Melo,Manoel
+46,Fluminense - RJ,Jhon Arias,Isaac
+46,Fluminense - RJ,Marcelo,Thiago Santos
+46,Fluminense - RJ,PH GANSO,Lelê
+46,Fluminense - RJ,German Cano,David Braz
+47,Internacional - RS,Gabriel  Baralhas,Estevao
+47,Internacional - RS,Rene,THAUAN LARA
+47,Internacional - RS,WANDERSON,Lucca
+47,Internacional - RS,BUSTOS,Igor Gomes
+47,Internacional - RS,Luiz Adriano,Gabriel Barros
+47,Athletico Paranaense - PR,Hugo Moura,Christian
+47,Athletico Paranaense - PR,Vitor Roque,Willian
+47,Athletico Paranaense - PR,Alex Santana,Vitor Bueno
+47,Athletico Paranaense - PR,Pablo,Matheus Felipe
+47,Athletico Paranaense - PR,Thiago,Canobbio
+48,Vasco da Gama S.a.f. - RJ,Rodrigo,Figueiredo
+48,Vasco da Gama S.a.f. - RJ,Andrey Santos,Matias Galarza
+48,Vasco da Gama S.a.f. - RJ,Gabriel Pec,Orellano
+48,Vasco da Gama S.a.f. - RJ,Pedro Raul,Barros
+48,Vasco da Gama S.a.f. - RJ,Alex Teixeira,Erick Marcus
+49,Fortaleza - CE,Welison,Zanocelo
+49,Fortaleza - CE,Pochettino,Thiago Galhardo
+49,Fortaleza - CE,Lucas Crispim,Bruno Pacheco
+49,Fortaleza - CE,Silvio Romero,Brayan Ceballos
+49,Fortaleza - CE,Guilherme Augusto,Calebe
+49,São Paulo - SP,Patryck,Caio Paulista
+49,São Paulo - SP,Wellington Rato,Gabriel Neves
+49,São Paulo - SP,Rai,Rafinha
+49,São Paulo - SP,Marcos Paulo,Luciano
+49,São Paulo - SP,Calleri,Juan
+50,Cuiabá Saf - MT,Cafu,Emerson
+50,Cuiabá Saf - MT,Filipe Augusto,Raniele
+50,Cuiabá Saf - MT,PITTA,Deyverson
+50,Cuiabá Saf - MT,Ronald,Pablo Ceppelini Gatto
+50,Cuiabá Saf - MT,Denilson,Nicolas
+50,Atlético Mineiro - MG,Bruno Fuchs,Rever
+50,Atlético Mineiro - MG,Vargas,Paulinho
+50,Atlético Mineiro - MG,Zaracho,Edenilson
+50,Atlético Mineiro - MG,Hyoran,Rubens
+50,Atlético Mineiro - MG,Rodrigo Battaglia,Vitinho
+51,Fluminense - RJ,Thiago Santos,Giovanni
+51,Fluminense - RJ,Felipe Melo,Manoel
+51,Fluminense - RJ,PH GANSO,Gabriel Pirani
+51,Fluminense - RJ,John Kennedy,Lelê
+51,Fluminense - RJ,Marcelo,David Braz
+51,Cuiabá Saf - MT,Fernando,Pablo Ceppelini Gatto
+51,Cuiabá Saf - MT,Cafu,Iury
+51,Cuiabá Saf - MT,Denilson,Ronald
+51,Cuiabá Saf - MT,Deyverson,PITTA
+51,Cuiabá Saf - MT,Wellington Silva,Nicolas
+52,Vasco da Gama S.a.f. - RJ,Puma Rodriguez,Paulo Henrique
+52,Vasco da Gama S.a.f. - RJ,Matias Galarza,Alex Teixeira
+52,Vasco da Gama S.a.f. - RJ,Gabriel Pec,Orellano
+52,Vasco da Gama S.a.f. - RJ,Figueiredo,Rodrigo
+52,Vasco da Gama S.a.f. - RJ,Barros,Erick Marcus
+52,Santos - SP,Ângelo,Daniel Ruiz
+52,Santos - SP,Deivid Washington,Alison
+52,Santos - SP,Lucas,Ed Carlos
+52,Santos - SP,Lucas Lima,Lucas
+53,Palmeiras - SP,Fabinho,Richard Rios
+53,Palmeiras - SP,Dudu,Breno
+53,Palmeiras - SP,Artur,Bruno
+53,Palmeiras - SP,Raphael Veiga,Lopez
+53,Palmeiras - SP,Rony,Endrick
+53,Red Bull Bragantino - SP,Bruninho,Vitinho
+53,Red Bull Bragantino - SP,Andres Hurtado,Aderlan
+53,Red Bull Bragantino - SP,Evangelista,Alerrandro
+53,Red Bull Bragantino - SP,Natan,Léo Realpe
+53,Red Bull Bragantino - SP,Helinho,Henry Mosquera
+54,Corinthians - SP,Giuliano,Matheus Araujo
+54,Corinthians - SP,Maycon,Roni
+54,Corinthians - SP,Wesley,Adson
+54,Corinthians - SP,Yuri Alberto,Felipe Augusto
+54,São Paulo - SP,Michel Araujo,Marcos Paulo
+54,São Paulo - SP,Gabriel Neves,Luan Silva
+54,São Paulo - SP,Wellington Rato,Alisson
+54,São Paulo - SP,Luciano,RODRIGUINHO
+54,São Paulo - SP,Calleri,Juan
+55,Goiás - GO,Willian Oliveira,Bruno
+55,Goiás - GO,Julian,Vinicius
+55,Goiás - GO,Magno Jose,Pedrinho
+55,Goiás - GO,Jackson,Sidimar
+55,Goiás - GO,Diego,Alesson
+55,Botafogo - RJ,Gustavo,Junior
+55,Botafogo - RJ,Tche Tche,Lucas
+55,Botafogo - RJ,Joao Victor,Luis Henrique
+55,Botafogo - RJ,Luis Segovia,Carlos Alberto
+56,Atlético Mineiro - MG,Paulinho,Igor Gomes
+56,Atlético Mineiro - MG,Vargas,Hulk
+56,Atlético Mineiro - MG,Mariano,Bruno Fuchs
+56,Atlético Mineiro - MG,Hyoran,Patrick
+56,Atlético Mineiro - MG,Pavon,Edenilson
+56,Internacional - RS,Matheus,Nicolas Hernandez
+56,Internacional - RS,Romulo,Gabriel  Baralhas
+56,Internacional - RS,BUSTOS,Lucca
+56,Internacional - RS,Luiz Adriano,Alexandre
+56,Internacional - RS,Pedro,WANDERSON
+57,Grêmio - RS,Thomas Luciano,G. Martins
+57,Grêmio - RS,Pepe,Zinho
+57,Grêmio - RS,Vina,Mila
+57,Grêmio - RS,Bitello,Nathan
+57,Grêmio - RS,Cristaldo,Galdino
+57,Fortaleza - CE,Calebe,Pochettino
+57,Fortaleza - CE,HERCULES,Yago
+57,Fortaleza - CE,Caio,Zanocelo
+57,Fortaleza - CE,Lucero,Silvio Romero
+58,Athletico Paranaense - PR,Christian,Canobbio
+58,Athletico Paranaense - PR,Pablo,Willian
+58,Athletico Paranaense - PR,David Terans,Vitor Bueno
+58,Athletico Paranaense - PR,Khellven,Madson
+58,Athletico Paranaense - PR,Pedro Henrique,Ze Ivaldo
+59,Bahia - BA,Vitor Hugo,Ademir
+59,Bahia - BA,Matheus Bahia,Ryan
+59,Bahia - BA,Arthur Sales,Kayky Chagas
+59,Bahia - BA,Yago Felipe,Acevedo
+59,Flamengo - RJ,Matheus Cunha,Santos
+59,Flamengo - RJ,Matheus França,VIDAL
+59,Flamengo - RJ,Everton,Bruno Henrique
+59,Flamengo - RJ,Thiago Maia,Erick Pulgar
+59,Flamengo - RJ,David Luiz,Wesley
+60,America Saf - MG,MIKAEL,Renato
+60,America Saf - MG,Marcinho,Iago
+60,America Saf - MG,Aloisio,Wellington Paulista
+60,America Saf - MG,Juninho,Emmanuel Martinez
+60,America Saf - MG,Felipe Azevedo,Mateus Gonçalves
+60,Cruzeiro Saf - MG,William,Igor Marques Paciencia Cardoso
+60,Cruzeiro Saf - MG,Ramiro,Matheus
+60,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Stênio
+60,Cruzeiro Saf - MG,Henrique Dourado,Gilberto
+60,Cruzeiro Saf - MG,Neto,Wallisson
+61,Flamengo - RJ,Erick Pulgar,VIDAL
+61,Flamengo - RJ,Pedro,Everton
+61,Flamengo - RJ,Victor Hugo,Matheus Gonçalves
+61,Corinthians - SP,Yuri Alberto,Angel Romero
+61,Corinthians - SP,Adson,Wesley
+61,Corinthians - SP,Bruno Mendez,Fagner
+62,Botafogo - RJ,Luis Henrique,Joao Victor
+62,Botafogo - RJ,Rafael,Di Placido
+62,Botafogo - RJ,Carlos,Philipe
+62,Botafogo - RJ,Gabriel,Marlon Freitas
+62,Fluminense - RJ,Felipe Melo,Manoel
+62,Fluminense - RJ,Gabriel Pirani,Lelê
+62,Fluminense - RJ,Samuel Xavier,John Kennedy
+62,Fluminense - RJ,Lima,Martinelli
+63,São Paulo - SP,Luan Silva,Wellington Rato
+63,São Paulo - SP,Gabriel Neves,Alisson
+63,São Paulo - SP,Rodrigo Nestor,Michel Araujo
+63,São Paulo - SP,Marcos Paulo,Pablo
+63,São Paulo - SP,Calleri,Juan
+63,Vasco da Gama S.a.f. - RJ,Matias Galarza,Rodrigo
+63,Vasco da Gama S.a.f. - RJ,Barros,Alex Teixeira
+63,Vasco da Gama S.a.f. - RJ,Figueiredo,Orellano
+63,Vasco da Gama S.a.f. - RJ,Gabriel Pec,Erick Marcus
+63,Vasco da Gama S.a.f. - RJ,Pedro Raul,Carabajal
+64,Santos - SP,Ângelo,Daniel Ruiz
+64,Santos - SP,Lucas,Lucas
+64,Santos - SP,Lucas Lima,Ivonei
+64,Santos - SP,Lucas Pires,Joao
+64,Santos - SP,Messias,Maicon
+64,Palmeiras - SP,Artur,Luis Guilherme
+64,Palmeiras - SP,Raphael Veiga,Richard Rios
+64,Palmeiras - SP,Gustavo Gomez,Kaiky
+64,Palmeiras - SP,Rony,Endrick
+64,Palmeiras - SP,Dudu,Breno
+65,Red Bull Bragantino - SP,Bruninho,Henry Mosquera
+65,Red Bull Bragantino - SP,Eduardo Sasha,Thiago Borbas
+65,Red Bull Bragantino - SP,Guilherme,Aderlan
+65,Red Bull Bragantino - SP,Helinho,Eric Ramires
+65,Red Bull Bragantino - SP,Matheus Fernandes,Jadsom Silva
+65,Athletico Paranaense - PR,Hugo Moura,Fernandinho
+65,Athletico Paranaense - PR,Vitor Bueno,Canobbio
+65,Athletico Paranaense - PR,Cuello,Thiago
+65,Athletico Paranaense - PR,David Terans,Vitor Roque
+65,Athletico Paranaense - PR,Willian,Pablo
+66,Cruzeiro Saf - MG,William,Igor Marques Paciencia Cardoso
+66,Cruzeiro Saf - MG,Filipe Machado,Daniel JR
+66,Cruzeiro Saf - MG,Ramiro,Wallisson
+66,Cruzeiro Saf - MG,Neto,Gilberto
+66,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Nikao
+66,Cuiabá Saf - MT,Wellington Silva,Iury
+66,Cuiabá Saf - MT,RIKELME,Patric
+66,Cuiabá Saf - MT,Cafu,Pablo Ceppelini Gatto
+66,Cuiabá Saf - MT,Deyverson,PITTA
+66,Cuiabá Saf - MT,Denilson,Ronald
+67,Grêmio - RS,Fabio,Thomas Luciano
+67,Grêmio - RS,Bruno Alves,G. Martins
+67,Grêmio - RS,Cristaldo,Galdino
+67,Grêmio - RS,Bitello,Cuiabano
+67,Grêmio - RS,Suarez,Vina
+67,Internacional - RS,Gustavo,Nicolas Hernandez
+67,Internacional - RS,Romulo,Jean Dias
+67,Internacional - RS,Luiz Adriano,Alexandre
+67,Internacional - RS,Moledo,WANDERSON
+67,Internacional - RS,Mauricio,Carlos de Pena
+68,Atlético Mineiro - MG,Edenilson,Cadu
+68,Atlético Mineiro - MG,Dodo,Rubens
+68,Atlético Mineiro - MG,Igor Gomes,Rodrigo Battaglia
+68,Atlético Mineiro - MG,Hyoran,Pavon
+68,Atlético Mineiro - MG,Patrick,Zaracho
+69,Bahia - BA,Gabriel Xavier,Acevedo
+69,Bahia - BA,Ryan,Chavez
+69,Bahia - BA,Ademir,Arthur Sales
+69,Bahia - BA,Biel,Kayky Chagas
+69,Goiás - GO,Alesson,Gabriel Novaes
+69,Goiás - GO,Julian,Vinicius
+69,Goiás - GO,Magno Jose,Bruno
+69,Goiás - GO,Matheus Peixoto,Philippe
+70,America Saf - MG,Renato,Aloisio
+70,America Saf - MG,Breno Lemos,Ale
+70,America Saf - MG,Danilo,Nicolas
+70,America Saf - MG,Felipe Azevedo,Juninho
+70,America Saf - MG,Marcinho,Ricardo Silva
+70,Fortaleza - CE,Pochettino,HERCULES
+70,Fortaleza - CE,Caio,Romarinho
+70,Fortaleza - CE,Lucero,Silvio Romero
+70,Fortaleza - CE,Moises,Guilherme Augusto
+70,Fortaleza - CE,Calebe,Yago
+71,Flamengo - RJ,Thiago Maia,Victor Hugo
+71,Flamengo - RJ,Matheus França,Everton
+71,Flamengo - RJ,Leo Pereira,David Luiz
+71,Cruzeiro Saf - MG,Igor Marques Paciencia Cardoso,William
+71,Cruzeiro Saf - MG,Neto,Mateus
+71,Cruzeiro Saf - MG,Wallisson,Matheus
+71,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Stênio
+71,Cruzeiro Saf - MG,Gilberto,Henrique Dourado
+72,Botafogo - RJ,Lucas,RAI
+72,Botafogo - RJ,Luis Henrique,Joao Victor
+72,Botafogo - RJ,Adryelson,Philipe
+72,Botafogo - RJ,Carlos,Janderson
+72,America Saf - MG,Renato,Aloisio
+72,America Saf - MG,Everaldo,Mateus Gonçalves
+72,America Saf - MG,Emmanuel Martinez,Ale
+72,America Saf - MG,Felipe Azevedo,Gonzalo Mastriani
+72,America Saf - MG,Breno Lemos,Juninho
+73,São Paulo - SP,Rafinha,Diego
+73,São Paulo - SP,Luciano,Wellington Rato
+73,São Paulo - SP,Alisson,David
+73,São Paulo - SP,Gabriel Neves,Michel Araujo
+73,São Paulo - SP,Marcos Paulo,RODRIGUINHO
+73,Goiás - GO,Alesson,Diego
+73,Goiás - GO,Jackson,Fellipe Bastos
+73,Goiás - GO,Julian,Apodi
+73,Goiás - GO,Sander,Hugo
+73,Goiás - GO,Matheus Peixoto,Gabriel Novaes
+74,Corinthians - SP,Yuri Alberto,Felipe Augusto
+74,Corinthians - SP,Fausto,Giuliano
+74,Corinthians - SP,Maycon,Renato Augusto
+74,Corinthians - SP,Adson,Wesley
+74,Corinthians - SP,Bruno Mendez,Fagner
+74,Fluminense - RJ,Felipe Melo,John Kennedy
+74,Fluminense - RJ,German Cano,Lelê
+74,Fluminense - RJ,Lima,ARTHUR
+74,Fluminense - RJ,Guga,Giovanni
+75,Red Bull Bragantino - SP,Eric Ramires,Gustavinho
+75,Red Bull Bragantino - SP,Helinho,Henry Mosquera
+75,Red Bull Bragantino - SP,Matheus Fernandes,Jadsom Silva
+75,Red Bull Bragantino - SP,Vitinho,Sorriso
+75,Santos - SP,Rodrigo,Camacho
+75,Santos - SP,Yeferson Soteldo,Daniel Ruiz
+75,Santos - SP,Lucas Pires,Dodi
+75,Santos - SP,Ângelo,Weslley
+75,Santos - SP,Deivid Washington,Bruno Mezenga
+76,Atlético Mineiro - MG,Hyoran,Patrick
+76,Atlético Mineiro - MG,Mariano,Renzo Saravia
+76,Atlético Mineiro - MG,Rubens,Igor Gomes
+76,Palmeiras - SP,Marcos Rocha,Mayke
+76,Palmeiras - SP,Raphael Veiga,Jhon Jhon
+76,Palmeiras - SP,Gabriel Menino,Richard Rios
+76,Palmeiras - SP,Dudu,Breno
+76,Palmeiras - SP,Rony,Endrick
+77,Internacional - RS,Romulo,Igor Gomes
+77,Internacional - RS,Alexandre,WANDERSON
+77,Internacional - RS,Pedro,Luiz Adriano
+77,Internacional - RS,THAUAN LARA,Rene
+77,Bahia - BA,Everaldo,Mingotti
+77,Bahia - BA,David Duarte,Ademir
+77,Bahia - BA,Chavez,Ryan
+78,Athletico Paranaense - PR,Fernando,Cuello
+78,Athletico Paranaense - PR,Pablo,David Terans
+78,Athletico Paranaense - PR,Christian,Alex Santana
+78,Athletico Paranaense - PR,Madson,Khellven
+78,Athletico Paranaense - PR,Vitor Bueno,Willian
+78,Grêmio - RS,Vina,Andre
+78,Grêmio - RS,Mila,Lucas Silva
+78,Grêmio - RS,Fabio,Joao Pedro
+78,Grêmio - RS,Galdino,Nathan
+78,Grêmio - RS,Cuiabano,Diogo Barbosa
+79,Fortaleza - CE,Lucero,Silvio Romero
+79,Fortaleza - CE,Moises,Guilherme Augusto
+79,Fortaleza - CE,Calebe,Yago
+79,Fortaleza - CE,HERCULES,Welison
+79,Fortaleza - CE,Thiago Galhardo,Pochettino
+79,Vasco da Gama S.a.f. - RJ,Matias Galarza,Orellano
+79,Vasco da Gama S.a.f. - RJ,Barros,Mateus Carvalho
+79,Vasco da Gama S.a.f. - RJ,Alex Teixeira,Eguinaldo
+79,Vasco da Gama S.a.f. - RJ,Jair,Rodrigo
+79,Vasco da Gama S.a.f. - RJ,Capasso,Miranda
+80,Cuiabá Saf - MT,Raniele,RICARDO
+80,Cuiabá Saf - MT,Wellington Silva,Iury
+80,Cuiabá Saf - MT,Ronald,Pablo Ceppelini Gatto
+80,Cuiabá Saf - MT,RIKELME,Patric
+80,Cuiabá Saf - MT,Cafu,Nicolas
+81,Fluminense - RJ,Felipe Melo,Manoel
+81,Fluminense - RJ,PH GANSO,Lelê
+81,Fluminense - RJ,Lima,Thiago Santos
+81,Fluminense - RJ,Nino,David Braz
+81,Red Bull Bragantino - SP,Helinho,Henry Mosquera
+81,Red Bull Bragantino - SP,Luan Patrick,Eduardo
+81,Red Bull Bragantino - SP,Matheus Fernandes,Thiago Borbas
+81,Red Bull Bragantino - SP,Eric Ramires,Jadsom Silva
+81,Red Bull Bragantino - SP,J. Capixaba,Guilherme
+82,Vasco da Gama S.a.f. - RJ,Matias Galarza,Mateus Carvalho
+82,Vasco da Gama S.a.f. - RJ,Orellano,Barros
+82,Vasco da Gama S.a.f. - RJ,Alex Teixeira,Gabriel Pec
+82,Flamengo - RJ,Thiago Maia,VIDAL
+82,Flamengo - RJ,Ayrton Lucas,Filipe Luís
+82,Flamengo - RJ,Matheus França,Victor Hugo
+82,Flamengo - RJ,De Arrascaeta,Everton
+83,Palmeiras - SP,Luis Guilherme,Jhon Jhon
+83,Palmeiras - SP,Artur,Bruno
+83,Palmeiras - SP,Gabriel Menino,Richard Rios
+83,Palmeiras - SP,Ze Rafael,Fabinho
+83,Palmeiras - SP,Rony,Lopez
+84,Santos - SP,Alison,Rodrigo
+84,Santos - SP,Dodi,Daniel Ruiz
+84,Santos - SP,Mendoza,Ângelo
+84,Santos - SP,Nathan,Lucas Pires
+84,Santos - SP,Deivid Washington,Bruno Mezenga
+84,Internacional - RS,Luiz Adriano,Lucca
+84,Internacional - RS,Vitão,Igor Gomes
+84,Internacional - RS,WANDERSON,THAUAN LARA
+84,Internacional - RS,Carlos de Pena,Jean Dias
+84,Internacional - RS,Joao Lucas,Matheus
+85,Goiás - GO,Gabriel Novaes,Philippe
+85,Goiás - GO,Jackson,Apodi
+85,Goiás - GO,Vinicius,Alesson
+85,Goiás - GO,Zé Ricardo,Guilherme
+85,Cuiabá Saf - MT,Wellington Silva,Nicolas
+85,Cuiabá Saf - MT,Denilson,Ronald
+85,Cuiabá Saf - MT,Deyverson,PITTA
+85,Cuiabá Saf - MT,Cafu,Emerson
+85,Cuiabá Saf - MT,Raniele,Allyson
+86,Cruzeiro Saf - MG,Gilberto,Henrique Dourado
+86,Cruzeiro Saf - MG,Matheus,Filipe Machado
+86,Cruzeiro Saf - MG,Wallisson,Daniel JR
+86,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Stênio
+86,Atlético Mineiro - MG,Edenilson,Patrick
+86,Atlético Mineiro - MG,Paulinho,Rever
+86,Atlético Mineiro - MG,Hyoran,Muricio Lemos
+87,Grêmio - RS,Bitello,Diogo Barbosa
+87,Grêmio - RS,Suarez,Vina
+87,Grêmio - RS,Fabio,Joao Pedro
+87,Grêmio - RS,Carballo,Mila
+87,Grêmio - RS,Cristaldo,Galdino
+87,São Paulo - SP,Wellington Rato,RODRIGUINHO
+87,São Paulo - SP,Michel Araujo,Marcos Paulo
+87,São Paulo - SP,Alisson,Luciano
+87,São Paulo - SP,Rai,Nathan
+87,São Paulo - SP,Alan Franco,David
+88,Athletico Paranaense - PR,David Terans,Christian
+88,Athletico Paranaense - PR,Canobbio,Romulo
+88,Athletico Paranaense - PR,Vitor Roque,Thiago
+88,Athletico Paranaense - PR,Alex Santana,Erick
+88,Athletico Paranaense - PR,Hugo Moura,Thiago Heleno
+88,Botafogo - RJ,Tche Tche,Kayque
+88,Botafogo - RJ,Lucas,Janderson
+88,Botafogo - RJ,Luis Henrique,Joao Victor
+88,Botafogo - RJ,Di Placido,Rafael
+88,Botafogo - RJ,Junior,Lucas
+89,Fortaleza - CE,Pochettino,Lucero
+89,Fortaleza - CE,HERCULES,Zanocelo
+89,Fortaleza - CE,Romarinho,Guilherme Augusto
+89,Fortaleza - CE,Calebe,Silvio Romero
+89,Bahia - BA,Rezende,Diego Rosa
+89,Bahia - BA,Everaldo,Mingotti
+89,Bahia - BA,Ademir,Cauly
+89,Bahia - BA,Vitor Hugo,Gabriel Xavier
+90,America Saf - MG,Aloisio,Renato
+90,America Saf - MG,Breno Lemos,Rodrigo
+90,America Saf - MG,Gonzalo Mastriani,H. Almeida
+90,America Saf - MG,Lucas,Ale
+90,America Saf - MG,Mateus,Julio
+90,Corinthians - SP,Fausto,Renato Augusto
+90,Corinthians - SP,Murillo,Felipe Augusto
+90,Corinthians - SP,Adson,Giuliano
+90,Corinthians - SP,Yuri Alberto,Pedrinho
+91,Flamengo - RJ,Everton,Bruno Henrique
+91,Flamengo - RJ,Gabriel Barbosa,Pedro
+91,Flamengo - RJ,De Arrascaeta,Victor Hugo
+91,Flamengo - RJ,Wesley,Varela
+91,Flamengo - RJ,Leo Pereira,Ayrton Lucas
+91,Grêmio - RS,Kannemann,Nathan
+91,Grêmio - RS,Joao Pedro,Galdino
+91,Grêmio - RS,Cristaldo,Vina
+92,Botafogo - RJ,Tche Tche,Lucas
+92,Botafogo - RJ,Tiquinho,Matheus Nascimento
+92,Botafogo - RJ,Junior,Matias Segovia
+92,Botafogo - RJ,Luis Henrique,Joao Victor
+92,Botafogo - RJ,Rafael,Di Placido
+92,Fortaleza - CE,Calebe,Silvio Romero
+92,Fortaleza - CE,HERCULES,Zanocelo
+92,Fortaleza - CE,Guilherme,Yago
+92,Fortaleza - CE,Pochettino,Romarinho
+92,Fortaleza - CE,Caio,Welison
+93,São Paulo - SP,Rafinha,Marcos Paulo
+93,São Paulo - SP,Gabriel Neves,Juan
+93,São Paulo - SP,Michel Araujo,RODRIGUINHO
+93,São Paulo - SP,Luciano,David
+93,São Paulo - SP,Alisson,Rodrigo Nestor
+93,Palmeiras - SP,Kaiky,Jailson
+93,Palmeiras - SP,Gabriel Menino,Richard Rios
+93,Palmeiras - SP,Raphael Veiga,Fabinho
+93,Palmeiras - SP,Dudu,Breno
+93,Palmeiras - SP,Rony,Endrick
+94,Corinthians - SP,Bruno Mendez,Fagner
+94,Corinthians - SP,Fausto,Wesley
+94,Corinthians - SP,Pedrinho,Yuri Alberto
+94,Corinthians - SP,Renato Augusto,Adson
+94,Corinthians - SP,Guilherme Biro,RUAN
+94,Cuiabá Saf - MT,Denilson,Ronald
+94,Cuiabá Saf - MT,Wellington Silva,Pablo Ceppelini Gatto
+94,Cuiabá Saf - MT,Deyverson,PITTA
+94,Cuiabá Saf - MT,Emerson,Nicolas
+94,Cuiabá Saf - MT,Filipe Augusto,Victor Matheus
+95,Goiás - GO,Willian Oliveira,Guilherme
+95,Goiás - GO,Apodi,Edu
+95,Goiás - GO,Morelli,Matheus
+95,Goiás - GO,Bruno,Alesson
+95,Fluminense - RJ,German Cano,Thiago Santos
+95,Fluminense - RJ,Nino,David Braz
+95,Fluminense - RJ,Martinelli,Keno
+95,Fluminense - RJ,Gabriel Pirani,Alexandre Jesus
+95,Fluminense - RJ,Lelê,John Kennedy
+96,Atlético Mineiro - MG,Pavon,Edenilson
+96,Atlético Mineiro - MG,Igor Gomes,Patrick
+96,Atlético Mineiro - MG,Rubens,Guilherme Arana
+96,Red Bull Bragantino - SP,Andres Hurtado,Gustavinho
+96,Red Bull Bragantino - SP,Henry Mosquera,Sorriso
+96,Red Bull Bragantino - SP,Eduardo Sasha,Alerrandro
+96,Red Bull Bragantino - SP,Vitinho,Guilherme
+96,Red Bull Bragantino - SP,Evangelista,Thiago Borbas
+97,Internacional - RS,Gustavo,Matheus
+97,Internacional - RS,Pedro,Lucas Ramos
+97,Internacional - RS,Vitão,Moledo
+97,Internacional - RS,WANDERSON,Jean Dias
+97,Internacional - RS,Luiz Adriano,Lucca
+97,Vasco da Gama S.a.f. - RJ,Alex Teixeira,Pedro Raul
+97,Vasco da Gama S.a.f. - RJ,Zé Gabriel,Erick Marcus
+97,Vasco da Gama S.a.f. - RJ,Capasso,Robson
+97,Vasco da Gama S.a.f. - RJ,Marlon Gomes,Figueiredo
+97,Vasco da Gama S.a.f. - RJ,Rayan,Gabriel Pec
+98,Santos - SP,Lucas Lima,Rodrigo
+98,Santos - SP,Marcos Leonardo,Bruno Mezenga
+98,Santos - SP,Nathan,Joao
+98,Santos - SP,Alison,Camacho
+98,Santos - SP,Yeferson Soteldo,Ângelo
+99,Bahia - BA,Everaldo,Mingotti
+99,Bahia - BA,Kayky Chagas,Arthur Sales
+99,Bahia - BA,Vitor Hugo,Daniel
+99,Bahia - BA,Thaciano,Mugni
+99,Cruzeiro Saf - MG,Neto,Henrique Dourado
+99,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Stênio
+99,Cruzeiro Saf - MG,Gilberto,Wallisson
+100,America Saf - MG,Aloisio,Wellington Paulista
+100,America Saf - MG,Breno Lemos,Emmanuel Martinez
+100,America Saf - MG,Everaldo,Renato
+100,America Saf - MG,Felipe Azevedo,Rodrigo Varanda
+100,America Saf - MG,Lucas,Rodrigo
+100,Athletico Paranaense - PR,Vitor Roque,Thiago
+100,Athletico Paranaense - PR,Hugo Moura,Matheus Felipe
+100,Athletico Paranaense - PR,Alex Santana,Cittadini
+100,Athletico Paranaense - PR,Canobbio,Cuello
+100,Athletico Paranaense - PR,Christian,Willian
+101,Fluminense - RJ,Guga,Felipe Andrade
+101,Fluminense - RJ,Lelê,Martinelli
+101,Fluminense - RJ,German Cano,John Kennedy
+101,Fluminense - RJ,Keno,Gabriel Pirani
+101,Atlético Mineiro - MG,Pavon,Vargas
+101,Atlético Mineiro - MG,Paulinho,Patrick
+101,Atlético Mineiro - MG,Zaracho,Edenilson
+101,Atlético Mineiro - MG,Hyoran,Igor Gomes
+102,Vasco da Gama S.a.f. - RJ,Miranda,Orellano
+102,Vasco da Gama S.a.f. - RJ,Mateus Carvalho,Gabriel Pec
+102,Vasco da Gama S.a.f. - RJ,Rayan,Erick Marcus
+102,Vasco da Gama S.a.f. - RJ,Marlon Gomes,Pedro Raul
+102,Vasco da Gama S.a.f. - RJ,Puma Rodriguez,Figueiredo
+102,Goiás - GO,Zé Ricardo,Sidimar
+102,Goiás - GO,Matheus Peixoto,LUCAS
+102,Goiás - GO,Diego,Apodi
+102,Goiás - GO,Morelli,Guilherme
+102,Goiás - GO,Julian,Matheus
+103,São Paulo - SP,Wellington Rato,Sebastian Mendez
+103,São Paulo - SP,Diego,Alan Franco
+103,São Paulo - SP,Luciano,Marcos Paulo
+103,São Paulo - SP,Luan Silva,Alisson
+103,São Paulo - SP,Rodrigo Nestor,RODRIGUINHO
+103,Athletico Paranaense - PR,Fernando,Vinícius Kauê
+103,Athletico Paranaense - PR,Alex Santana,Cittadini
+103,Athletico Paranaense - PR,Vitor Roque,Marcelo Cirino
+103,Athletico Paranaense - PR,Vitor Bueno,Willian
+103,Athletico Paranaense - PR,Cuello,David Terans
+104,Santos - SP,Dodi,Deivid Washington
+104,Santos - SP,Rodrigo,Sandry
+104,Santos - SP,Gabriel,Lucas Pires
+104,Santos - SP,Lucas Lima,Luan
+104,Santos - SP,Yeferson Soteldo,Ângelo
+104,Corinthians - SP,Guilherme Biro,Adson
+104,Corinthians - SP,Matheus Bidu,Fabio Santos
+104,Corinthians - SP,Maycon,Giuliano
+104,Corinthians - SP,RUAN,Matheus Araujo
+105,Red Bull Bragantino - SP,Evangelista,Gustavinho
+105,Red Bull Bragantino - SP,Vitinho,Sorriso
+105,Red Bull Bragantino - SP,Eduardo Sasha,Alerrandro
+105,Red Bull Bragantino - SP,Eric Ramires,Praxedes
+105,Red Bull Bragantino - SP,Jadsom Silva,Aderlan
+105,Flamengo - RJ,De Arrascaeta,Victor Hugo
+105,Flamengo - RJ,Éverton Ribeiro,Erick Pulgar
+105,Flamengo - RJ,Everton,Andre
+105,Flamengo - RJ,Leo Pereira,Ayrton Lucas
+105,Flamengo - RJ,Pedro,Bruno Henrique
+106,Cruzeiro Saf - MG,Luciano Castan,Stênio
+106,Cruzeiro Saf - MG,William,Igor Marques Paciencia Cardoso
+106,Cruzeiro Saf - MG,Neto,Daniel JR
+106,Cruzeiro Saf - MG,Filipe Machado,Wallisson
+106,Cruzeiro Saf - MG,Gilberto,Henrique Dourado
+106,Fortaleza - CE,Welison,HERCULES
+106,Fortaleza - CE,Pochettino,Calebe
+106,Fortaleza - CE,Guilherme Augusto,Lucero
+107,Grêmio - RS,Joao Pedro,Nata
+107,Grêmio - RS,Cristaldo,Nathan
+107,Grêmio - RS,Cuiabano,Nathan
+107,Grêmio - RS,Suarez,Andre
+107,Grêmio - RS,Mila,Vina
+107,America Saf - MG,Everaldo,Wanderson
+107,America Saf - MG,Marcinho,Mateus
+107,America Saf - MG,Breno Lemos,Ale
+107,America Saf - MG,Aloisio,Renato
+107,America Saf - MG,Danilo,Marlon
+108,Internacional - RS,Joao Lucas,Matheus
+108,Internacional - RS,Luiz Adriano,Lucca
+108,Internacional - RS,Pedro,THAUAN LARA
+108,Internacional - RS,Gustavo,Jean Dias
+109,Bahia - BA,Kayky Chagas,Daniel
+109,Bahia - BA,Vitor Hugo,Gabriel Xavier
+109,Bahia - BA,Mingotti,Everaldo
+109,Palmeiras - SP,Gabriel Menino,Richard Rios
+109,Palmeiras - SP,Bruno,Luis Guilherme
+109,Palmeiras - SP,Endrick,Lopez
+109,Palmeiras - SP,Dudu,Breno
+109,Palmeiras - SP,Artur,Giovani
+110,Cuiabá Saf - MT,Fernando,Filipe Augusto
+110,Cuiabá Saf - MT,Denilson,Pablo Ceppelini Gatto
+110,Cuiabá Saf - MT,Raniele,Ronald
+110,Cuiabá Saf - MT,Wellington Silva,Iury
+110,Cuiabá Saf - MT,Cafu,Nicolas
+110,Botafogo - RJ,Joao Victor,Luis Henrique
+110,Botafogo - RJ,Junior,Matias Segovia
+110,Botafogo - RJ,Adryelson,Philipe
+110,Botafogo - RJ,Danilo,Gustavo
+110,Botafogo - RJ,Tiquinho,Matheus Nascimento
+111,Fluminense - RJ,Lelê,German Cano
+111,Fluminense - RJ,Marcelo,Felipe Andrade
+111,Fluminense - RJ,Keno,PH GANSO
+111,Fluminense - RJ,Gabriel Pirani,Guga
+111,Bahia - BA,Cicinho,André Dhominique
+111,Bahia - BA,Rezende,Daniel
+111,Bahia - BA,Kayky Chagas,Arthur Sales
+111,Bahia - BA,Danilo Fernandes,Mateus Claus
+112,Vasco da Gama S.a.f. - RJ,Alex Teixeira,Eguinaldo
+112,Vasco da Gama S.a.f. - RJ,Rayan,Erick Marcus
+112,Vasco da Gama S.a.f. - RJ,Gabriel Pec,Paulo Henrique
+112,Vasco da Gama S.a.f. - RJ,Marlon Gomes,Matias Galarza
+112,Vasco da Gama S.a.f. - RJ,Figueiredo,Zé Gabriel
+112,Cuiabá Saf - MT,Fernando,Pablo Ceppelini Gatto
+112,Cuiabá Saf - MT,Wellington Silva,Nicolas
+112,Cuiabá Saf - MT,Cafu,PITTA
+112,Cuiabá Saf - MT,RIKELME,Patric
+112,Cuiabá Saf - MT,Filipe Augusto,Ronald
+113,Palmeiras - SP,Mayke,Endrick
+113,Palmeiras - SP,Raphael Veiga,Jhon Jhon
+113,Palmeiras - SP,Dudu,Bruno
+113,Palmeiras - SP,Artur,Luis Guilherme
+113,Palmeiras - SP,Richard Rios,Lopez
+113,Botafogo - RJ,Tiquinho,Matheus Nascimento
+113,Botafogo - RJ,Tche Tche,Danilo
+113,Botafogo - RJ,Joao Victor,Luis Henrique
+113,Botafogo - RJ,Junior,Matias Segovia
+113,Botafogo - RJ,Rafael,Di Placido
+114,Santos - SP,Lucas Lima,Luan
+114,Santos - SP,Rodrigo,Sandry
+114,Santos - SP,Yeferson Soteldo,Ângelo
+114,Santos - SP,Dodi,Bruno Mezenga
+114,Santos - SP,Mendoza,Lucas
+114,Flamengo - RJ,Everton,Bruno Henrique
+114,Flamengo - RJ,Victor Hugo,Thiago Maia
+114,Flamengo - RJ,Ayrton Lucas,Filipe Luís
+114,Flamengo - RJ,Gabriel Barbosa,Pedro
+114,Flamengo - RJ,Éverton Ribeiro,De Arrascaeta
+115,Red Bull Bragantino - SP,Matheus Fernandes,Nathan Camargo
+115,Red Bull Bragantino - SP,J. Capixaba,Guilherme
+115,Red Bull Bragantino - SP,Eric Ramires,Gustavinho
+115,Red Bull Bragantino - SP,Eduardo Sasha,Thiago Borbas
+115,Red Bull Bragantino - SP,Jadsom Silva,Aderlan
+115,Goiás - GO,Morelli,Vinicius
+115,Goiás - GO,Magno Jose,Bruno
+115,Goiás - GO,Matheus Peixoto,LUCAS
+115,Goiás - GO,Julian,Alesson
+115,Goiás - GO,Apodi,Matheus
+116,Cruzeiro Saf - MG,Reynaldo,Neris
+116,Cruzeiro Saf - MG,Filipe Machado,Ian
+116,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Stênio
+116,Cruzeiro Saf - MG,Mateus,Neto
+116,Cruzeiro Saf - MG,Gilberto,Henrique Dourado
+116,São Paulo - SP,Caio Paulista,Marcos Paulo
+116,São Paulo - SP,Sebastian Mendez,David
+116,São Paulo - SP,Rodrigo Nestor,RODRIGUINHO
+116,São Paulo - SP,Alisson,Luciano
+116,São Paulo - SP,Wellington Rato,Juan
+117,Grêmio - RS,Joao Pedro,Lian
+117,Grêmio - RS,Suarez,Andre
+117,Grêmio - RS,Reinaldo,Cuiabano
+117,Grêmio - RS,Cristaldo,Nathan
+117,Grêmio - RS,Vina,Bruno Alves
+118,Athletico Paranaense - PR,Khellven,Madson
+118,Athletico Paranaense - PR,Vitor Bueno,Cuello
+118,Athletico Paranaense - PR,Vitor Roque,Luciano Arriagada
+118,Athletico Paranaense - PR,Fernandinho,Hugo Moura
+118,Athletico Paranaense - PR,Canobbio,David Terans
+118,Corinthians - SP,Bruno Mendez,Wesley
+118,Corinthians - SP,Matheus Bidu,Fabio Santos
+118,Corinthians - SP,Roni,Giuliano
+118,Corinthians - SP,Guilherme Biro,Pedrinho
+118,Corinthians - SP,RUAN,Matheus Araujo
+119,Fortaleza - CE,Pochettino,Calebe
+119,Fortaleza - CE,Lucero,Lucas Crispim
+119,Fortaleza - CE,HERCULES,Lucas
+119,Fortaleza - CE,Thiago Galhardo,Guilherme Augusto
+119,Atlético Mineiro - MG,Bruno Fuchs,Igor
+119,Atlético Mineiro - MG,Pavon,Vargas
+119,Atlético Mineiro - MG,Hulk,Alan Kardec
+119,Atlético Mineiro - MG,Zaracho,Igor Gomes
+119,Atlético Mineiro - MG,Hyoran,Edenilson
+120,America Saf - MG,Aloisio,Wellington Paulista
+120,America Saf - MG,Everaldo,Emmanuel Martinez
+120,America Saf - MG,Lucas,Ale
+120,America Saf - MG,Felipe Azevedo,Rodrigo Varanda
+120,America Saf - MG,Breno Lemos,Martin Benitez
+120,Internacional - RS,Pedro,Alexandre
+120,Internacional - RS,Jean Dias,Gabriel Barros
+120,Internacional - RS,Luiz Adriano,Gustavo
+120,Internacional - RS,WANDERSON,THAUAN LARA
+121,Flamengo - RJ,Éverton Ribeiro,Bruno Henrique
+121,Flamengo - RJ,Leo Pereira,David Luiz
+121,Flamengo - RJ,Thiago Maia,Filipe Luís
+121,Flamengo - RJ,Gabriel Barbosa,Pedro
+121,Flamengo - RJ,De Arrascaeta,Victor Hugo
+121,Fortaleza - CE,Welison,HERCULES
+121,Fortaleza - CE,Guilherme,Dudu
+121,Fortaleza - CE,Pochettino,Lucas Crispim
+121,Fortaleza - CE,Yago,Calebe
+122,Botafogo - RJ,Tiquinho,Carlos Alberto
+122,Botafogo - RJ,Rafael,Di Placido
+122,Botafogo - RJ,Tche Tche,Danilo
+122,Botafogo - RJ,Carlos,Kayque
+122,Botafogo - RJ,Luis Henrique,Matias Segovia
+122,Vasco da Gama S.a.f. - RJ,Robson,Capasso
+122,Vasco da Gama S.a.f. - RJ,Zé Gabriel,Eguinaldo
+122,Vasco da Gama S.a.f. - RJ,Figueiredo,Erick Marcus
+122,Vasco da Gama S.a.f. - RJ,Alex Teixeira,Rayan
+122,Vasco da Gama S.a.f. - RJ,Orellano,Carabajal
+123,São Paulo - SP,Gabriel Neves,Alisson
+123,São Paulo - SP,Rodrigo Nestor,Marcos Paulo
+123,São Paulo - SP,RODRIGUINHO,Wellington Rato
+123,São Paulo - SP,Juan,David
+123,São Paulo - SP,Luciano,Nathan
+123,Fluminense - RJ,Gabriel Pirani,Lelê
+123,Fluminense - RJ,Felipe Melo,Felipe Andrade
+123,Fluminense - RJ,Marcelo,Guga
+123,Fluminense - RJ,Keno,John Kennedy
+124,Corinthians - SP,Maycon,Matheus Araujo
+124,Corinthians - SP,Moscardo,Roni
+124,Corinthians - SP,Yuri Alberto,Felipe Augusto
+124,Corinthians - SP,Matheus Bidu,Caetano
+124,Corinthians - SP,Guilherme Biro,Wesley
+124,Red Bull Bragantino - SP,Eduardo Sasha,Alerrandro
+124,Red Bull Bragantino - SP,Matheus Fernandes,Guilherme
+124,Red Bull Bragantino - SP,Eric Ramires,Gustavinho
+124,Red Bull Bragantino - SP,Thiago Borbas,Sorriso
+125,Goiás - GO,Willian Oliveira,Morelli
+125,Goiás - GO,Guilherme,Apodi
+125,Goiás - GO,Alesson,Julian
+125,Goiás - GO,Matheus Peixoto,Philippe
+125,Goiás - GO,Matheus,Vinicius
+126,Atlético Mineiro - MG,Pavon,Vargas
+126,Atlético Mineiro - MG,Zaracho,Patrick
+126,Atlético Mineiro - MG,Igor Gomes,Alan Kardec
+126,America Saf - MG,Aloisio,Gonzalo Mastriani
+126,America Saf - MG,Felipe Azevedo,Rodrigo Varanda
+126,America Saf - MG,Marcinho,Marlon
+126,America Saf - MG,Lucas,Wanderson
+126,America Saf - MG,Breno Lemos,Martin Benitez
+127,Internacional - RS,Luiz Adriano,Alexandre
+127,Internacional - RS,Joao Lucas,Carlos de Pena
+127,Internacional - RS,Mauricio,Aranguiz
+127,Internacional - RS,Alan Patrick,Jean Dias
+127,Cruzeiro Saf - MG,Stênio,Neris
+127,Cruzeiro Saf - MG,Bruno Rodrigues,Henrique Dourado
+127,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Neto
+128,Athletico Paranaense - PR,Khellven,Madson
+128,Athletico Paranaense - PR,Hugo Moura,Alex Santana
+128,Athletico Paranaense - PR,Ze Ivaldo,Marcelo Cirino
+128,Athletico Paranaense - PR,Canobbio,David Terans
+128,Athletico Paranaense - PR,Christian,Cuello
+128,Palmeiras - SP,Luis Guilherme,Fabinho
+128,Palmeiras - SP,Richard Rios,Gabriel Menino
+128,Palmeiras - SP,Breno,Mayke
+128,Palmeiras - SP,Endrick,Rony
+128,Palmeiras - SP,Kaiky,Luan Garcia
+129,Bahia - BA,Rezende,Diego Rosa
+129,Bahia - BA,Kayky Chagas,Ademir
+129,Bahia - BA,Mingotti,Everaldo
+129,Bahia - BA,Ryan,Chavez
+129,Bahia - BA,Thaciano,Mugni
+129,Grêmio - RS,Carballo,Ferreira
+129,Grêmio - RS,Cristaldo,Cuiabano
+129,Grêmio - RS,Suarez,Vina
+130,Cuiabá Saf - MT,Raniele,Filipe Augusto
+130,Cuiabá Saf - MT,Pablo Ceppelini Gatto,Ronald
+130,Cuiabá Saf - MT,Cafu,Emerson
+130,Cuiabá Saf - MT,Iury,Wellington Silva
+130,Cuiabá Saf - MT,Deyverson,PITTA
+130,Santos - SP,Dodi,Sandry
+130,Santos - SP,Gabriel,Kevyson
+130,Santos - SP,Joao,Cadu Silva
+130,Santos - SP,Luan,Bruno Mezenga
+130,Santos - SP,Lucas Lima,Lucas
+131,Fluminense - RJ,Lelê,John Kennedy
+131,Fluminense - RJ,Felipe Melo,David Braz
+131,Internacional - RS,Carlos de Pena,Alexandre
+131,Internacional - RS,Luiz Adriano,Lucca
+131,Internacional - RS,WANDERSON,Jean Dias
+131,Internacional - RS,Valencia,Aranguiz
+131,Internacional - RS,Gustavo,Matheus
+132,Vasco da Gama S.a.f. - RJ,Orellano,Alex Teixeira
+132,Vasco da Gama S.a.f. - RJ,Erick Marcus,Rayan
+132,Vasco da Gama S.a.f. - RJ,Mateus Carvalho,Carabajal
+132,Vasco da Gama S.a.f. - RJ,Marlon Gomes,Jair
+132,Vasco da Gama S.a.f. - RJ,Serginho,Pedro Raul
+132,Cruzeiro Saf - MG,Stênio,Robert
+132,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Neto
+132,Cruzeiro Saf - MG,Kaiki Bruno,Paulo Vitor
+132,Cruzeiro Saf - MG,Mateus,Gilberto
+133,Palmeiras - SP,Artur,Murilo
+133,Palmeiras - SP,Dudu,Endrick
+133,Palmeiras - SP,Raphael Veiga,Luis Guilherme
+133,Palmeiras - SP,Richard Rios,Kaiky
+133,Palmeiras - SP,Gabriel Menino,Fabinho
+133,Flamengo - RJ,Everton,De Arrascaeta
+133,Flamengo - RJ,Pedro,Matheus França
+133,Flamengo - RJ,Victor Hugo,Bruno Henrique
+133,Flamengo - RJ,Luiz,Éverton Ribeiro
+134,Santos - SP,Lucas,Luiz Felipe
+134,Santos - SP,Lucas Lima,Luan
+134,Santos - SP,Sandry,Vinicius
+134,Santos - SP,Marcos Leonardo,Bruno Mezenga
+134,Goiás - GO,Diego,Alesson
+134,Goiás - GO,Anderson,Matheus
+134,Goiás - GO,Zé Ricardo,Joao
+134,Goiás - GO,Julian,Luis
+134,Goiás - GO,Willian Oliveira,Morelli
+135,Red Bull Bragantino - SP,Eduardo,Natan
+135,Red Bull Bragantino - SP,Eric Ramires,Bruninho
+135,Red Bull Bragantino - SP,Jadsom Silva,Andres Hurtado
+135,Red Bull Bragantino - SP,Sorriso,Luan Candido
+135,Red Bull Bragantino - SP,Eduardo Sasha,Thiago Borbas
+135,São Paulo - SP,Michel Araujo,RODRIGUINHO
+135,São Paulo - SP,David,Alexandre Pato
+135,São Paulo - SP,Matheus,Arboleda
+135,São Paulo - SP,Alisson,Rodrigo Nestor
+135,São Paulo - SP,Marcos Paulo,Wellington Rato
+136,Atlético Mineiro - MG,Guilherme Arana,Rubens
+136,Atlético Mineiro - MG,Alan Kardec,Vargas
+136,Atlético Mineiro - MG,Mariano,Pedrinho
+136,Atlético Mineiro - MG,Edenilson,Renzo Saravia
+136,Atlético Mineiro - MG,Igor Gomes,Alisson Santana
+136,Corinthians - SP,Roger Guedes,Adson
+136,Corinthians - SP,Yuri Alberto,Felipe Augusto
+136,Corinthians - SP,Fausto,Giuliano
+136,Corinthians - SP,RUAN,Renato Augusto
+136,Corinthians - SP,Moscardo,Maycon
+137,Grêmio - RS,Carballo,Cuiabano
+137,Grêmio - RS,Cristaldo,Ferreira
+137,Grêmio - RS,Bitello,Nathan
+137,Grêmio - RS,Kannemann,Vina
+137,Grêmio - RS,Suarez,Andre
+137,Botafogo - RJ,Hugo,Marcal
+137,Botafogo - RJ,Junior,Matias Segovia
+137,Botafogo - RJ,Tche Tche,Breno
+137,Botafogo - RJ,Tiquinho,Carlos Alberto
+137,Botafogo - RJ,Carlos,Danilo
+138,Coritiba S.a.f. - PR,Rodrigo,Gabriel
+138,Coritiba S.a.f. - PR,Marcelino Moreno,Kaio Lima
+138,Coritiba S.a.f. - PR,Fransergio,Victor
+138,America Saf - MG,Lucas,Breno Lemos
+138,America Saf - MG,Marlon,Daniel Borges
+138,America Saf - MG,Juninho,Matheusinho
+138,America Saf - MG,Everaldo,Pedrinho
+138,America Saf - MG,H. Almeida,Wellington Paulista
+139,Fortaleza - CE,Pochettino,Calebe
+139,Fortaleza - CE,Lucero,Guilherme Augusto
+139,Fortaleza - CE,HERCULES,Welison
+139,Fortaleza - CE,Marinho,Yago
+139,Athletico Paranaense - PR,Vinícius Kauê,Lucas Esquivel
+139,Athletico Paranaense - PR,Khellven,Christian
+139,Athletico Paranaense - PR,Ze Ivaldo,Pedro Henrique
+139,Athletico Paranaense - PR,Cittadini,Marcelo Cirino
+139,Athletico Paranaense - PR,Luciano Arriagada,Willian
+140,Cuiabá Saf - MT,Iury,Clayson
+140,Cuiabá Saf - MT,Cafu,Emerson
+140,Cuiabá Saf - MT,Denilson,Fernando
+140,Cuiabá Saf - MT,RIKELME,Uendel
+140,Bahia - BA,Vitor Hugo,Ademir
+140,Bahia - BA,Mingotti,Everaldo
+140,Bahia - BA,Kayky Chagas,Patrick Verhon
+140,Bahia - BA,Chavez,Ryan
+140,Bahia - BA,Mugni,Rezende
+141,Fluminense - RJ,Marcelo,Felipe Andrade
+141,Fluminense - RJ,Felipe Melo,John Kennedy
+141,Fluminense - RJ,PH GANSO,Leo Fernandez
+141,Fluminense - RJ,Martinelli,Lelê
+141,Flamengo - RJ,Éverton Ribeiro,Victor Hugo
+141,Flamengo - RJ,David Luiz,Pablo
+141,Flamengo - RJ,Everton,Allan
+141,Flamengo - RJ,De Arrascaeta,Andre
+141,Flamengo - RJ,Thiago Maia,Luiz
+142,Botafogo - RJ,Luis Henrique,Carlos Alberto
+142,Botafogo - RJ,Junior,Matias Segovia
+142,Botafogo - RJ,Tche Tche,Danilo
+142,Botafogo - RJ,Tiquinho,Janderson
+142,Botafogo - RJ,Carlos,Gustavo
+142,Red Bull Bragantino - SP,Bruninho,Sorriso
+142,Red Bull Bragantino - SP,Evangelista,Thiago Borbas
+143,São Paulo - SP,Alisson,Rodrigo Nestor
+143,São Paulo - SP,Calleri,David
+143,São Paulo - SP,Welington,Caio Paulista
+143,São Paulo - SP,Juan,Alexandre Pato
+143,São Paulo - SP,Luciano,Erison
+143,Santos - SP,Lucas,Weslley
+143,Santos - SP,Lucas Lima,Deivid Washington
+143,Santos - SP,Messias,Vinicius
+143,Santos - SP,Sandry,Camacho
+144,Corinthians - SP,Moscardo,Giuliano
+144,Corinthians - SP,Matias Rojas,Mosquito
+144,Corinthians - SP,Maycon,Cantillo
+144,Corinthians - SP,Pedrinho,Wesley
+144,Grêmio - RS,Joao Pedro,Andre
+144,Grêmio - RS,Suarez,Luan
+144,Grêmio - RS,Nathan,Galdino
+144,Grêmio - RS,Cristaldo,Ferreira
+145,Goiás - GO,Anderson,Matheus Peixoto
+145,Goiás - GO,Vinicius,Vinicius
+145,Goiás - GO,Joao,Diego
+145,Goiás - GO,Luis,Allano
+145,Atlético Mineiro - MG,Edenilson,Pedrinho
+145,Atlético Mineiro - MG,Paulinho,Vargas
+145,Atlético Mineiro - MG,Igor Gomes,Patrick
+146,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Paulo Vitor
+146,Cruzeiro Saf - MG,Palacios,Stênio
+146,Cruzeiro Saf - MG,Neris,Lucas Oliveira
+146,Cruzeiro Saf - MG,Matheus,Wallisson
+146,Cruzeiro Saf - MG,Robert,Gilberto
+146,Coritiba S.a.f. - PR,Matheus,Fransergio
+146,Coritiba S.a.f. - PR,Jamerson,Victor
+146,Coritiba S.a.f. - PR,Kaio Lima,Andrey
+146,Coritiba S.a.f. - PR,Robson,Diogo Batista
+146,Coritiba S.a.f. - PR,Rodrigo,Edu
+147,Internacional - RS,Romulo,Luiz Adriano
+147,Internacional - RS,WANDERSON,Lucca
+147,Internacional - RS,Aranguiz,Gustavo
+147,Internacional - RS,Valencia,Gabriel
+147,Internacional - RS,Gabriel Mercado,Nicolas Hernandez
+147,Palmeiras - SP,Lopez,Endrick
+147,Palmeiras - SP,Gabriel Menino,Richard Rios
+147,Palmeiras - SP,Raphael Veiga,Breno
+148,Athletico Paranaense - PR,Fernandinho,Hugo Moura
+148,Athletico Paranaense - PR,Vitor Roque,Pablo
+148,Athletico Paranaense - PR,Vitor Bueno,VIDAL
+148,Athletico Paranaense - PR,Canobbio,Cuello
+148,Athletico Paranaense - PR,Khellven,Madson
+148,Bahia - BA,Cicinho,André Dhominique
+148,Bahia - BA,Ryan,Matheus Bahia
+148,Bahia - BA,Acevedo,Yago Felipe
+148,Bahia - BA,Kayky Chagas,Mugni
+149,Fortaleza - CE,Bruno Pacheco,Guilherme Augusto
+149,Fortaleza - CE,Pochettino,Calebe
+149,Fortaleza - CE,Caio,Lucas Crispim
+149,Fortaleza - CE,Marinho,Yago
+149,Fortaleza - CE,Thiago Galhardo,Silvio Romero
+149,Cuiabá Saf - MT,Raniele,Filipe Augusto
+149,Cuiabá Saf - MT,Fernando,Denilson
+149,Cuiabá Saf - MT,Cafu,Iury
+149,Cuiabá Saf - MT,Deyverson,PITTA
+149,Cuiabá Saf - MT,Clayson,Wellington Silva
+150,America Saf - MG,Breno Lemos,Cazares
+150,America Saf - MG,Felipe Azevedo,Eder
+150,America Saf - MG,Gonzalo Mastriani,Pedrinho
+150,America Saf - MG,Nicolas,Marlon
+150,America Saf - MG,Rodrigo Varanda,Javier Mendez
+150,Vasco da Gama S.a.f. - RJ,Puma Rodriguez,Marlon Gomes
+150,Vasco da Gama S.a.f. - RJ,Rossi,Serginho
+150,Vasco da Gama S.a.f. - RJ,Zé Gabriel,Jair
+150,Vasco da Gama S.a.f. - RJ,Praxedes,Sebastian Ferreira
+150,Vasco da Gama S.a.f. - RJ,Payet,Gabriel Pec
+151,Flamengo - RJ,Éverton Ribeiro,Victor Hugo
+151,Flamengo - RJ,Bruno Henrique,Pedro
+151,America Saf - MG,Martin Benitez,Juninho
+151,America Saf - MG,Pedrinho,Felipe Azevedo
+151,America Saf - MG,Gonzalo Mastriani,Matheusinho
+151,America Saf - MG,Ale,Breno Lemos
+151,America Saf - MG,Paulo,Rodrigo Varanda
+152,Vasco da Gama S.a.f. - RJ,Jair,Carabajal
+152,Vasco da Gama S.a.f. - RJ,Orellano,Rayan
+152,Vasco da Gama S.a.f. - RJ,Figueiredo,Serginho
+152,Vasco da Gama S.a.f. - RJ,Zé Gabriel,Marlon Gomes
+152,Athletico Paranaense - PR,Christian,Pablo
+152,Athletico Paranaense - PR,VIDAL,Vitor Bueno
+152,Athletico Paranaense - PR,Canobbio,Cuello
+152,Athletico Paranaense - PR,Vitor Roque,Hugo Moura
+152,Athletico Paranaense - PR,Khellven,Madson
+153,Palmeiras - SP,Artur,Breno
+153,Palmeiras - SP,Richard Rios,Luis Guilherme
+153,Palmeiras - SP,Raphael Veiga,Jailson
+153,Palmeiras - SP,Jhon Jhon,Gabriel Menino
+153,Palmeiras - SP,Marcos Rocha,Mayke
+153,Fortaleza - CE,Christian,Romarinho
+153,Fortaleza - CE,Yago,Lucas Crispim
+153,Fortaleza - CE,Marinho,Guilherme Augusto
+153,Fortaleza - CE,Lucas,Silvio Romero
+153,Fortaleza - CE,Pochettino,Calebe
+154,Santos - SP,Joao Paulo,Vladimir
+154,Santos - SP,Dodo,Gabriel
+154,Santos - SP,Jean,Luan
+154,Santos - SP,Joao,Alex
+154,Santos - SP,Marcos Leonardo,Deivid Washington
+154,Botafogo - RJ,Danilo,Janderson
+154,Botafogo - RJ,Tche Tche,Lucas
+154,Botafogo - RJ,Luis Henrique,Joao Victor
+154,Botafogo - RJ,Junior,Matias Segovia
+154,Botafogo - RJ,Di Placido,Carlos Alberto
+155,Red Bull Bragantino - SP,Eduardo Sasha,Gustavinho
+155,Red Bull Bragantino - SP,Andres Hurtado,Léo Ortiz
+155,Red Bull Bragantino - SP,Matheus Fernandes,Thiago Borbas
+155,Red Bull Bragantino - SP,Sorriso,Bruninho
+155,Internacional - RS,Carlos de Pena,Matheus
+155,Internacional - RS,Aranguiz,Gustavo
+156,Cruzeiro Saf - MG,Lucas Oliveira,Wallisson
+156,Cruzeiro Saf - MG,Matheus,Neto
+156,Cruzeiro Saf - MG,Mateus,Stênio
+156,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Paulo Vitor
+156,Cruzeiro Saf - MG,Gilberto,Henrique Dourado
+156,Goiás - GO,Guilherme,Allano
+156,Goiás - GO,Anderson,Higor
+156,Goiás - GO,Joao,Diego
+156,Goiás - GO,Vinicius,Hugo
+157,Grêmio - RS,Bitello,Mila
+157,Grêmio - RS,Cristaldo,Iturbe
+157,Grêmio - RS,Andre,Freddy
+157,Grêmio - RS,Ronald,Ferreira
+157,Atlético Mineiro - MG,Pavon,Alisson Santana
+157,Atlético Mineiro - MG,Igor Gomes,Alan Kardec
+157,Atlético Mineiro - MG,Rubens,Pedrinho
+157,Atlético Mineiro - MG,Mariano,Renzo Saravia
+158,Coritiba S.a.f. - PR,Andrey,Kaio Lima
+158,Coritiba S.a.f. - PR,Marcelino Moreno,Diogo Batista
+158,Coritiba S.a.f. - PR,Diogo,Rodrigo
+158,Coritiba S.a.f. - PR,Matheus,Fransergio
+158,Coritiba S.a.f. - PR,Robson,Victor
+158,Fluminense - RJ,Jhon Arias,Yony Gonzalez
+158,Fluminense - RJ,Keno,Isaac
+158,Fluminense - RJ,Felipe Melo,Leo Fernandez
+158,Fluminense - RJ,PH GANSO,John Kennedy
+158,Fluminense - RJ,Diogo Barbosa,Daniel
+159,Bahia - BA,Matheus Bahia,Ryan
+159,Bahia - BA,Rezende,Yago Felipe
+159,Bahia - BA,Everaldo,Mingotti
+159,Bahia - BA,Gilberto,Cicinho
+159,Corinthians - SP,Fabio Santos,Caetano
+159,Corinthians - SP,Giuliano,Adson
+159,Corinthians - SP,Fagner,RUAN
+159,Corinthians - SP,Matias Rojas,Guilherme Biro
+159,Corinthians - SP,Renato Augusto,Maycon
+160,Cuiabá Saf - MT,Deyverson,PITTA
+160,Cuiabá Saf - MT,Cafu,Wellington Silva
+160,Cuiabá Saf - MT,Fernando,Ronald
+160,Cuiabá Saf - MT,Denilson,Lucas
+160,Cuiabá Saf - MT,Clayson,Iury
+160,São Paulo - SP,Marcos Paulo,Luciano
+160,São Paulo - SP,Luan Silva,Alisson
+160,São Paulo - SP,Wellington Rato,Juan
+160,São Paulo - SP,Rodrigo Nestor,Michel Araujo
+160,São Paulo - SP,Calleri,Erison
+161,Fluminense - RJ,Yony Gonzalez,Keno
+161,Fluminense - RJ,Martinelli,David Braz
+161,Fluminense - RJ,Marlon Santos,Lima
+161,Fluminense - RJ,Leo Fernandez,PH GANSO
+161,Santos - SP,Jean,Luan
+161,Santos - SP,Joao,Gabriel
+161,Santos - SP,Lucas Lima,Julio Furch
+161,Santos - SP,Mendoza,Lucas
+161,Santos - SP,Rodrigo,Camacho
+162,Botafogo - RJ,Tche Tche,Danilo
+162,Botafogo - RJ,Joao Victor,Junior
+162,Botafogo - RJ,Tiquinho,Janderson
+162,Botafogo - RJ,Gustavo,Matias Segovia
+162,Botafogo - RJ,Carlos,Lucas
+162,Coritiba S.a.f. - PR,Diogo,Edu
+162,Coritiba S.a.f. - PR,Bruno Gomes,Lucas
+162,Coritiba S.a.f. - PR,Matheus,Fransergio
+162,Coritiba S.a.f. - PR,Natanael Milouski,Diogo Batista
+162,Coritiba S.a.f. - PR,Robson,MAURICIO
+163,São Paulo - SP,Alisson,RODRIGUINHO
+163,São Paulo - SP,Wellington Rato,Michel Araujo
+163,São Paulo - SP,Caio Paulista,Welington
+163,São Paulo - SP,Rodrigo Nestor,Alexandre Pato
+163,São Paulo - SP,Erison,Juan
+163,Bahia - BA,Rezende,Rafael Ratão
+163,Bahia - BA,Matheus Bahia,Camilo Cándido
+163,Bahia - BA,Mingotti,Jacare
+163,Bahia - BA,Thaciano,Raul Gustavo
+163,Bahia - BA,Ademir,Everaldo
+164,Corinthians - SP,Adson,Guilherme Biro
+164,Corinthians - SP,Caetano,Fagner
+164,Corinthians - SP,Fabio Santos,Matheus Bidu
+164,Corinthians - SP,Renato Augusto,Fausto
+164,Corinthians - SP,RUAN,Matheus Araujo
+164,Vasco da Gama S.a.f. - RJ,Praxedes,Carabajal
+164,Vasco da Gama S.a.f. - RJ,Figueiredo,Gabriel Pec
+164,Vasco da Gama S.a.f. - RJ,Puma Rodriguez,Orellano
+164,Vasco da Gama S.a.f. - RJ,Miranda,Paulo Henrique
+164,Vasco da Gama S.a.f. - RJ,Jair,Paulinho
+165,Goiás - GO,Magno Jose,Bruno
+165,Goiás - GO,Sander,Hugo
+165,Goiás - GO,Sidimar,Bruno
+165,Goiás - GO,Anderson,Allano
+165,Goiás - GO,Joao,Matheus Babi
+165,Grêmio - RS,Joao Pedro,Fabio
+165,Grêmio - RS,Nathan,Ferreira
+165,Grêmio - RS,Bitello,Nathan
+165,Grêmio - RS,Ronald,Zinho
+166,Atlético Mineiro - MG,Otavio,Alan Kardec
+166,Atlético Mineiro - MG,Rodrigo Battaglia,Alan Franco
+166,Atlético Mineiro - MG,Renzo Saravia,Mariano
+166,Atlético Mineiro - MG,Pavon,Alisson Santana
+166,Flamengo - RJ,Victor Hugo,Luiz
+166,Flamengo - RJ,Filipe Luís,Thiago Maia
+166,Flamengo - RJ,Bruno Henrique,Everton
+166,Flamengo - RJ,Éverton Ribeiro,De Arrascaeta
+166,Flamengo - RJ,Leo Pereira,Pablo
+167,Internacional - RS,WANDERSON,Pedro
+167,Internacional - RS,Joao Lucas,THAUAN LARA
+167,Internacional - RS,Carlos de Pena,Mauricio
+167,Internacional - RS,Aranguiz,Bruno
+167,Internacional - RS,Valencia,Luiz Adriano
+167,Cuiabá Saf - MT,Raniele,Filipe Augusto
+167,Cuiabá Saf - MT,Clayson,DERIK
+167,Cuiabá Saf - MT,Fernando,Lucas
+167,Cuiabá Saf - MT,Pablo Ceppelini Gatto,Denilson
+167,Cuiabá Saf - MT,Deyverson,PITTA
+168,Athletico Paranaense - PR,Vitor Bueno,Zapelli
+168,Athletico Paranaense - PR,Cuello,Pablo
+168,Athletico Paranaense - PR,Matheus Felipe,Luciano Arriagada
+168,Athletico Paranaense - PR,Hugo Moura,Fernandinho
+168,Athletico Paranaense - PR,VIDAL,Erick
+168,Cruzeiro Saf - MG,Mateus,Wallisson
+168,Cruzeiro Saf - MG,Filipe Machado,Matheus Pereira
+168,Cruzeiro Saf - MG,Lucas Silva,Fernando
+168,Cruzeiro Saf - MG,Arthur Gomes,Nikao
+168,Cruzeiro Saf - MG,Palacios,William
+169,Fortaleza - CE,Dudu,Lucero
+169,Fortaleza - CE,Calebe,Machuca
+169,Fortaleza - CE,Marinho,Guilherme Augusto
+169,Fortaleza - CE,Thiago Galhardo,Kauan
+169,Fortaleza - CE,Caio,Yago
+169,Red Bull Bragantino - SP,Léo Ortiz,Luan Patrick
+169,Red Bull Bragantino - SP,Eric Ramires,Gustavinho
+169,Red Bull Bragantino - SP,Luan Candido,Sorriso
+169,Red Bull Bragantino - SP,Eduardo Sasha,Bruninho
+169,Red Bull Bragantino - SP,Vitinho,Andres Hurtado
+170,America Saf - MG,Paulo,Matheusinho
+170,America Saf - MG,Ale,Breno Lemos
+170,America Saf - MG,Gonzalo Mastriani,Rodrigo Varanda
+170,America Saf - MG,Emmanuel Martinez,Lucas
+170,America Saf - MG,Martin Benitez,Juninho
+170,Palmeiras - SP,Artur,Breno
+170,Palmeiras - SP,Ze Rafael,Richard Rios
+170,Palmeiras - SP,Mayke,Marcos Rocha
+170,Palmeiras - SP,Raphael Veiga,Luis Guilherme
+170,Palmeiras - SP,Rony,Lopez
+171,Fluminense - RJ,John Kennedy,Lelê
+171,Fluminense - RJ,Leo Fernandez,Lima
+171,Fluminense - RJ,Marlon Santos,Felipe Melo
+171,Fluminense - RJ,Samuel Xavier,Guga
+171,Fluminense - RJ,Daniel,PH GANSO
+171,Palmeiras - SP,Endrick,Rony
+171,Palmeiras - SP,Luis Guilherme,Artur
+171,Palmeiras - SP,Jailson,Gabriel Menino
+171,Palmeiras - SP,Marcos Rocha,Mayke
+171,Palmeiras - SP,Breno,Lopez
+172,Vasco da Gama S.a.f. - RJ,Robson,Miranda
+172,Vasco da Gama S.a.f. - RJ,Orellano,Erick Marcus
+172,Vasco da Gama S.a.f. - RJ,Praxedes,Marlon Gomes
+172,Vasco da Gama S.a.f. - RJ,Sebastian Ferreira,Vegetti
+172,Vasco da Gama S.a.f. - RJ,Gabriel Pec,Figueiredo
+172,Grêmio - RS,Bitello,G. Martins
+172,Grêmio - RS,Nathan,Besozzi
+172,Grêmio - RS,Uvini,Andre
+172,Grêmio - RS,Ferreira,Gustavo
+172,Grêmio - RS,Carballo,Mila
+173,São Paulo - SP,Rafinha,Alexandre Pato
+173,São Paulo - SP,Talles Costa,Lucas
+173,São Paulo - SP,Rodrigo Nestor,Alisson
+173,São Paulo - SP,Michel Araujo,David
+173,São Paulo - SP,Luciano,Wellington Rato
+173,Atlético Mineiro - MG,Hulk,Alan Franco
+173,Atlético Mineiro - MG,Pavon,Edenilson
+173,Atlético Mineiro - MG,Paulinho,Igor Gomes
+173,Atlético Mineiro - MG,Jemerson,Muricio Lemos
+173,Atlético Mineiro - MG,Hyoran,Patrick
+174,Santos - SP,Dodi,Julio Furch
+174,Santos - SP,Rodrigo,Lucas
+174,Santos - SP,Dodo,Kevyson
+174,Athletico Paranaense - PR,Madson,Khellven
+174,Athletico Paranaense - PR,Fernandinho,Canobbio
+174,Athletico Paranaense - PR,Zapelli,Vitor Bueno
+174,Athletico Paranaense - PR,Marcelo Cirino,Vitor Roque
+174,Athletico Paranaense - PR,Cacá,Ze Ivaldo
+175,Goiás - GO,Vinicius,Joao
+175,Goiás - GO,Guilherme,Higor
+175,Goiás - GO,Matheus Babi,Allano
+175,Goiás - GO,Sidimar,Edu
+175,Fortaleza - CE,Tobias,Dudu
+175,Fortaleza - CE,Pochettino,Thiago Galhardo
+175,Fortaleza - CE,Caio,Lucas Crispim
+175,Fortaleza - CE,Silvio Romero,Lucero
+175,Fortaleza - CE,Yago,Machuca
+176,Cruzeiro Saf - MG,Arthur Gomes,Paulo Vitor
+176,Cruzeiro Saf - MG,Gilberto,Rafael Papagaio
+176,Cruzeiro Saf - MG,Matheus Pereira,Nikao
+176,Cruzeiro Saf - MG,William,Palacios
+176,Cruzeiro Saf - MG,Filipe Machado,Mateus
+176,Botafogo - RJ,Junior,Matias Segovia
+176,Botafogo - RJ,Carlos,Danilo
+176,Botafogo - RJ,Joao Victor,Carlos Alberto
+176,Botafogo - RJ,Tche Tche,Janderson
+176,Botafogo - RJ,Tiquinho,Lucas
+177,Internacional - RS,Mauricio,Valencia
+177,Internacional - RS,Pedro,Alan Patrick
+177,Internacional - RS,Matheus,WANDERSON
+177,Internacional - RS,Gabriel,Joao Lucas
+177,Internacional - RS,Bruno,Aranguiz
+177,Corinthians - SP,Maycon,Roni
+177,Corinthians - SP,Renato Augusto,Fausto
+177,Corinthians - SP,RUAN,Bruno Mendez
+177,Corinthians - SP,Guilherme Biro,Angel Romero
+177,Corinthians - SP,Adson,Matheus Araujo
+178,Coritiba S.a.f. - PR,Kaio Lima,Fransergio
+178,Coritiba S.a.f. - PR,Andrey,MAURICIO
+178,Coritiba S.a.f. - PR,Bruno Gomes,Edu
+178,Coritiba S.a.f. - PR,Matheus,Sebastian Gomez
+178,Coritiba S.a.f. - PR,Natanael Milouski,Diogo Batista
+178,Red Bull Bragantino - SP,Andres Hurtado,Aderlan
+178,Red Bull Bragantino - SP,Matheus Fernandes,Yani Quintero
+178,Red Bull Bragantino - SP,Cipriano,Guilherme
+178,Red Bull Bragantino - SP,Vitinho,Thiago Borbas
+178,Red Bull Bragantino - SP,Eduardo Sasha,Gustavinho
+179,Bahia - BA,Camilo Cándido,Matheus Bahia
+179,Bahia - BA,Rafael Ratão,Cittadini
+179,Bahia - BA,Gilberto,Cicinho
+179,Bahia - BA,Ademir,Jacare
+179,Bahia - BA,Thaciano,Yago Felipe
+179,America Saf - MG,Gonzalo Mastriani,Paulo
+179,America Saf - MG,Felipe Azevedo,Martin Benitez
+179,America Saf - MG,Pedrinho,Everaldo
+179,America Saf - MG,Javier Mendez,Iago
+179,America Saf - MG,Daniel Borges,Rodrigo
+180,Cuiabá Saf - MT,Pablo Ceppelini Gatto,Lucas
+180,Cuiabá Saf - MT,Clayson,DERIK
+180,Cuiabá Saf - MT,RIKELME,Uendel
+180,Cuiabá Saf - MT,Cafu,Wellington Silva
+180,Cuiabá Saf - MT,Raniele,Filipe Augusto
+180,Flamengo - RJ,Ayrton Lucas,Allan
+180,Flamengo - RJ,Everton,Bruno Henrique
+180,Flamengo - RJ,Gerson,Igor Jesus
+180,Flamengo - RJ,Varela,Wesley
+181,Flamengo - RJ,De Arrascaeta,Éverton Ribeiro
+181,Flamengo - RJ,Victor Hugo,Luiz
+181,Flamengo - RJ,Gabriel Barbosa,Pedro
+181,Flamengo - RJ,Thiago Maia,Gerson
+181,São Paulo - SP,Gabriel Neves,Felipe
+181,São Paulo - SP,Alexandre Pato,James Rodriguez
+181,São Paulo - SP,Welington,Rai
+181,São Paulo - SP,Alisson,Rodrigo Nestor
+181,São Paulo - SP,Lucas,Wellington Rato
+182,Botafogo - RJ,Lucas,Janderson
+182,Botafogo - RJ,Joao Victor,Danilo
+182,Botafogo - RJ,Gustavo,Luis Henrique
+182,Botafogo - RJ,Tche Tche,Junior
+182,Botafogo - RJ,Carlos,Philipe
+182,Internacional - RS,Alan Patrick,Matheus
+182,Internacional - RS,WANDERSON,Pedro
+182,Internacional - RS,Mauricio,Nicolas Hernandez
+182,Internacional - RS,Valencia,Luiz Adriano
+182,Internacional - RS,Aranguiz,Bruno
+183,Palmeiras - SP,Gustavo Gomez,Richard Rios
+183,Palmeiras - SP,Jhon Jhon,Breno
+183,Palmeiras - SP,Ze Rafael,Lopez
+183,Palmeiras - SP,Artur,Luis Guilherme
+183,Palmeiras - SP,Rony,Endrick
+183,Cruzeiro Saf - MG,Arthur Gomes,Bruno Rodrigues
+183,Cruzeiro Saf - MG,Mateus,Filipe Machado
+183,Cruzeiro Saf - MG,Marlon,Kaiki Bruno
+183,Cruzeiro Saf - MG,William,Palacios
+183,Cruzeiro Saf - MG,Rafael Papagaio,Gilberto
+184,Corinthians - SP,Fabio Santos,Matheus Bidu
+184,Corinthians - SP,Renato Augusto,Giuliano
+184,Corinthians - SP,Yuri Alberto,Matias Rojas
+184,Corinthians - SP,Fagner,Bruno Mendez
+184,Corinthians - SP,Moscardo,Wesley
+184,Coritiba S.a.f. - PR,Matheus,Liziero
+184,Coritiba S.a.f. - PR,Robson,Ruan Lucas
+184,Coritiba S.a.f. - PR,Fransergio,Lucas
+184,Coritiba S.a.f. - PR,Sebastian Gomez,Andrey
+184,Coritiba S.a.f. - PR,Diogo,Kaio Lima
+185,Red Bull Bragantino - SP,Aderlan,Bruninho
+185,Red Bull Bragantino - SP,Gustavinho,Andres Hurtado
+185,Red Bull Bragantino - SP,Thiago Borbas,Alerrandro
+185,Red Bull Bragantino - SP,Luan Candido,Matheus Gonçalves
+185,Vasco da Gama S.a.f. - RJ,Medel,Capasso
+185,Vasco da Gama S.a.f. - RJ,Marlon Gomes,Jair
+185,Vasco da Gama S.a.f. - RJ,Orellano,Figueiredo
+185,Vasco da Gama S.a.f. - RJ,Robson,Puma Rodriguez
+185,Vasco da Gama S.a.f. - RJ,Lucas Piton,Matias Galarza
+186,Atlético Mineiro - MG,Igor Gomes,Patrick
+186,Atlético Mineiro - MG,Rodrigo Battaglia,Edenilson
+186,Atlético Mineiro - MG,Otavio,Alan Franco
+186,Atlético Mineiro - MG,Paulinho,Rever
+186,Bahia - BA,Thaciano,Cittadini
+186,Bahia - BA,Rafael Ratão,Jacare
+186,Bahia - BA,Everaldo,Mingotti
+186,Bahia - BA,Rezende,Yago Felipe
+187,Grêmio - RS,Bitello,Luan
+187,Grêmio - RS,Joao Pedro,Pepe
+187,Grêmio - RS,Ronald,Besozzi
+187,Grêmio - RS,Fabio,Joao Pedro
+187,Grêmio - RS,Ferreira,G. Martins
+187,Fluminense - RJ,Daniel,Leo Fernandez
+187,Fluminense - RJ,Marcelo,Diogo Barbosa
+187,Fluminense - RJ,PH GANSO,Yony Gonzalez
+187,Fluminense - RJ,Marlon Santos,Martinelli
+188,Athletico Paranaense - PR,Khellven,Madson
+188,Athletico Paranaense - PR,Vitor Bueno,Cuello
+188,Athletico Paranaense - PR,Vitor Roque,Pablo
+188,Athletico Paranaense - PR,Erick,Hugo Moura
+188,Athletico Paranaense - PR,VIDAL,Zapelli
+188,Cuiabá Saf - MT,RIKELME,Uendel
+188,Cuiabá Saf - MT,Allyson,Filipe Augusto
+188,Cuiabá Saf - MT,Fernando,Lucas
+188,Cuiabá Saf - MT,Pablo Ceppelini Gatto,Denilson
+188,Cuiabá Saf - MT,Cafu,DERIK
+189,Fortaleza - CE,Marinho,Yago
+189,Fortaleza - CE,Thiago Galhardo,Silvio Romero
+189,Fortaleza - CE,Pochettino,Pedro
+189,Fortaleza - CE,Caio,Lucas
+189,Fortaleza - CE,Machuca,Guilherme Augusto
+189,Santos - SP,Julio Furch,Bruno Mezenga
+189,Santos - SP,Rodrigo,Camacho
+189,Santos - SP,Jean,Luan
+189,Santos - SP,Joao,Weslley
+189,Santos - SP,Lucas,Yeferson Soteldo
+190,America Saf - MG,Rodrigo,Wellington Paulista
+190,America Saf - MG,Breno Lemos,Pedrinho
+190,America Saf - MG,Eder,Iago
+190,America Saf - MG,Lucas,Everaldo
+190,America Saf - MG,Emmanuel Martinez,Matheusinho
+190,Goiás - GO,Allano,Vinicius
+190,Goiás - GO,Anderson,Edu
+190,Goiás - GO,Guilherme,Raphael Guzzo
+190,Goiás - GO,Joao,Matheus Babi
+190,Goiás - GO,Morelli,Higor
+191,Fluminense - RJ,Lima,John Kennedy
+191,Fluminense - RJ,Marcelo,Diogo Barbosa
+191,Fluminense - RJ,Keno,Leo Fernandez
+191,Fluminense - RJ,PH GANSO,Marlon Santos
+191,Fluminense - RJ,Felipe Melo,Martinelli
+191,America Saf - MG,Danilo,Marlon
+191,America Saf - MG,Javier Mendez,Ale
+191,America Saf - MG,Rodrigo Varanda,Everaldo
+191,America Saf - MG,Felipe Azevedo,Pedrinho
+191,America Saf - MG,Gonzalo Mastriani,MIKAEL
+192,Vasco da Gama S.a.f. - RJ,Vegetti,Sebastian Ferreira
+192,Vasco da Gama S.a.f. - RJ,Serginho,Rossi
+192,Vasco da Gama S.a.f. - RJ,Robson,Gabriel Dias
+192,Atlético Mineiro - MG,Paulinho,Alan Kardec
+192,Atlético Mineiro - MG,Igor Gomes,Vargas
+192,Atlético Mineiro - MG,Rodrigo Battaglia,Patrick
+192,Atlético Mineiro - MG,Renzo Saravia,Pedrinho
+193,São Paulo - SP,Luciano,Alexandre Pato
+193,São Paulo - SP,Juan,Calleri
+193,São Paulo - SP,Pablo,Luan Silva
+193,São Paulo - SP,Gabriel Neves,RODRIGUINHO
+193,São Paulo - SP,James Rodriguez,Lucas
+193,Botafogo - RJ,Joao Victor,Junior
+193,Botafogo - RJ,Luis Henrique,Matias Segovia
+193,Botafogo - RJ,Di Placido,JP Galvão
+193,Botafogo - RJ,Janderson,Diego Costa
+193,Botafogo - RJ,Marcal,Hugo
+194,Santos - SP,Joaquim,Tomás Rincón
+194,Santos - SP,Lucas,Dodi
+194,Santos - SP,Lucas Lima,Yeferson Soteldo
+194,Santos - SP,Rodrigo,Nonato
+194,Santos - SP,Marcos Leonardo,Julio Furch
+194,Grêmio - RS,Pepe,Ronald
+194,Grêmio - RS,Joao Pedro,Andre
+194,Grêmio - RS,Fabio,Joao Pedro
+194,Grêmio - RS,Carballo,G. Martins
+194,Grêmio - RS,Cristaldo,Galdino
+195,Goiás - GO,Willian Oliveira,Raphael Guzzo
+195,Goiás - GO,Morelli,Vinicius
+195,Goiás - GO,Allano,Vinicius
+195,Goiás - GO,Guilherme,Julian
+195,Goiás - GO,Anderson,Alesson
+195,Athletico Paranaense - PR,Khellven,Madson
+195,Athletico Paranaense - PR,VIDAL,Zapelli
+195,Athletico Paranaense - PR,Cuello,Hugo Moura
+195,Athletico Paranaense - PR,Vitor Roque,Pablo
+196,Cruzeiro Saf - MG,Bruno Rodrigues,Nikao
+196,Cruzeiro Saf - MG,Rafael Papagaio,Gilberto
+196,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Robert
+196,Cruzeiro Saf - MG,Arthur Gomes,Filipe Machado
+196,Corinthians - SP,Wesley,Mosquito
+196,Corinthians - SP,Matias Rojas,Angel Romero
+196,Corinthians - SP,Bruno Mendez,Léo Mana
+196,Corinthians - SP,Felipe Augusto,Giovane Nascimento
+196,Corinthians - SP,Guilherme Biro,RUAN
+197,Internacional - RS,Matheus,WANDERSON
+197,Internacional - RS,Vitão,Hugo Mallo
+197,Internacional - RS,Carlos de Pena,Rene
+197,Internacional - RS,Bruno,Alan Patrick
+197,Internacional - RS,Mauricio,Aranguiz
+197,Fortaleza - CE,Pochettino,Pedro
+197,Fortaleza - CE,Marinho,Yago
+197,Fortaleza - CE,Machuca,Guilherme Augusto
+197,Fortaleza - CE,Thiago Galhardo,Lucero
+198,Coritiba S.a.f. - PR,Sebastian Gomez,Kaio Lima
+198,Coritiba S.a.f. - PR,Diogo Batista,Natanael Milouski
+198,Coritiba S.a.f. - PR,Fransergio,Matheus
+198,Coritiba S.a.f. - PR,Marcelino Moreno,Liziero
+198,Coritiba S.a.f. - PR,Edu,Diogo
+198,Flamengo - RJ,Erick Pulgar,Thiago Maia
+198,Flamengo - RJ,Victor Hugo,Éverton Ribeiro
+198,Flamengo - RJ,Bruno Henrique,Pedro
+198,Flamengo - RJ,Filipe Luís,Ayrton Lucas
+198,Flamengo - RJ,Gabriel Barbosa,Luiz
+199,Bahia - BA,Ademir,Everaldo
+199,Bahia - BA,Camilo Cándido,Matheus Bahia
+199,Bahia - BA,Mingotti,Jacare
+199,Bahia - BA,Rafael Ratão,Yago Felipe
+199,Bahia - BA,Rezende,Acevedo
+199,Red Bull Bragantino - SP,Aderlan,Andres Hurtado
+199,Red Bull Bragantino - SP,Léo Ortiz,Lucas Rafael
+199,Red Bull Bragantino - SP,Thiago Borbas,Alerrandro
+199,Red Bull Bragantino - SP,Jadsom Silva,Matheus Gonçalves
+199,Red Bull Bragantino - SP,Bruninho,Vitinho
+200,Cuiabá Saf - MT,ALAN,Filipe Augusto
+200,Cuiabá Saf - MT,Fernando,Lucas
+200,Cuiabá Saf - MT,Cafu,DERIK
+200,Cuiabá Saf - MT,Clayson,Wellington Silva
+200,Cuiabá Saf - MT,Pablo Ceppelini Gatto,Denilson
+200,Palmeiras - SP,Raphael Veiga,Jailson
+200,Palmeiras - SP,Artur,Breno
+200,Palmeiras - SP,Ze Rafael,Fabinho
+200,Palmeiras - SP,Joaquin Piquerez,Mayke
+200,Palmeiras - SP,Lopez,Rony
+201,Flamengo - RJ,Luiz,Éverton Ribeiro
+201,Flamengo - RJ,Bruno Henrique,Everton
+201,Flamengo - RJ,Thiago Maia,Allan
+201,Flamengo - RJ,De Arrascaeta,Victor Hugo
+201,Flamengo - RJ,Gabriel Barbosa,Pedro
+201,Internacional - RS,Mauricio,Rene
+201,Internacional - RS,Hugo Mallo,Igor Gomes
+201,Internacional - RS,Luiz Adriano,Valencia
+201,Internacional - RS,Matheus,Aranguiz
+201,Internacional - RS,Pedro,Alan Patrick
+202,Botafogo - RJ,Diego Costa,Janderson
+202,Botafogo - RJ,Gabriel,Danilo
+202,Botafogo - RJ,JP Galvão,Mateo Ponte
+202,Botafogo - RJ,Joao Victor,Luis Henrique
+202,Botafogo - RJ,Matias Segovia,Diego Hernandez
+202,Bahia - BA,Thaciano,Yago Felipe
+202,Bahia - BA,Rafael Ratão,Biel
+202,Bahia - BA,Mingotti,Jacare
+202,Bahia - BA,Ademir,Everaldo
+202,Bahia - BA,Cauly,Cittadini
+203,Palmeiras - SP,Gabriel Menino,Luan Garcia
+203,Palmeiras - SP,Richard Rios,Fabinho
+203,Palmeiras - SP,Dudu,Breno
+203,Palmeiras - SP,Rony,Lopez
+203,Palmeiras - SP,Artur,Marcos Rocha
+203,Vasco da Gama S.a.f. - RJ,Robson,Puma Rodriguez
+203,Vasco da Gama S.a.f. - RJ,Praxedes,Sebastian Ferreira
+203,Vasco da Gama S.a.f. - RJ,Serginho,Orellano
+203,Vasco da Gama S.a.f. - RJ,Gabriel Pec,Alex Teixeira
+204,Corinthians - SP,Wesley,Mosquito
+204,Corinthians - SP,Giuliano,Renato Augusto
+204,Corinthians - SP,Moscardo,Maycon
+204,Corinthians - SP,Léo Mana,Bruno Mendez
+204,Corinthians - SP,RUAN,Matias Rojas
+204,Goiás - GO,Joao,Matheus Babi
+204,Goiás - GO,Guilherme,Raphael Guzzo
+204,Goiás - GO,Allano,Vinicius
+205,Red Bull Bragantino - SP,Thiago Borbas,Alerrandro
+205,Red Bull Bragantino - SP,Gustavinho,Talisson
+205,Red Bull Bragantino - SP,Yani Quintero,Luan Candido
+205,Red Bull Bragantino - SP,Helinho,Matheus Gonçalves
+205,Red Bull Bragantino - SP,Sorriso,Vitinho
+205,Cuiabá Saf - MT,Denilson,Lucas
+205,Cuiabá Saf - MT,Matheus Alexandre,PITTA
+205,Cuiabá Saf - MT,Fernando,Filipe Augusto
+205,Cuiabá Saf - MT,Cafu,Emerson
+205,Cuiabá Saf - MT,RIKELME,Ronald
+206,Atlético Mineiro - MG,Otavio,Alan Franco
+206,Atlético Mineiro - MG,Hulk,Alan Kardec
+206,Atlético Mineiro - MG,Paulinho,Rubens
+206,Atlético Mineiro - MG,Mariano,Renzo Saravia
+206,Atlético Mineiro - MG,Pedrinho,Igor Gomes
+206,Santos - SP,Tomás Rincón,Dodi
+206,Santos - SP,Joao,Julio Furch
+206,Santos - SP,Lucas Lima,Lucas
+206,Santos - SP,Mendoza,Kevyson
+206,Santos - SP,Jean,Weslley
+207,Grêmio - RS,Geromel,R. Ely
+207,Grêmio - RS,Carballo,Ferreira
+207,Grêmio - RS,Cristaldo,Luan
+207,Grêmio - RS,Joao Pedro,Bitello
+207,Cruzeiro Saf - MG,Palacios,Paulo Vitor
+207,Cruzeiro Saf - MG,Neris,Joao Marcelo
+207,Cruzeiro Saf - MG,Mateus,Bruno Rodrigues
+207,Cruzeiro Saf - MG,Matheus,Filipe Machado
+207,Cruzeiro Saf - MG,Marlon,Kaiki Bruno
+208,Athletico Paranaense - PR,Erick,Alex Santana
+208,Athletico Paranaense - PR,Vitor Bueno,Ze Ivaldo
+208,Athletico Paranaense - PR,VIDAL,Hugo Moura
+208,Athletico Paranaense - PR,Vitor Roque,Pablo
+208,Fluminense - RJ,Guga,Felipe Andrade
+208,Fluminense - RJ,David Braz,João Neto
+208,Fluminense - RJ,Thiago Santos,Alexsander
+208,Fluminense - RJ,Daniel,Isaac
+208,Fluminense - RJ,Leo Fernandez,Giovanni
+209,Fortaleza - CE,Pochettino,Lucas Crispim
+209,Fortaleza - CE,Guilherme Augusto,Silvio Romero
+209,Fortaleza - CE,Lucero,Thiago Galhardo
+209,Fortaleza - CE,Marinho,Yago
+209,Fortaleza - CE,Pedro,Lucas
+209,Coritiba S.a.f. - PR,Diogo,Lucas
+209,Coritiba S.a.f. - PR,Gabriel,Luan Polli
+209,Coritiba S.a.f. - PR,Natanael Milouski,Hayner
+209,Coritiba S.a.f. - PR,Marcelino Moreno,MAURICIO
+209,Coritiba S.a.f. - PR,Matheus,Fransergio
+210,America Saf - MG,Rodrigo,Breno Lemos
+210,America Saf - MG,Lucas,Daniel Borges
+210,America Saf - MG,Marlon,Eder
+210,America Saf - MG,Felipe Azevedo,Rodrigo Varanda
+210,São Paulo - SP,Juan,Lucas
+210,São Paulo - SP,João Moreira,Welington
+210,São Paulo - SP,Luan Silva,Calleri
+210,São Paulo - SP,James Rodriguez,Alexandre Pato
+210,São Paulo - SP,Wellington Rato,Luciano
+211,Fluminense - RJ,John Kennedy,Lelê
+211,Fluminense - RJ,German Cano,Leo Fernandez
+211,Fluminense - RJ,Felipe Melo,Martinelli
+211,Fluminense - RJ,Alexsander,Daniel
+211,Fluminense - RJ,Keno,Lima
+211,Fortaleza - CE,Pochettino,Thiago Galhardo
+211,Fortaleza - CE,Welison,Pedro
+211,Fortaleza - CE,Yago,Machuca
+211,Fortaleza - CE,Guilherme Augusto,Escobar
+211,Fortaleza - CE,Lucero,Romarinho
+212,Botafogo - RJ,Matias Segovia,Luis Henrique
+212,Botafogo - RJ,Carlos,Janderson
+212,Botafogo - RJ,Joao Victor,Junior
+212,Botafogo - RJ,Gabriel,Tche Tche
+212,Botafogo - RJ,Tiquinho,Diego Costa
+212,Flamengo - RJ,Victor Hugo,Éverton Ribeiro
+212,Flamengo - RJ,Gerson,David Luiz
+212,Flamengo - RJ,Allan,Thiago Maia
+212,Flamengo - RJ,Bruno Henrique,Everton
+213,São Paulo - SP,Luan Silva,Alisson
+213,São Paulo - SP,James Rodriguez,Lucas
+213,São Paulo - SP,Luciano,Rodrigo Nestor
+213,São Paulo - SP,Gabriel Neves,Pablo
+213,São Paulo - SP,Juan,Calleri
+213,Coritiba S.a.f. - PR,Hayner,Natanael Milouski
+213,Coritiba S.a.f. - PR,Sebastian Gomez,Kaio Lima
+213,Coritiba S.a.f. - PR,Slimani,Edu
+213,Coritiba S.a.f. - PR,Robson,Diogo
+213,Coritiba S.a.f. - PR,Samaris,Matheus
+214,Corinthians - SP,Fabio Santos,Matheus Bidu
+214,Corinthians - SP,Moscardo,Fausto
+214,Corinthians - SP,Giuliano,RUAN
+214,Corinthians - SP,Matias Rojas,Mosquito
+214,Corinthians - SP,Wesley,Angel Romero
+214,Palmeiras - SP,Joaquin Piquerez,Vanderlan
+214,Palmeiras - SP,Artur,Jhon Jhon
+214,Palmeiras - SP,Rony,Endrick
+214,Palmeiras - SP,Marcos Rocha,Breno
+214,Palmeiras - SP,Gabriel Menino,Richard Rios
+215,Goiás - GO,Willian Oliveira,Raphael Guzzo
+215,Goiás - GO,Anderson,Julian
+215,Goiás - GO,Hugo,Alesson
+215,Goiás - GO,Guilherme,Luis
+215,Goiás - GO,Joao,Matheus Babi
+215,Internacional - RS,Carlos de Pena,Mauricio
+215,Internacional - RS,WANDERSON,Pedro
+215,Internacional - RS,Alan Patrick,Lucca
+215,Internacional - RS,Aranguiz,Bruno
+215,Internacional - RS,Valencia,Luiz Adriano
+216,Cruzeiro Saf - MG,Mateus,Filipe Machado
+216,Cruzeiro Saf - MG,Arthur Gomes,Nikao
+216,Cruzeiro Saf - MG,Lucas Silva,Ian
+216,Cruzeiro Saf - MG,Rafael Papagaio,Wesley Ribeiro Silva
+216,Red Bull Bragantino - SP,Evangelista,J. Capixaba
+216,Red Bull Bragantino - SP,Vitinho,Sorriso
+216,Red Bull Bragantino - SP,Jadsom Silva,Yani Quintero
+216,Red Bull Bragantino - SP,Helinho,Matheus Gonçalves
+216,Red Bull Bragantino - SP,Thiago Borbas,Alerrandro
+217,Grêmio - RS,Pepe,G. Martins
+217,Grêmio - RS,Carballo,Galdino
+217,Grêmio - RS,Cristaldo,Luan
+217,Grêmio - RS,Joao Pedro,Ferreira
+217,Grêmio - RS,Suarez,Iturbe
+217,Cuiabá Saf - MT,Denilson,Ronald
+217,Cuiabá Saf - MT,Wellington Silva,Cafu
+217,Cuiabá Saf - MT,Pablo Ceppelini Gatto,DERIK
+217,Cuiabá Saf - MT,Lucas,Fernando
+217,Cuiabá Saf - MT,RIKELME,Patric
+218,Athletico Paranaense - PR,Romulo,Cuello
+218,Athletico Paranaense - PR,Erick,Alex Santana
+218,Athletico Paranaense - PR,VIDAL,Zapelli
+218,Athletico Paranaense - PR,Vitor Bueno,Pablo
+218,Atlético Mineiro - MG,Bruno Fuchs,Rever
+218,Atlético Mineiro - MG,Pedrinho,Patrick
+218,Atlético Mineiro - MG,Hulk,Alan Kardec
+218,Atlético Mineiro - MG,Pavon,Renzo Saravia
+218,Atlético Mineiro - MG,Mariano,Alisson Santana
+219,Bahia - BA,Rafael Ratão,Luciano Juba
+219,Bahia - BA,Rezende,Mugni
+219,Bahia - BA,Cittadini,Biel
+219,Bahia - BA,Ademir,Jacare
+219,Vasco da Gama S.a.f. - RJ,Robson,Puma Rodriguez
+219,Vasco da Gama S.a.f. - RJ,Serginho,Sebastian Ferreira
+219,Vasco da Gama S.a.f. - RJ,Praxedes,Marlon Gomes
+219,Vasco da Gama S.a.f. - RJ,Gabriel Pec,Payet
+219,Vasco da Gama S.a.f. - RJ,Medel,Jair
+220,America Saf - MG,Breno Lemos,Cazares
+220,America Saf - MG,Rodrigo Varanda,Renato Kayzer
+220,America Saf - MG,Felipe Azevedo,Javier Mendez
+220,America Saf - MG,Mateus,Julio
+220,Santos - SP,Mendoza,Weslley
+220,Santos - SP,Rodrigo,Junior Caiçara
+220,Santos - SP,Joaquim,Yeferson Soteldo
+220,Santos - SP,Lucas Lima,Julio Furch
+221,Flamengo - RJ,Victor Hugo,Éverton Ribeiro
+221,Flamengo - RJ,David Luiz,Allan
+221,Athletico Paranaense - PR,Madson,Bruno Peres
+221,Athletico Paranaense - PR,Hugo Moura,Alex Santana
+221,Athletico Paranaense - PR,Zapelli,Willian
+221,Athletico Paranaense - PR,Cuello,Romulo
+222,Vasco da Gama S.a.f. - RJ,Vegetti,Barros
+222,Vasco da Gama S.a.f. - RJ,Praxedes,Mateus Carvalho
+222,Vasco da Gama S.a.f. - RJ,Rossi,Gabriel Pec
+222,Vasco da Gama S.a.f. - RJ,Marlon Gomes,Payet
+222,Vasco da Gama S.a.f. - RJ,Léo,Zé Vitor
+222,Fluminense - RJ,Marlon Santos,Martinelli
+222,Fluminense - RJ,Alexsander,Daniel
+222,Fluminense - RJ,Marcelo,Diogo Barbosa
+222,Fluminense - RJ,Guga,Yony Gonzalez
+222,Fluminense - RJ,Jhon Arias,Lima
+223,Palmeiras - SP,Marcos Rocha,Kevin
+223,Palmeiras - SP,Gabriel Menino,Richard Rios
+223,Palmeiras - SP,Lopez,Raphael Veiga
+223,Palmeiras - SP,Artur,Endrick
+223,Palmeiras - SP,Ze Rafael,Breno
+223,Goiás - GO,Anderson,Julian
+223,Goiás - GO,Allano,Vinicius
+223,Goiás - GO,Joao,Alesson
+223,Goiás - GO,Bruno,Edu
+224,Santos - SP,Marcos Leonardo,Morelos
+224,Santos - SP,Mendoza,Lucas Lima
+224,Santos - SP,Nonato,Tomás Rincón
+224,Santos - SP,Junior Caiçara,Gabriel
+224,Santos - SP,Jean,Julio Furch
+224,Cruzeiro Saf - MG,Arthur Gomes,Filipe Machado
+224,Cruzeiro Saf - MG,Gilberto,Bruno Rodrigues
+224,Cruzeiro Saf - MG,Matheus,Ian
+224,Cruzeiro Saf - MG,Mateus,Nikao
+224,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Stênio
+225,Red Bull Bragantino - SP,Lucas Rafael,Luan Candido
+225,Red Bull Bragantino - SP,Léo Ortiz,Luan Patrick
+225,Red Bull Bragantino - SP,Jadsom Silva,Eric Ramires
+225,Red Bull Bragantino - SP,Helinho,Talisson
+225,Red Bull Bragantino - SP,Eduardo Sasha,Sorriso
+225,Grêmio - RS,Carballo,Galdino
+225,Grêmio - RS,Joao Pedro,Andre
+225,Grêmio - RS,R. Ely,Bruno Alves
+225,Grêmio - RS,Cristaldo,Ferreira
+225,Grêmio - RS,Pepe,Iturbe
+226,Atlético Mineiro - MG,Alan Kardec,Zaracho
+226,Atlético Mineiro - MG,Pavon,Patrick
+226,Atlético Mineiro - MG,Pedrinho,Rever
+226,Botafogo - RJ,Lucas Perri,Gatito Fernandes
+226,Botafogo - RJ,Joao Victor,Matias Segovia
+226,Botafogo - RJ,Tiquinho,Diego Costa
+226,Botafogo - RJ,Di Placido,Janderson
+226,Botafogo - RJ,Junior,Luis Henrique
+227,Internacional - RS,Bruno,Matheus
+227,Internacional - RS,Mauricio,Igor Gomes
+227,Internacional - RS,Gabriel,Romulo
+227,Internacional - RS,Gabriel Mercado,Nicolas Hernandez
+227,Internacional - RS,Alan Patrick,Gustavo
+227,São Paulo - SP,Rafinha,Nathan
+227,São Paulo - SP,Lucas,Michel Araujo
+227,São Paulo - SP,Luciano,Rodrigo Nestor
+227,São Paulo - SP,Caio Paulista,Patryck
+227,São Paulo - SP,Calleri,Alexandre Pato
+228,Coritiba S.a.f. - PR,Hayner,Natanael Milouski
+228,Coritiba S.a.f. - PR,Bruno Gomes,Andrey
+228,Coritiba S.a.f. - PR,Sebastian Gomez,Diogo
+228,Coritiba S.a.f. - PR,Kaio Lima,Fransergio
+228,Coritiba S.a.f. - PR,Samaris,Marcelino Moreno
+228,Bahia - BA,Ademir,Jacare
+228,Bahia - BA,Yago Felipe,Acevedo
+228,Bahia - BA,Thaciano,Mugni
+228,Bahia - BA,Rezende,Cittadini
+228,Bahia - BA,Rafael Ratão,Biel
+229,Fortaleza - CE,Guilherme Augusto,Machuca
+229,Fortaleza - CE,Christian,Escobar
+229,Fortaleza - CE,Pochettino,Thiago Galhardo
+229,Fortaleza - CE,Lucero,Silvio Romero
+229,Fortaleza - CE,Marinho,Yago
+229,Corinthians - SP,Moscardo,Cantillo
+229,Corinthians - SP,Léo Mana,Wesley
+229,Corinthians - SP,Pedrinho,Mosquito
+229,Corinthians - SP,Yuri Alberto,Angel Romero
+229,Corinthians - SP,RUAN,Matheus Araujo
+230,Cuiabá Saf - MT,Clayson,DERIK
+230,Cuiabá Saf - MT,Filipe Augusto,Pablo Ceppelini Gatto
+230,Cuiabá Saf - MT,Raniele,PITTA
+230,Cuiabá Saf - MT,Wellington Silva,Cafu
+230,Cuiabá Saf - MT,Fernando,Denilson
+230,America Saf - MG,Breno Lemos,Rodrigo Varanda
+230,America Saf - MG,Felipe Azevedo,Eder
+230,America Saf - MG,Gonzalo Mastriani,Ale
+230,America Saf - MG,Emmanuel Martinez,Cazares
+230,America Saf - MG,Mateus,Daniel Borges
+231,Fluminense - RJ,German Cano,Yony Gonzalez
+231,Fluminense - RJ,Keno,Marlon Santos
+231,Fluminense - RJ,Alexsander,Marcelo
+231,Fluminense - RJ,Felipe Melo,Martinelli
+231,Fluminense - RJ,Lima,Leo Fernandez
+231,Cruzeiro Saf - MG,Nikao,Paulo Vitor
+231,Cruzeiro Saf - MG,Mateus,Stênio
+231,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Arthur Gomes
+231,Cruzeiro Saf - MG,Lucas Silva,Filipe Machado
+231,Cruzeiro Saf - MG,Gilberto,Bruno Rodrigues
+232,Vasco da Gama S.a.f. - RJ,Zé Gabriel,Jair
+232,Vasco da Gama S.a.f. - RJ,Praxedes,Marlon Gomes
+232,Vasco da Gama S.a.f. - RJ,Rossi,Orellano
+232,Vasco da Gama S.a.f. - RJ,Payet,Gabriel Pec
+232,Vasco da Gama S.a.f. - RJ,Vegetti,Sebastian Ferreira
+232,Coritiba S.a.f. - PR,Robson,Jesé Rodriguez
+232,Coritiba S.a.f. - PR,Samaris,Willian Farias
+232,Coritiba S.a.f. - PR,Hayner,Natanael Milouski
+232,Coritiba S.a.f. - PR,Fransergio,Andrey
+232,Coritiba S.a.f. - PR,Jamerson,Victor
+233,São Paulo - SP,Luan Silva,Alexandre Pato
+233,São Paulo - SP,Luciano,David
+233,São Paulo - SP,Michel Araujo,Pedrinho
+233,São Paulo - SP,Juan,Talles Costa
+233,São Paulo - SP,Gabriel Neves,RODRIGUINHO
+233,Fortaleza - CE,Bruno Pacheco,Escobar
+233,Fortaleza - CE,Lucero,Thiago Galhardo
+233,Fortaleza - CE,Marinho,Yago
+233,Fortaleza - CE,Pochettino,Pedro
+233,Fortaleza - CE,Welison,Lucas
+234,Corinthians - SP,Moscardo,Renato Augusto
+234,Corinthians - SP,Matheus Bidu,Fabio Santos
+234,Corinthians - SP,Lucas Verissimo,Fagner
+234,Corinthians - SP,Pedrinho,Mosquito
+234,Corinthians - SP,Wesley,Angel Romero
+234,Botafogo - RJ,Joao Victor,Carlos Alberto
+234,Botafogo - RJ,Di Placido,Junior
+234,Botafogo - RJ,Luis Henrique,Diego Costa
+234,Botafogo - RJ,Marlon Freitas,Gabriel
+234,Botafogo - RJ,Tiquinho,Hugo
+235,Goiás - GO,Matheus Babi,DENZEL
+235,Goiás - GO,Allano,Vinicius
+235,Goiás - GO,Anderson,Julian
+235,Goiás - GO,Luis,Alesson
+235,Goiás - GO,Guilherme,Vinicius
+235,Flamengo - RJ,Gerson,Everton
+235,Flamengo - RJ,Éverton Ribeiro,Igor Jesus
+235,Flamengo - RJ,Victor Hugo,Pedrinho
+236,Atlético Mineiro - MG,Pavon,Zaracho
+236,Atlético Mineiro - MG,Paulinho,Rever
+236,Atlético Mineiro - MG,Hulk,Alan Kardec
+236,Atlético Mineiro - MG,Muricio Lemos,Jemerson
+236,Atlético Mineiro - MG,Pedrinho,Edenilson
+236,Cuiabá Saf - MT,Fernando,Lucas
+236,Cuiabá Saf - MT,Uendel,RIKELME
+236,Cuiabá Saf - MT,Denilson,Pablo Ceppelini Gatto
+236,Cuiabá Saf - MT,Wellington Silva,DERIK
+236,Cuiabá Saf - MT,Clayson,PABLO
+237,Grêmio - RS,R. Ely,Uvini
+237,Grêmio - RS,Cristaldo,Galdino
+237,Grêmio - RS,Joao Pedro,Andre
+237,Grêmio - RS,Suarez,Ronald
+237,Grêmio - RS,Nathan,Ferreira
+237,Palmeiras - SP,Endrick,Rony
+237,Palmeiras - SP,Marcos Rocha,Kevin
+237,Palmeiras - SP,Artur,Luis Guilherme
+237,Palmeiras - SP,Ze Rafael,Breno
+237,Palmeiras - SP,Gabriel Menino,Richard Rios
+238,Athletico Paranaense - PR,Fernandinho,Alex Santana
+238,Athletico Paranaense - PR,Vitor Roque,Pablo
+238,Athletico Paranaense - PR,Zapelli,Cuello
+238,Athletico Paranaense - PR,Madson,Bruno Peres
+238,Internacional - RS,Dalbert,Rene
+238,Internacional - RS,Lucca,Valencia
+238,Internacional - RS,Matheus,WANDERSON
+238,Internacional - RS,Luiz Adriano,Alan Patrick
+238,Internacional - RS,Nicolas Hernandez,Gabriel Mercado
+239,Bahia - BA,Yago Felipe,Mugni
+239,Bahia - BA,Ademir,Luciano Juba
+239,Bahia - BA,Rafael Ratão,Biel
+239,Bahia - BA,Everaldo,Mingotti
+239,Santos - SP,Lucas Lima,Nonato
+239,Santos - SP,Marcos Leonardo,Julio Furch
+239,Santos - SP,Kevyson,Junior Caiçara
+239,Santos - SP,Yeferson Soteldo,Dodi
+240,America Saf - MG,Mateus,Daniel Borges
+240,America Saf - MG,Breno Lemos,Rodrigo Varanda
+240,America Saf - MG,Rodrigo,Cazares
+240,America Saf - MG,Felipe Azevedo,Martin Benitez
+240,Red Bull Bragantino - SP,Jadsom Silva,Eric Ramires
+240,Red Bull Bragantino - SP,Vitinho,Luan Candido
+240,Red Bull Bragantino - SP,Matheus Gonçalves,Nacho Laquintana
+240,Red Bull Bragantino - SP,Alerrandro,Thiago Borbas
+241,Flamengo - RJ,Bruno Henrique,Everton
+241,Flamengo - RJ,Thiago Maia,Luiz
+241,Flamengo - RJ,Wesley,Matheuzinho
+241,Flamengo - RJ,Pedro,Gabriel Barbosa
+241,Flamengo - RJ,Éverton Ribeiro,Victor Hugo
+241,Bahia - BA,Yago Felipe,Acevedo
+241,Bahia - BA,Everaldo,Gabriel Xavier
+241,Bahia - BA,Camilo Cándido,Jacare
+241,Bahia - BA,Ademir,Biel
+241,Bahia - BA,Rafael Ratão,Luciano Juba
+242,Botafogo - RJ,Gabriel,Luis Henrique
+242,Botafogo - RJ,Joao Victor,Matias Segovia
+242,Botafogo - RJ,Tche Tche,Di Placido
+242,Botafogo - RJ,Junior,Tiquinho
+242,Goiás - GO,Willian Oliveira,Matheus Babi
+242,Goiás - GO,Allano,Apodi
+242,Goiás - GO,Anderson,Alesson
+242,Goiás - GO,Joao,Sidimar
+242,Goiás - GO,Guilherme,Raphael Guzzo
+243,São Paulo - SP,Caio Paulista,Welington
+243,São Paulo - SP,Lucas,Juan
+243,São Paulo - SP,Wellington Rato,James Rodriguez
+243,São Paulo - SP,Rodrigo Nestor,Michel Araujo
+243,São Paulo - SP,Alisson,Gabriel Neves
+243,Corinthians - SP,Felipe Augusto,Guilherme Biro
+243,Corinthians - SP,Giuliano,Roni
+243,Corinthians - SP,Mosquito,Pedrinho
+243,Corinthians - SP,Cantillo,Renato Augusto
+243,Corinthians - SP,Angel Romero,Wesley
+244,Santos - SP,Dodo,Messias
+244,Santos - SP,Jean,Nonato
+244,Santos - SP,Marcos Leonardo,Julio Furch
+244,Santos - SP,Yeferson Soteldo,Dodi
+244,Santos - SP,Tomás Rincón,Camacho
+244,Vasco da Gama S.a.f. - RJ,Puma Rodriguez,Maicon
+244,Vasco da Gama S.a.f. - RJ,Zé Gabriel,Sebastian Ferreira
+244,Vasco da Gama S.a.f. - RJ,Praxedes,Payet
+244,Vasco da Gama S.a.f. - RJ,Marlon Gomes,Jair
+244,Vasco da Gama S.a.f. - RJ,Gabriel Pec,Alex Teixeira
+245,Red Bull Bragantino - SP,Vitinho,Bruninho
+245,Red Bull Bragantino - SP,Eduardo Sasha,Gustavinho
+245,Red Bull Bragantino - SP,Jadsom Silva,Eric Ramires
+245,Red Bull Bragantino - SP,Matheus Fernandes,Thiago Borbas
+245,Red Bull Bragantino - SP,Helinho,Matheus Gonçalves
+245,Palmeiras - SP,Vanderlan,Ian
+245,Palmeiras - SP,Breno,Kauan Santos
+245,Palmeiras - SP,Endrick,Jailson
+245,Palmeiras - SP,Fabinho,Lopez
+245,Palmeiras - SP,Luis Guilherme,Kevin
+246,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Filipe Machado
+246,Cruzeiro Saf - MG,Marlon,Kaiki Bruno
+246,Cruzeiro Saf - MG,Mateus,Bruno Rodrigues
+246,Cruzeiro Saf - MG,Matheus,Fernando
+246,Cruzeiro Saf - MG,Nikao,Paulo Vitor
+246,America Saf - MG,Pedrinho,Cazares
+246,America Saf - MG,Rodrigo,Marlon
+246,America Saf - MG,Esteban Burgos,Eder
+246,America Saf - MG,Martin Benitez,Breno Lemos
+246,America Saf - MG,Nicolas,Javier Mendez
+247,Internacional - RS,Gustavo,Aranguiz
+247,Internacional - RS,Lucca,Valencia
+247,Internacional - RS,Romulo,Hugo Mallo
+247,Internacional - RS,Gabriel Barros,Mauricio
+247,Internacional - RS,Bruno,Alan Patrick
+247,Atlético Mineiro - MG,Hulk,Zaracho
+247,Atlético Mineiro - MG,Edenilson,Patrick
+247,Atlético Mineiro - MG,Pavon,Alan Franco
+247,Atlético Mineiro - MG,Pedrinho,Igor Gomes
+248,Coritiba S.a.f. - PR,Sebastian Gomez,Hayner
+248,Coritiba S.a.f. - PR,Victor,Jamerson
+248,Coritiba S.a.f. - PR,Matheus,Fransergio
+248,Coritiba S.a.f. - PR,Slimani,Edu
+248,Coritiba S.a.f. - PR,Diogo,Andrey
+248,Athletico Paranaense - PR,Alex Santana,Hugo Moura
+248,Athletico Paranaense - PR,Bruno Peres,Cuello
+248,Athletico Paranaense - PR,Zapelli,Luciano Arriagada
+248,Athletico Paranaense - PR,Willian,Romulo
+249,Fortaleza - CE,Lucas Crispim,Pochettino
+249,Fortaleza - CE,Dudu,Guilherme
+249,Fortaleza - CE,Yago,Calebe
+249,Fortaleza - CE,Machuca,Romarinho
+249,Fortaleza - CE,Thiago Galhardo,Silvio Romero
+249,Grêmio - RS,Nathan,Ronald
+249,Grêmio - RS,Carballo,Besozzi
+249,Grêmio - RS,Cristaldo,Galdino
+249,Grêmio - RS,Joao Pedro,Ferreira
+250,Cuiabá Saf - MT,Clayson,Cafu
+250,Cuiabá Saf - MT,Uendel,RIKELME
+250,Cuiabá Saf - MT,DERIK,Wellington Silva
+250,Cuiabá Saf - MT,Lucas,Fernando
+250,Cuiabá Saf - MT,Ronald,Filipe Augusto
+250,Fluminense - RJ,Yony Gonzalez,Lelê
+250,Fluminense - RJ,Daniel,Felipe Andrade
+250,Fluminense - RJ,Marlon Santos,João Neto
+250,Fluminense - RJ,Leo Fernandez,Alexsander
+251,Fluminense - RJ,Marcelo,Leo Fernandez
+251,Fluminense - RJ,PH GANSO,Lima
+251,Fluminense - RJ,Samuel Xavier,Yony Gonzalez
+251,Fluminense - RJ,Marlon Santos,Alexsander
+251,Fluminense - RJ,Keno,Diogo Barbosa
+251,Botafogo - RJ,Tche Tche,Gabriel
+251,Botafogo - RJ,Tiquinho,Hugo
+251,Botafogo - RJ,Joao Victor,Carlos Alberto
+251,Botafogo - RJ,Marlon Freitas,Danilo
+251,Botafogo - RJ,Junior,Luis Henrique
+252,Vasco da Gama S.a.f. - RJ,Paulinho,Mateus Carvalho
+252,Vasco da Gama S.a.f. - RJ,Gabriel Pec,Figueiredo
+252,Vasco da Gama S.a.f. - RJ,Paulo Henrique,Puma Rodriguez
+252,Vasco da Gama S.a.f. - RJ,Marlon Gomes,Payet
+252,São Paulo - SP,Caio Paulista,Welington
+252,São Paulo - SP,Alisson,David
+252,São Paulo - SP,Rodrigo Nestor,Michel Araujo
+252,São Paulo - SP,James Rodriguez,Luciano
+252,São Paulo - SP,Wellington Rato,Juan
+253,Palmeiras - SP,Ze Rafael,Richard Rios
+253,Palmeiras - SP,Kevin,Lopez
+253,Palmeiras - SP,Raphael Veiga,Fabinho
+253,Palmeiras - SP,Murilo,Luis Guilherme
+253,Palmeiras - SP,Gabriel Menino,Jhon Jhon
+253,Santos - SP,Kevyson,Joao
+253,Santos - SP,Marcos Leonardo,Julio Furch
+253,Santos - SP,Morelos,Maximiliano
+253,Santos - SP,Nonato,Dodi
+253,Santos - SP,Tomás Rincón,Camacho
+254,Corinthians - SP,Bruno Mendez,Fagner
+254,Corinthians - SP,Matias Rojas,Pedrinho
+254,Corinthians - SP,Renato Augusto,Giuliano
+254,Corinthians - SP,Wesley,Angel Romero
+254,Corinthians - SP,Moscardo,Felipe Augusto
+254,Flamengo - RJ,Gerson,De Arrascaeta
+254,Flamengo - RJ,Éverton Ribeiro,Luiz
+254,Flamengo - RJ,Pedro,Gabriel Barbosa
+254,Flamengo - RJ,Wesley,Matheuzinho
+254,Flamengo - RJ,Thiago Maia,Victor Hugo
+255,Goiás - GO,Halter,Sidimar
+255,Goiás - GO,Hugo,Sander
+255,Goiás - GO,Willian Oliveira,Matheus Babi
+255,Goiás - GO,Raphael Guzzo,Luis
+255,Goiás - GO,Anderson,Alesson
+255,Bahia - BA,Cauly,Raul Gustavo
+255,Bahia - BA,Everaldo,Biel
+255,Bahia - BA,Yago Felipe,Acevedo
+255,Bahia - BA,Camilo Cándido,Matheus Bahia
+255,Bahia - BA,Ademir,Rafael Ratão
+256,Atlético Mineiro - MG,Pavon,Patrick
+256,Atlético Mineiro - MG,Igor Gomes,Alan Kardec
+256,Atlético Mineiro - MG,Alan Franco,Zaracho
+256,Atlético Mineiro - MG,Mariano,Renzo Saravia
+256,Coritiba S.a.f. - PR,BENJAMIN,Jean
+256,Coritiba S.a.f. - PR,Robson,MAURICIO
+256,Coritiba S.a.f. - PR,Diogo,Kaio Lima
+256,Coritiba S.a.f. - PR,Sebastian Gomez,Andrey
+256,Coritiba S.a.f. - PR,Victor,Jamerson
+257,Internacional - RS,WANDERSON,Romulo
+257,Internacional - RS,Alan Patrick,Dalbert
+257,Internacional - RS,Aranguiz,Nicolas Hernandez
+257,Internacional - RS,Joao Lucas,Igor Gomes
+257,Internacional - RS,Mauricio,Gabriel
+257,Grêmio - RS,Ferreira,Besozzi
+257,Grêmio - RS,Cristaldo,Nathan
+257,Grêmio - RS,Carballo,Galdino
+257,Grêmio - RS,Kannemann,Iturbe
+257,Grêmio - RS,Villasanti,Andre
+258,Athletico Paranaense - PR,Fernandinho,Hugo Moura
+258,Athletico Paranaense - PR,Zapelli,Romulo
+258,Athletico Paranaense - PR,Pablo,Luciano Arriagada
+258,Athletico Paranaense - PR,Cuello,Thiago
+258,Athletico Paranaense - PR,Erick,Alex Santana
+258,Red Bull Bragantino - SP,Eduardo Sasha,Thiago Borbas
+258,Red Bull Bragantino - SP,Eric Ramires,Gustavinho
+258,Red Bull Bragantino - SP,Jadsom Silva,Raul
+258,Red Bull Bragantino - SP,Matheus Fernandes,Luan Candido
+258,Red Bull Bragantino - SP,Helinho,Nacho Laquintana
+259,Fortaleza - CE,Pochettino,Calebe
+259,Fortaleza - CE,Welison,Thiago Galhardo
+259,Fortaleza - CE,Yago,Pedro
+259,Fortaleza - CE,Lucero,Silvio Romero
+259,Fortaleza - CE,Guilherme Augusto,Machuca
+259,America Saf - MG,Everaldo,Breno Lemos
+259,America Saf - MG,Gonzalo Mastriani,ADYSON
+259,America Saf - MG,Cazares,Wellington Paulista
+259,America Saf - MG,Nicolas,Marlon
+259,America Saf - MG,Rodrigo,Javier Mendez
+260,Cuiabá Saf - MT,Clayson,PABLO
+260,Cuiabá Saf - MT,Allyson,Filipe Augusto
+260,Cuiabá Saf - MT,Denilson,Fernando
+260,Cuiabá Saf - MT,Uendel,RIKELME
+260,Cuiabá Saf - MT,DERIK,Cafu
+260,Cruzeiro Saf - MG,Lucas Silva,Mateus
+260,Cruzeiro Saf - MG,William,Palacios
+260,Cruzeiro Saf - MG,Wesley Ribeiro Silva,Matheus Pereira
+260,Cruzeiro Saf - MG,Lucas Oliveira,Ian
+260,Cruzeiro Saf - MG,Arthur Gomes,Paulo Vitor
+261,Fluminense - RJ,Samuel Xavier,Yony Gonzalez
+261,Fluminense - RJ,Felipe Melo,Jhon Arias
+261,Fluminense - RJ,Martinelli,Leo Fernandez
+261,Corinthians - SP,Maycon,Roni
+261,Corinthians - SP,Pedrinho,Angel Romero
+261,Corinthians - SP,RUAN,Renato Augusto
+261,Corinthians - SP,Giuliano,Mosquito
+261,Corinthians - SP,Yuri Alberto,Felipe Augusto
+262,Vasco da Gama S.a.f. - RJ,Praxedes,Jair
+262,Vasco da Gama S.a.f. - RJ,Paulo Henrique,Puma Rodriguez
+262,Vasco da Gama S.a.f. - RJ,Maicon,Miranda
+262,Vasco da Gama S.a.f. - RJ,Marlon Gomes,Rossi
+262,Vasco da Gama S.a.f. - RJ,Payet,Mateus Carvalho
+262,Fortaleza - CE,Machuca,Guilherme Augusto
+262,Fortaleza - CE,Pochettino,Marinho
+262,Fortaleza - CE,Caio,Pedro
+262,Fortaleza - CE,Welison,Thiago Galhardo
+262,Fortaleza - CE,Yago,Calebe
+263,Palmeiras - SP,Gabriel Menino,Jhon Jhon
+263,Palmeiras - SP,Raphael Veiga,Lopez
+263,Palmeiras - SP,Rony,Breno
+263,Palmeiras - SP,Ze Rafael,Fabinho
+263,Palmeiras - SP,Kevin,Luis Guilherme
+263,Atlético Mineiro - MG,Guilherme Arana,Pavon
+263,Atlético Mineiro - MG,Igor Gomes,Rubens
+263,Atlético Mineiro - MG,Muricio Lemos,Jemerson
+264,Santos - SP,Kevyson,Nonato
+264,Santos - SP,Marcos Leonardo,Julio Furch
+264,Santos - SP,Dodi,Weslley
+264,Santos - SP,Lucas Lima,Mendoza
+264,Santos - SP,Maximiliano,Yeferson Soteldo
+264,Red Bull Bragantino - SP,Eduardo Sasha,Thiago Borbas
+264,Red Bull Bragantino - SP,Raul,Helinho
+264,Red Bull Bragantino - SP,Vitinho,Sorriso
+264,Red Bull Bragantino - SP,Matheus Fernandes,Eric Ramires
+264,Red Bull Bragantino - SP,Matheus Gonçalves,Jadsom Silva
+265,Goiás - GO,Joao,Matheus Babi
+265,Goiás - GO,Guilherme,Higor
+265,Goiás - GO,Julian,Vinicius
+265,Goiás - GO,Allano,Alesson
+265,São Paulo - SP,Alisson,Michel Araujo
+265,São Paulo - SP,Wellington Rato,Juan
+265,São Paulo - SP,Rodrigo Nestor,David
+265,São Paulo - SP,Pablo,Gabriel Neves
+265,São Paulo - SP,Luciano,Erison
+266,Cruzeiro Saf - MG,Bruno Rodrigues,Luis Fernando
+266,Cruzeiro Saf - MG,Ian,Mateus
+266,Cruzeiro Saf - MG,Kaiki Bruno,Wesley Ribeiro Silva
+266,Cruzeiro Saf - MG,Matheus Pereira,Nikao
+266,Flamengo - RJ,Éverton Ribeiro,De Arrascaeta
+266,Flamengo - RJ,Pedro,Gabriel Barbosa
+266,Flamengo - RJ,David Luiz,Pablo
+266,Flamengo - RJ,Bruno Henrique,Everton
+267,Grêmio - RS,Besozzi,Galdino
+267,Grêmio - RS,Fabio,Joao Pedro
+267,Grêmio - RS,Cristaldo,Luan
+267,Grêmio - RS,Iturbe,Ferreira
+267,Grêmio - RS,Nathan,Josue
+267,Athletico Paranaense - PR,Erick,Alex Santana
+267,Athletico Paranaense - PR,Vitor Bueno,Romulo
+267,Athletico Paranaense - PR,Pablo,Luciano Arriagada
+267,Athletico Paranaense - PR,Zapelli,Kaique
+267,Athletico Paranaense - PR,Fernandinho,Hugo Moura
+268,Coritiba S.a.f. - PR,Sebastian Gomez,MAURICIO
+268,Coritiba S.a.f. - PR,Victor,Jamerson
+268,Coritiba S.a.f. - PR,Robson,Jesé Rodriguez
+268,Coritiba S.a.f. - PR,Natanael Milouski,Lucas
+268,Coritiba S.a.f. - PR,Matheus,Edu
+268,Cuiabá Saf - MT,Clayson,PITTA
+268,Cuiabá Saf - MT,DERIK,Cafu
+268,Cuiabá Saf - MT,Lucas,Allyson
+268,Cuiabá Saf - MT,Fernando,Denilson
+269,Bahia - BA,Cauly,Mugni
+269,Bahia - BA,Yago Felipe,Acevedo
+269,Bahia - BA,Thaciano,Rafael Ratão
+269,Bahia - BA,Vitor Hugo,Raul Gustavo
+269,Bahia - BA,Biel,Luciano Juba
+269,Internacional - RS,Gabriel,Romulo
+269,Internacional - RS,Bruno,Pedro
+269,Internacional - RS,Dalbert,Hugo Mallo
+269,Internacional - RS,Mauricio,Gabriel Barros
+269,Internacional - RS,Luiz Adriano,Lucca
+270,America Saf - MG,Mateus,Rodrigo
+270,America Saf - MG,Martin Benitez,Cazares
+270,America Saf - MG,Felipe Azevedo,Renato Kayzer
+270,America Saf - MG,Nicolas,Marlon
+270,America Saf - MG,Danilo,Ale
+270,Botafogo - RJ,Adryelson,Philipe
+270,Botafogo - RJ,Tiquinho,Diego Costa
+270,Botafogo - RJ,Gabriel,Danilo
+270,Botafogo - RJ,Junior,Bastos
+270,Botafogo - RJ,Joao Victor,Luis Henrique
+271,Flamengo - RJ,Gerson,Everton
+271,Flamengo - RJ,Bruno Henrique,Luiz
+271,Flamengo - RJ,De Arrascaeta,Éverton Ribeiro
+271,Flamengo - RJ,Pedro,Gabriel Barbosa
+271,Vasco da Gama S.a.f. - RJ,Gabriel Pec,Erick Marcus
+271,Vasco da Gama S.a.f. - RJ,Payet,Orellano
+271,Vasco da Gama S.a.f. - RJ,Zé Gabriel,Jair
+271,Vasco da Gama S.a.f. - RJ,Paulo Henrique,Puma Rodriguez
+271,Vasco da Gama S.a.f. - RJ,Praxedes,Sebastian Ferreira
+272,Botafogo - RJ,Carlos,Diego Costa
+272,Botafogo - RJ,Joao Victor,Luis Henrique
+272,Athletico Paranaense - PR,Fernandinho,Hugo Moura
+272,Athletico Paranaense - PR,Zapelli,Romulo
+273,São Paulo - SP,Welington,Nathan
+273,São Paulo - SP,Alisson,Wellington Rato
+273,São Paulo - SP,James Rodriguez,Rodrigo Nestor
+273,São Paulo - SP,David,Luciano
+273,São Paulo - SP,Lucas,Erison
+273,Grêmio - RS,Josue,Joao Vitor
+273,Grêmio - RS,Kannemann,Galdino
+273,Grêmio - RS,Cristaldo,Nathan
+274,Corinthians - SP,Moscardo,Giuliano
+274,Corinthians - SP,RUAN,Matias Rojas
+274,Corinthians - SP,Pedrinho,Felipe Augusto
+274,Corinthians - SP,Renato Augusto,Wesley
+274,Corinthians - SP,Matheus Bidu,Fabio Santos
+274,America Saf - MG,Marlon,Eder
+274,America Saf - MG,Felipe Azevedo,Ale
+274,America Saf - MG,Emmanuel Martinez,Cazares
+274,America Saf - MG,Martin Benitez,Breno Lemos
+274,America Saf - MG,Gonzalo Mastriani,Wellington Paulista
+275,Red Bull Bragantino - SP,Vitinho,Henry Mosquera
+275,Red Bull Bragantino - SP,Aderlan,Andres Hurtado
+275,Red Bull Bragantino - SP,Eduardo Sasha,Thiago Borbas
+275,Red Bull Bragantino - SP,Matheus Fernandes,Luan Candido
+275,Red Bull Bragantino - SP,Eric Ramires,Jadsom Silva
+275,Fluminense - RJ,Daniel,PH GANSO
+275,Fluminense - RJ,Samuel Xavier,Lelê
+275,Fluminense - RJ,Diogo Barbosa,Leo Fernandez
+275,Fluminense - RJ,Alexsander,Yony Gonzalez
+276,Atlético Mineiro - MG,Bruno Fuchs,Jemerson
+276,Atlético Mineiro - MG,Zaracho,Pavon
+276,Atlético Mineiro - MG,Igor Gomes,Pedrinho
+276,Atlético Mineiro - MG,Alan Franco,Rodrigo Battaglia
+276,Cruzeiro Saf - MG,Matheus Pereira,Nikao
+276,Cruzeiro Saf - MG,Kaiki Bruno,JAPA
+276,Cruzeiro Saf - MG,Lucas Silva,Mateus
+276,Cruzeiro Saf - MG,Arthur Gomes,Rafael Papagaio
+277,Internacional - RS,Alan Patrick,Luiz Adriano
+277,Internacional - RS,Aranguiz,Bruno
+277,Internacional - RS,WANDERSON,Carlos de Pena
+277,Internacional - RS,Joao Lucas,Romulo
+277,Internacional - RS,Valencia,Pedro
+277,Santos - SP,Julio Furch,Maximiliano
+277,Santos - SP,Kevyson,Junior Caiçara
+277,Santos - SP,Lucas Lima,Rodrigo
+277,Santos - SP,Dodi,Nonato
+278,Coritiba S.a.f. - PR,Matheus,Andrey
+278,Coritiba S.a.f. - PR,Samaris,Bruno Gomes
+278,Coritiba S.a.f. - PR,Sebastian Gomez,Fransergio
+278,Coritiba S.a.f. - PR,Slimani,Jesé Rodriguez
+278,Coritiba S.a.f. - PR,Robson,MAURICIO
+278,Palmeiras - SP,Lopez,Rony
+278,Palmeiras - SP,Raphael Veiga,Artur
+278,Palmeiras - SP,Breno,Kevin
+278,Palmeiras - SP,Mayke,Marcos Rocha
+278,Palmeiras - SP,Ze Rafael,Fabinho
+279,Bahia - BA,Thaciano,Luciano Juba
+279,Bahia - BA,Cauly,Diego Rosa
+279,Bahia - BA,Everaldo,Ademir
+279,Bahia - BA,Camilo Cándido,Matheus Bahia
+279,Bahia - BA,Biel,Rafael Ratão
+279,Fortaleza - CE,Dudu,Guilherme
+279,Fortaleza - CE,Lucas Crispim,Calebe
+279,Fortaleza - CE,Pedro,Caio
+279,Fortaleza - CE,Guilherme Augusto,Machuca
+280,Cuiabá Saf - MT,RIKELME,Patric
+280,Cuiabá Saf - MT,Fernando,Ronald
+280,Cuiabá Saf - MT,Lucas,Denilson
+280,Cuiabá Saf - MT,DERIK,PITTA
+280,Cuiabá Saf - MT,Clayson,Wellington Silva
+280,Goiás - GO,Julian,Sander
+280,Goiás - GO,Allano,Vinicius
+280,Goiás - GO,Guilherme,Raphael Guzzo
+280,Goiás - GO,Higor,Vinicius
+280,Goiás - GO,Joao,Alesson
+281,Fluminense - RJ,German Cano,David Braz
+281,Fluminense - RJ,Marcelo,Diogo Barbosa
+281,Fluminense - RJ,Keno,Lelê
+281,Fluminense - RJ,PH GANSO,Alexsander
+281,Fluminense - RJ,Felipe Melo,Lima
+281,Goiás - GO,Willian Oliveira,Raphael Guzzo
+281,Goiás - GO,Hugo,Sander
+281,Goiás - GO,Morelli,Vinicius
+281,Goiás - GO,Guilherme,Higor
+281,Goiás - GO,Allano,Alesson
+282,Vasco da Gama S.a.f. - RJ,Zé Gabriel,Alex Teixeira
+282,Vasco da Gama S.a.f. - RJ,Praxedes,Jair
+282,Vasco da Gama S.a.f. - RJ,Payet,Erick Marcus
+282,Vasco da Gama S.a.f. - RJ,Paulo Henrique,Puma Rodriguez
+282,Internacional - RS,Valencia,Pedro
+282,Internacional - RS,Mauricio,Igor Gomes
+282,Internacional - RS,Alan Patrick,Bruno
+282,Internacional - RS,Aranguiz,Carlos de Pena
+282,Internacional - RS,BUSTOS,Nicolas Hernandez
+283,Palmeiras - SP,Endrick,Rony
+283,Palmeiras - SP,Richard Rios,Fabinho
+283,Palmeiras - SP,Mayke,Marcos Rocha
+283,Palmeiras - SP,Breno,Luis Guilherme
+283,Palmeiras - SP,Raphael Veiga,Artur
+283,São Paulo - SP,David,Luciano
+283,São Paulo - SP,Alisson,Nathan
+283,São Paulo - SP,Gabriel Neves,Rodrigo Nestor
+283,São Paulo - SP,James Rodriguez,Sebastian Mendez
+283,São Paulo - SP,Lucas,Wellington Rato
+284,Santos - SP,Marcos Leonardo,Rodrigo
+284,Santos - SP,Lucas,Joao
+284,Santos - SP,Lucas Lima,Maximiliano
+284,Santos - SP,Kevyson,Julio Furch
+284,Santos - SP,Yeferson Soteldo,Mendoza
+284,Coritiba S.a.f. - PR,Natanael Milouski,Hayner
+284,Coritiba S.a.f. - PR,Matheus,MAURICIO
+284,Coritiba S.a.f. - PR,Robson,Reynaldo
+284,Coritiba S.a.f. - PR,Slimani,Bruno Gomes
+284,Coritiba S.a.f. - PR,Marcelino Moreno,Fransergio
+285,Red Bull Bragantino - SP,Eduardo Sasha,Talisson
+285,Red Bull Bragantino - SP,Vitinho,Henry Mosquera
+285,Red Bull Bragantino - SP,Luan Candido,Thiago Borbas
+285,Red Bull Bragantino - SP,Aderlan,Helinho
+285,Red Bull Bragantino - SP,Matheus Gonçalves,Andres Hurtado
+285,Atlético Mineiro - MG,Bruno Fuchs,Igor
+285,Atlético Mineiro - MG,Paulinho,Rever
+285,Atlético Mineiro - MG,Rubens,Igor Gomes
+286,Cruzeiro Saf - MG,Matheus Pereira,Fernando
+286,Cruzeiro Saf - MG,Arthur Gomes,Wesley Ribeiro Silva
+286,Cruzeiro Saf - MG,Lucas Silva,Nikao
+286,Cruzeiro Saf - MG,Filipe Machado,Ian
+286,Bahia - BA,Yago Felipe,Acevedo
+286,Bahia - BA,Biel,Ademir
+286,Bahia - BA,Thaciano,Mugni
+286,Bahia - BA,Cauly,Rafael Ratão
+286,Bahia - BA,Camilo Cándido,Matheus Bahia
+287,Grêmio - RS,Kannemann,Cristaldo
+287,Grêmio - RS,Galdino,Nathan
+287,Grêmio - RS,Joao Pedro,Andre
+287,Grêmio - RS,Besozzi,Ferreira
+287,Flamengo - RJ,Pablo,Luiz
+287,Flamengo - RJ,Erick Pulgar,Éverton Ribeiro
+287,Flamengo - RJ,Everton,Bruno Henrique
+287,Flamengo - RJ,Pedro,Gabriel Barbosa
+287,Flamengo - RJ,De Arrascaeta,Matheuzinho
+288,Athletico Paranaense - PR,Thiago Heleno,Kaique
+288,Athletico Paranaense - PR,Vitor Bueno,Romulo
+288,Athletico Paranaense - PR,Zapelli,Willian
+288,Athletico Paranaense - PR,Erick,Alex Santana
+288,Athletico Paranaense - PR,Fernandinho,Hugo Moura
+288,America Saf - MG,Marlon,Nicolas
+288,America Saf - MG,Danilo,Mateus
+288,America Saf - MG,Felipe Azevedo,Ale
+288,America Saf - MG,Rodrigo,Renato Kayzer
+288,America Saf - MG,Martin Benitez,Cazares
+290,Cuiabá Saf - MT,Clayson,DERIK
+290,Cuiabá Saf - MT,Fernando,Ronald
+290,Cuiabá Saf - MT,PITTA,Wellington Silva
+290,Cuiabá Saf - MT,Lucas,Denilson
+290,Cuiabá Saf - MT,RIKELME,Patric
+290,Corinthians - SP,Renato Augusto,Matias Rojas
+290,Corinthians - SP,Maycon,Roni
+290,Corinthians - SP,Fausto,Moscardo
+290,Corinthians - SP,Giuliano,Fagner
+290,Corinthians - SP,Angel Romero,RUAN
