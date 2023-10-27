@@ -26,7 +26,9 @@ def grab_url(numero):
 		data.extend([
 			(   numero,
 				mand if col_i % 2 == 0 else vist,
-				n.string, n.next_sibling.next_sibling.a['href']
+				n.string,
+				n.next_sibling.next_sibling.a.string
+				n.next_sibling.next_sibling.a['href']
 			)
 			for n in numbers
 		])
@@ -41,7 +43,7 @@ for j in range(10):
 		print(row)
 		
 
-	df = pd.DataFrame(data=pd_rows, columns=['NPartida','Time','Camisa','href'])
+	df = pd.DataFrame(data=pd_rows, columns=['NPartida','Time','Camisa','Apelido', 'href'])
 	df.to_csv(f"relac/relacionado{j}.csv", index=False)
 
 """
