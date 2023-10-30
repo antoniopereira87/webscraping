@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 pd_rows = []
-
+"""
 def grab_url(numero):
 	try:
 		req = requests.get(f'https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2023/{numero}#escalacao')
@@ -27,7 +27,7 @@ def grab_url(numero):
 			(   numero,
 				mand if col_i % 2 == 0 else vist,
 				n.string,
-				n.next_sibling.next_sibling.a.string
+				n.next_sibling.next_sibling.a.string,
 				n.next_sibling.next_sibling.a['href']
 			)
 			for n in numbers
@@ -46,11 +46,12 @@ for j in range(10):
 	df = pd.DataFrame(data=pd_rows, columns=['NPartida','Time','Camisa','Apelido', 'href'])
 	df.to_csv(f"relac/relacionado{j}.csv", index=False)
 
-"""
 Associar apelido jogador com id
+"""
 
 jogadores = pd.read_csv('jogadores2.csv')
-relac = pd.read_csv('relac/relacionado9.csv.csv')
+relac = pd.read_csv('relac/relacionado9.csv')
+jogadores["id"] = jogadores.index
 relac_j = relac.rename(columns={'Time': 'Clube'}).merge(jogadores, how='left')[['NPartida', 'id']].rename(columns={'id': 'Jogador'})
+print(relac_j.columns)
 relac_j.to_csv('relacionados2.csv', index=False)
-"""
